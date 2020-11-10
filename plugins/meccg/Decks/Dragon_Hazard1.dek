@@ -1,0 +1,37 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Scorba">Scorba</name><set>Dragons</set></card>
+		<card><name id="Smaug">Smaug</name><set>Wizards</set></card>
+		<card><name id="DaelominatHome">Daelomin at Home</name><set>Dragons</set></card>
+		<card><name id="Daelomin">Daelomin</name><set>Wizards</set></card>
+		<card><name id="ItangastatHome">Itangast at Home</name><set>Dragons</set></card>
+		<card><name id="ScorbaAhunt">Scorba Ahunt</name><set>Dragons</set></card>
+		<card><name id="Earcaraxe">Earcaraxe</name><set>Dragons</set></card>
+		<card><name id="EarcaraxeAhunt">Earcaraxe Ahunt</name><set>Dragons</set></card>
+		<card><name id="BairanaxatHome">Bairanax at Home</name><set>Dragons</set></card>
+		<card><name id="SmaugAhunt">Smaug Ahunt</name><set>Dragons</set></card>
+		<card><name id="Agburanar">Agburanar</name><set>Wizards</set></card>
+		<card><name id="Scatha">Scatha</name><set>Dragons</set></card>
+		<card><name id="BairanaxAhunt">Bairanax Ahunt</name><set>Dragons</set></card>
+		<card><name id="Leucaruth">Leucaruth</name><set>Wizards</set></card>
+		<card><name id="ScathaAhunt">Scatha Ahunt</name><set>Dragons</set></card>
+		<card><name id="NaturesRevenge">Nature&apos;s Revenge</name><set>WhiteHand</set></card>
+		<card><name id="NaturesRevenge">Nature&apos;s Revenge</name><set>WhiteHand</set></card>
+		<card><name id="AnUnexpectedOutpost">An Unexpected Outpost</name><set>DarkMinions</set></card>
+		<card><name id="AnUnexpectedOutpost">An Unexpected Outpost</name><set>DarkMinions</set></card>
+		<card><name id="ProwessofAge">Prowess of Age</name><set>Dragons</set></card>
+		<card><name id="ProwessofAge">Prowess of Age</name><set>Dragons</set></card>
+		<card><name id="DragonsDesolation">Dragon&apos;s Desolation</name><set>Wizards</set></card>
+		<card><name id="DragonsDesolation">Dragon&apos;s Desolation</name><set>Wizards</set></card>
+		<card><name id="DragonsDesolation">Dragon&apos;s Desolation</name><set>Wizards</set></card>
+		<card><name id="Twilight2">Twilight *</name><set>LidlessEye</set></card>
+		<card><name id="Twilight2">Twilight *</name><set>LidlessEye</set></card>
+		<card><name id="Twilight2">Twilight *</name><set>LidlessEye</set></card>
+		<card><name id="DoorsofNight2">Doors of Night *</name><set>LidlessEye</set></card>
+		<card><name id="DoorsofNight2">Doors of Night *</name><set>LidlessEye</set></card>
+		<card><name id="DoorsofNight2">Doors of Night *</name><set>LidlessEye</set></card>
+	</superzone>
+</deck>

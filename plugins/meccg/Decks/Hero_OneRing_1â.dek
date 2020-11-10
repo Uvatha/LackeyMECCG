@@ -1,0 +1,43 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="ShowThingsUnbidden">Show Things Unbidden</name><set>Balrog</set></card>
+		<card><name id="ShowThingsUnbidden">Show Things Unbidden</name><set>Balrog</set></card>
+		<card><name id="ShowThingsUnbidden">Show Things Unbidden</name><set>Balrog</set></card>
+		<card><name id="Concealment">Concealment</name><set>Wizards</set></card>
+		<card><name id="Concealment">Concealment</name><set>Wizards</set></card>
+		<card><name id="Concealment">Concealment</name><set>Wizards</set></card>
+		<card><name id="Stealth">Stealth</name><set>Wizards</set></card>
+		<card><name id="Stealth">Stealth</name><set>Wizards</set></card>
+		<card><name id="Stealth">Stealth</name><set>Wizards</set></card>
+		<card><name id="Farsight">Far-sight</name><set>Wizards</set></card>
+		<card><name id="Farsight">Far-sight</name><set>Wizards</set></card>
+		<card><name id="Farsight">Far-sight</name><set>Wizards</set></card>
+		<card><name id="HalflingStrength">Halfling Strength</name><set>Wizards</set></card>
+		<card><name id="HalflingStrength">Halfling Strength</name><set>Wizards</set></card>
+		<card><name id="HalflingStrength">Halfling Strength</name><set>Wizards</set></card>
+		<card><name id="HalflingStealth">Halfling Stealth</name><set>Wizards</set></card>
+		<card><name id="HalflingStealth">Halfling Stealth</name><set>Wizards</set></card>
+		<card><name id="HalflingStealth">Halfling Stealth</name><set>Wizards</set></card>
+		<card><name id="Fog">Fog</name><set>Wizards</set></card>
+		<card><name id="Fog">Fog</name><set>Wizards</set></card>
+		<card><name id="Fog">Fog</name><set>Wizards</set></card>
+		<card><name id="FifteenBirdsinFiveFirtrees">Fifteen Birds in Five Firtrees</name><set>DarkMinions</set></card>
+		<card><name id="FifteenBirdsinFiveFirtrees">Fifteen Birds in Five Firtrees</name><set>DarkMinions</set></card>
+		<card><name id="FifteenBirdsinFiveFirtrees">Fifteen Birds in Five Firtrees</name><set>DarkMinions</set></card>
+		<card><name id="ManyTurnsandDoublings">Many Turns and Doublings</name><set>Dragons</set></card>
+		<card><name id="ManyTurnsandDoublings">Many Turns and Doublings</name><set>Dragons</set></card>
+		<card><name id="ManyTurnsandDoublings">Many Turns and Doublings</name><set>Dragons</set></card>
+		<card><name id="TheOneRing">The One Ring</name><set>Wizards</set></card>
+		<card><name id="PreciousGoldRing">Precious Gold Ring</name><set>Wizards</set></card>
+		<card><name id="PreciousGoldRing">Precious Gold Ring</name><set>Wizards</set></card>
+		<card><name id="PreciousGoldRing">Precious Gold Ring</name><set>Wizards</set></card>
+		<card><name id="ScrollofIsildur">Scroll of Isildur</name><set>Wizards</set></card>
+		<card><name id="PhialofGaladriel">Phial of Galadriel</name><set>DarkMinions</set></card>
+		<card><name id="GatesofMorning">Gates of Morning</name><set>Wizards</set></card>
+		<card><name id="GatesofMorning">Gates of Morning</name><set>Wizards</set></card>
+		<card><name id="GatesofMorning">Gates of Morning</name><set>Wizards</set></card>
+	</superzone>
+</deck>

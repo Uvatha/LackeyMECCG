@@ -1,0 +1,79 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Ringlore">Ringlore</name><set>Wizards</set></card>
+		<card><name id="Ringlore">Ringlore</name><set>Wizards</set></card>
+		<card><name id="Ringlore">Ringlore</name><set>Wizards</set></card>
+		<card><name id="KnowledgeoftheEnemy">Knowledge of the Enemy</name><set>DarkMinions</set></card>
+		<card><name id="KnowledgeoftheEnemy">Knowledge of the Enemy</name><set>DarkMinions</set></card>
+		<card><name id="KnowledgeoftheEnemy">Knowledge of the Enemy</name><set>DarkMinions</set></card>
+		<card><name id="DarkNumbers">Dark Numbers</name><set>DarkMinions</set></card>
+		<card><name id="DarkNumbers">Dark Numbers</name><set>DarkMinions</set></card>
+		<card><name id="DarkNumbers">Dark Numbers</name><set>DarkMinions</set></card>
+		<card><name id="ForgottenScrolls">Forgotten Scrolls</name><set>DarkMinions</set></card>
+		<card><name id="ForgottenScrolls">Forgotten Scrolls</name><set>DarkMinions</set></card>
+		<card><name id="ForgottenScrolls">Forgotten Scrolls</name><set>DarkMinions</set></card>
+		<card><name id="IntotheSmokingCone">Into the Smoking Cone</name><set>DarkMinions</set></card>
+		<card><name id="LostTome">Lost Tome</name><set>DarkMinions</set></card>
+		<card><name id="LostTome">Lost Tome</name><set>DarkMinions</set></card>
+		<card><name id="LostTome">Lost Tome</name><set>DarkMinions</set></card>
+		<card><name id="MemoriesRecalled">Memories Recalled</name><set>DarkMinions</set></card>
+		<card><name id="PasstheDoorsofDolGuldur">Pass the Doors of Dol Guldur</name><set>DarkMinions</set></card>
+		<card><name id="TheUndergalleries">The Under-galleries</name><set>DarkMinions</set></card>
+		<card><name id="LookMoreCloselyLater">Look More Closely Later</name><set>Dragons</set></card>
+		<card><name id="LookMoreCloselyLater">Look More Closely Later</name><set>Dragons</set></card>
+		<card><name id="APanoplyofWings">A Panoply of Wings</name><set>WhiteHand</set></card>
+		<card><name id="BookofMazarbul">Book of Mazarbul</name><set>Wizards</set></card>
+		<card><name id="Alatar">Alatar</name><set>Wizards</set></card>
+		<card><name id="Alatar">Alatar</name><set>Wizards</set></card>
+		<card><name id="Alatar">Alatar</name><set>Wizards</set></card>
+		<card><name id="SacrificeofForm">Sacrifice of Form</name><set>Wizards</set></card>
+		<card><name id="SacrificeofForm">Sacrifice of Form</name><set>Wizards</set></card>
+		<card><name id="TheWhiteWizard">The White Wizard</name><set>WhiteHand</set></card>
+		<card><name id="TheWhiteTree">The White Tree</name><set>Wizards</set></card>
+		<card><name id="SaplingoftheWhiteTree">Sapling of the White Tree</name><set>Wizards</set></card>
+		<card><name id="Treebeard">Treebeard</name><set>Wizards</set></card>
+		<card><name id="Pallando">Pallando</name><set>Wizards</set></card>
+		<card><name id="Pallando">Pallando</name><set>Wizards</set></card>
+		<card><name id="Pallando">Pallando</name><set>Wizards</set></card>
+		<card><name id="VeinofArda">Vein of Arda</name><set>DarkMinions</set></card>
+		<card><name id="VeinofArda">Vein of Arda</name><set>DarkMinions</set></card>
+		<card><name id="VeinofArda">Vein of Arda</name><set>DarkMinions</set></card>
+		<card><name id="Mithril">Mithril</name><set>DarkMinions</set></card>
+		<card><name id="TotheUttermostFoundations">To the Uttermost Foundations</name><set>DarkMinions</set></card>
+		<card><name id="SafefromtheShadow">Safe from the Shadow</name><set>AgainstShadow</set></card>
+		<card><name id="DwarvenLightstone">Dwarven Light-stone</name><set>DarkMinions</set></card>
+		<card><name id="DwarvenLightstone">Dwarven Light-stone</name><set>DarkMinions</set></card>
+		<card><name id="DwarvenLightstone">Dwarven Light-stone</name><set>DarkMinions</set></card>
+		<card><name id="Noldolantern">Noldo-lantern</name><set>DarkMinions</set></card>
+		<card><name id="Noldolantern">Noldo-lantern</name><set>DarkMinions</set></card>
+		<card><name id="Noldolantern">Noldo-lantern</name><set>DarkMinions</set></card>
+		<card><name id="AndForthHeHastened">And Forth He Hastened</name><set>Dragons</set></card>
+		<card><name id="AndForthHeHastened">And Forth He Hastened</name><set>Dragons</set></card>
+		<card><name id="AndForthHeHastened">And Forth He Hastened</name><set>Dragons</set></card>
+		<card><name id="HundredsofButterflies">Hundreds of Butterflies</name><set>DarkMinions</set></card>
+		<card><name id="HundredsofButterflies">Hundreds of Butterflies</name><set>DarkMinions</set></card>
+		<card><name id="HundredsofButterflies">Hundreds of Butterflies</name><set>DarkMinions</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="Annalena">Annalena</name><set>Wizards</set></card>
+		<card><name id="Balin">Balin</name><set>Wizards</set></card>
+		<card><name id="Bilbo">Bilbo</name><set>Wizards</set></card>
+		<card><name id="Celeborn">Celeborn</name><set>Wizards</set></card>
+		<card><name id="Cirdan">Cirdan</name><set>Wizards</set></card>
+		<card><name id="Elrond">Elrond</name><set>Wizards</set></card>
+		<card><name id="Galadriel">Galadriel</name><set>Wizards</set></card>
+		<card><name id="GlorfindelII">Glorfindel II</name><set>Wizards</set></card>
+		<card><name id="Wacho">Wacho</name><set>Wizards</set></card>
+		<card><name id="RumoursofRings">Rumours of Rings</name><set>Balrog</set></card>
+		<card><name id="ThrainII">Thráin II</name><set>Dragons</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="DwarvenRingofDurinsTribe">Dwarven Ring of Durin&apos;s Tribe</name><set>Wizards</set></card>
+		<card><name id="DwarvenRingofThelorsTribe">Dwarven Ring of Thelor&apos;s Tribe</name><set>Wizards</set></card>
+		<card><name id="DwarvenRingofBarinsTribe">Dwarven Ring of Barin&apos;s Tribe</name><set>Wizards</set></card>
+		<card><name id="DwarvenRingofBavorsTribe">Dwarven Ring of Bavor&apos;s Tribe</name><set>Wizards</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,36 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="RankuponRank">Rank upon Rank</name><set>DarkMinions</set></card>
+		<card><name id="RankuponRank">Rank upon Rank</name><set>DarkMinions</set></card>
+		<card><name id="RankuponRank">Rank upon Rank</name><set>DarkMinions</set></card>
+		<card><name id="Assassin">Assassin</name><set>Wizards</set></card>
+		<card><name id="Assassin">Assassin</name><set>Wizards</set></card>
+		<card><name id="Assassin">Assassin</name><set>Wizards</set></card>
+		<card><name id="Ambusher">Ambusher</name><set>Wizards</set></card>
+		<card><name id="Ambusher">Ambusher</name><set>Wizards</set></card>
+		<card><name id="Ambusher">Ambusher</name><set>Wizards</set></card>
+		<card><name id="Abductor">Abductor</name><set>Wizards</set></card>
+		<card><name id="Abductor">Abductor</name><set>Wizards</set></card>
+		<card><name id="Abductor">Abductor</name><set>Wizards</set></card>
+		<card><name id="Twilight">Twilight</name><set>Wizards</set></card>
+		<card><name id="Twilight">Twilight</name><set>Wizards</set></card>
+		<card><name id="Twilight">Twilight</name><set>Wizards</set></card>
+		<card><name id="MouthofSauron">Mouth of Sauron</name><set>Wizards</set></card>
+		<card><name id="SellswordsBetweenCharters">Sellswords Between Charters</name><set>LidlessEye</set></card>
+		<card><name id="SellswordsBetweenCharters">Sellswords Between Charters</name><set>LidlessEye</set></card>
+		<card><name id="SellswordsBetweenCharters">Sellswords Between Charters</name><set>LidlessEye</set></card>
+		<card><name id="Pickpocket">Pick-pocket</name><set>Wizards</set></card>
+		<card><name id="Pickpocket">Pick-pocket</name><set>Wizards</set></card>
+		<card><name id="Pickpocket">Pick-pocket</name><set>Wizards</set></card>
+		<card><name id="UvathatheHorseman">Uvatha the Horseman</name><set>Wizards</set></card>
+		<card><name id="Thief">Thief</name><set>Wizards</set></card>
+		<card><name id="Thief">Thief</name><set>Wizards</set></card>
+		<card><name id="Thief">Thief</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="CorsairsofUmbar">Corsairs of Umbar</name><set>Wizards</set></card>
+	</superzone>
+</deck>

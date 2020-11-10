@@ -1,0 +1,55 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="TokenofGoodwill">Token of Goodwill</name><set>DarkMinions</set></card>
+		<card><name id="TokenofGoodwill">Token of Goodwill</name><set>DarkMinions</set></card>
+		<card><name id="TokenofGoodwill">Token of Goodwill</name><set>DarkMinions</set></card>
+		<card><name id="AChanceMeeting">A Chance Meeting</name><set>Wizards</set></card>
+		<card><name id="WeHaveCometoKill">We Have Come to Kill</name><set>LidlessEye</set></card>
+		<card><name id="WeHaveCometoKill">We Have Come to Kill</name><set>LidlessEye</set></card>
+		<card><name id="TheOneRing">The One Ring</name><set>Wizards</set></card>
+		<card><name id="Farsight">Far-sight</name><set>Wizards</set></card>
+		<card><name id="Farsight">Far-sight</name><set>Wizards</set></card>
+		<card><name id="Farsight">Far-sight</name><set>Wizards</set></card>
+		<card><name id="PreciousGoldRing">Precious Gold Ring</name><set>Wizards</set></card>
+		<card><name id="PreciousGoldRing">Precious Gold Ring</name><set>Wizards</set></card>
+		<card><name id="PreciousGoldRing">Precious Gold Ring</name><set>Wizards</set></card>
+		<card><name id="ScrollofIsildur">Scroll of Isildur</name><set>Wizards</set></card>
+		<card><name id="WizardsTest">Wizard&apos;s Test</name><set>Wizards</set></card>
+		<card><name id="WizardsTest">Wizard&apos;s Test</name><set>Wizards</set></card>
+		<card><name id="WizardsTest">Wizard&apos;s Test</name><set>Wizards</set></card>
+		<card><name id="ThreeGoldenHairs">Three Golden Hairs</name><set>Dragons</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="IllBeAtYourHeels">I&apos;ll Be At Your Heels</name><set>LidlessEye</set></card>
+		<card><name id="Fosterhome of Royal Heirs">Fosterhome of Royal Heirs</name><set>Firstborn</set></card>
+		<card><name id="Long-time Visitor">Long-time Visitor</name><set>Firstborn</set></card>
+		<card><name id="Trusted Counselor">Trusted Counselor</name><set>Firstborn</set></card>
+		<card><name id="VoicesofMalice">Voices of Malice</name><set>LidlessEye</set></card>
+		<card><name id="Order of Jewel and Ring-smiths">Order of Jewel and Ring-smiths</name><set>Firstborn</set></card>
+		<card><name id="Greatroad">Great-road</name><set>Wizards</set></card>
+		<card><name id="Ironroad">Iron-road</name><set>LidlessEye</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="Elrond Half-elven">Elrond Half-elven</name><set>Firstborn</set></card>
+		<card><name id="Bladorthin">Bladorthin</name><set>Firstborn</set></card>
+	</superzone>
+	<superzone name="Location Deck">
+		<card><name id="Galadriel">Galadriel</name><set>Wizards</set></card>
+		<card><name id="Erestor">Erestor</name><set>Firstborn</set></card>
+		<card><name id="Cirdan">Cirdan</name><set>Wizards</set></card>
+		<card><name id="Strider">Strider</name><set>Balrog</set></card>
+		<card><name id="GlorfindelII">Glorfindel II</name><set>Wizards</set></card>
+		<card><name id="Elven Handmaid">Elven Handmaid</name><set>Firstborn</set></card>
+		<card><name id="Elven Handmaid">Elven Handmaid</name><set>Firstborn</set></card>
+		<card><name id="Elven Handmaid">Elven Handmaid</name><set>Firstborn</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="Against All Counsel">Against All Counsel</name><set>Firstborn</set></card>
+		<card><name id="Against All Counsel">Against All Counsel</name><set>Firstborn</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="Gwaith-I-Mirdain">Gwaith-I-Mirdain</name><set>Firstborn</set></card>
+	</superzone>
+</deck>

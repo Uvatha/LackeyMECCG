@@ -1,0 +1,35 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="TheyRideTogether">They Ride Together</name><set>LidlessEye</set></card>
+		<card><name id="The Ulairi Arose.jpg">The Ulairi Arose</name><set>Necromancer</set></card>
+		<card><name id="The Ulairi Arose.jpg">The Ulairi Arose</name><set>Necromancer</set></card>
+		<card><name id="Weapons of Morgul.jpg">Weapons of Morgul</name><set>Necromancer</set></card>
+		<card><name id="TheWitchking">The Witch-king</name><set>LidlessEye</set></card>
+		<card><name id="UvathatheRingwraith">Uvatha the Ringwraith</name><set>LidlessEye</set></card>
+		<card><name id="The Morgullord.jpg">The Morgul-lord</name><set>Necromancer</set></card>
+		<card><name id="TheFieryBlade">The Fiery Blade</name><set>WhiteHand</set></card>
+		<card><name id="Ringdrawn.jpg">Ring-drawn</name><set>Necromancer</set></card>
+		<card><name id="Passed into Shadows.jpg">Passed into Shadows</name><set>Necromancer</set></card>
+		<card><name id="Palantir of Minas Ithil">Palantir of Minas Ithil</name><set>War of the Ring</set></card>
+		<card><name id="Overlord of Minas Morgul.jpg">Overlord of Minas Morgul</name><set>Necromancer</set></card>
+		<card><name id="Nursed with Fell Meats.jpg">Nursed with Fell Meats</name><set>Necromancer</set></card>
+		<card><name id="Morgulblade">Morgul-blade</name><set>LidlessEye</set></card>
+		<card><name id="Mockery.jpg">Mockery</name><set>Necromancer</set></card>
+		<card><name id="MessengerofMordor">Messenger of Mordor</name><set>LidlessEye</set></card>
+		<card><name id="KhamultheRingwraith">Khamul the Ringwraith</name><set>LidlessEye</set></card>
+		<card><name id="Hionvor of Womawas Drus.jpg">Hionvor of Womawas Drus</name><set>Necromancer</set></card>
+		<card><name id="HelmofFear">Helm of Fear</name><set>AgainstShadow</set></card>
+		<card><name id="DwarUnleashed">Dwar Unleashed</name><set>LidlessEye</set></card>
+		<card><name id="Dawnless Day.jpg">Dawnless Day</name><set>Necromancer</set></card>
+		<card><name id="CreatureofanOlderWorld">Creature of an Older World</name><set>AgainstShadow</set></card>
+		<card><name id="Creating Their Domain.jpg">Creating Their Domain</name><set>Necromancer</set></card>
+		<card><name id="Black Steed.jpg">Black Steed</name><set>Necromancer</set></card>
+		<card><name id="BlackRider">Black Rider</name><set>LidlessEye</set></card>
+		<card><name id="BlackHorse">Black Horse</name><set>AgainstShadow</set></card>
+		<card><name id="AkhorahiltheRingwraith">Akhorahil the Ringwraith</name><set>LidlessEye</set></card>
+		<card><name id="A Worthy Substitute.jpg">A Worthy Substitute</name><set>Necromancer</set></card>
+	</superzone>
+</deck>

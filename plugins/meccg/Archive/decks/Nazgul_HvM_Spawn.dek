@@ -1,0 +1,49 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="DaelominatHome">Daelomin at Home</name><set>Dragons</set></card>
+		<card><name id="MouthofSauron">Mouth of Sauron</name><set>Wizards</set></card>
+		<card><name id="Adunaphel">Adunaphel</name><set>Wizards</set></card>
+		<card><name id="RevealedtoallWatchers">Revealed to all Watchers</name><set>DarkMinions</set></card>
+		<card><name id="AnUnexpectedOutpost">An Unexpected Outpost</name><set>DarkMinions</set></card>
+		<card><name id="Twilight">Twilight</name><set>Wizards</set></card>
+		<card><name id="Twilight">Twilight</name><set>Wizards</set></card>
+		<card><name id="Twilight">Twilight</name><set>Wizards</set></card>
+		<card><name id="Akhorahil">Akhorahil</name><set>Wizards</set></card>
+		<card><name id="DwarofWaw">Dwar of Waw</name><set>Wizards</set></card>
+		<card><name id="HoarmurathofDir">Hoarmurath of Dir</name><set>Wizards</set></card>
+		<card><name id="IndurDawndeath">Indur Dawndeath</name><set>Wizards</set></card>
+		<card><name id="KhamultheEasterling">Khamul the Easterling</name><set>Wizards</set></card>
+		<card><name id="RentheUnclean">Ren the Unclean</name><set>Wizards</set></card>
+		<card><name id="UvathatheHorseman">Uvatha the Horseman</name><set>Wizards</set></card>
+		<card><name id="WitchkingofAngmar">Witch-king of Angmar</name><set>Wizards</set></card>
+		<card><name id="TheNazgulareAbroad">The Nazgul are Abroad</name><set>Wizards</set></card>
+		<card><name id="TheNazgulareAbroad">The Nazgul are Abroad</name><set>Wizards</set></card>
+		<card><name id="Baduila">Baduila</name><set>DarkMinions</set></card>
+		<card><name id="Morgulhorse">Morgul-horse</name><set>Wizards</set></card>
+		<card><name id="Morgulhorse">Morgul-horse</name><set>Wizards</set></card>
+		<card><name id="GandalftheWhiteRider">Gandalf the White Rider</name><set>AgainstShadow</set></card>
+		<card><name id="LadyoftheGoldenWood">Lady of the Golden Wood</name><set>AgainstShadow</set></card>
+		<card><name id="PowerBuiltbyWaiting">Power Built by Waiting</name><set>AgainstShadow</set></card>
+		<card><name id="PowerBuiltbyWaiting">Power Built by Waiting</name><set>AgainstShadow</set></card>
+		<card><name id="BalrogofMoria">Balrog of Moria</name><set>Wizards</set></card>
+		<card><name id="MonstrosityofDiverseShape">Monstrosity of Diverse Shape</name><set>Balrog</set></card>
+		<card><name id="Shelob">Shelob</name><set>Wizards</set></card>
+		<card><name id="SpawnofUngoliant">Spawn of Ungoliant</name><set>Balrog</set></card>
+		<card><name id="SpideroftheMorlat">Spider of the Morlat</name><set>DarkMinions</set></card>
+		<card><name id="UngoliantsFoulIssue">Ungoliant&apos;s Foul Issue</name><set>Balrog</set></card>
+		<card><name id="UngoliantsProgeny">Ungoliant&apos;s Progeny</name><set>Balrog</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="LostinFreedomains">Lost in Free-domains</name><set>Wizards</set></card>
+		<card><name id="CallofHome">Call of Home</name><set>Wizards</set></card>
+		<card><name id="RolleddowntotheSea">Rolled down to the Sea</name><set>WhiteHand</set></card>
+		<card><name id="MusterDisperses">Muster Disperses</name><set>Wizards</set></card>
+		<card><name id="LostatSea">Lost at Sea</name><set>Wizards</set></card>
+		<card><name id="ItangastAhunt">Itangast Ahunt</name><set>Dragons</set></card>
+		<card><name id="TheWayisShut">The Way is Shut</name><set>DarkMinions</set></card>
+		<card><name id="PilferAnythingUnwatched">Pilfer Anything Unwatched</name><set>AgainstShadow</set></card>
+	</superzone>
+</deck>

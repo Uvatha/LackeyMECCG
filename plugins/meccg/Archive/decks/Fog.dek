@@ -1,0 +1,19 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Fog">Fog</name><set>Wizards</set></card>
+		<card><name id="Fog">Fog</name><set>Wizards</set></card>
+		<card><name id="Fog">Fog</name><set>Wizards</set></card>
+		<card><name id="Moon">Moon</name><set>Wizards</set></card>
+		<card><name id="Moon">Moon</name><set>Wizards</set></card>
+		<card><name id="Moon">Moon</name><set>Wizards</set></card>
+		<card><name id="QuietLands">Quiet Lands</name><set>Wizards</set></card>
+		<card><name id="QuietLands">Quiet Lands</name><set>Wizards</set></card>
+		<card><name id="QuietLands">Quiet Lands</name><set>Wizards</set></card>
+		<card><name id="Stars">Stars</name><set>Wizards</set></card>
+		<card><name id="Stars">Stars</name><set>Wizards</set></card>
+		<card><name id="Stars">Stars</name><set>Wizards</set></card>
+	</superzone>
+</deck>

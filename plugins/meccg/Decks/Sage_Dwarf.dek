@@ -1,0 +1,63 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="AChanceMeeting">A Chance Meeting</name><set>Wizards</set></card>
+		<card><name id="AChanceMeeting">A Chance Meeting</name><set>Wizards</set></card>
+		<card><name id="AChanceMeeting">A Chance Meeting</name><set>Wizards</set></card>
+		<card><name id="LookMoreCloselyLater">Look More Closely Later</name><set>Dragons</set></card>
+		<card><name id="Ringlore">Ringlore</name><set>Wizards</set></card>
+		<card><name id="Ringlore">Ringlore</name><set>Wizards</set></card>
+		<card><name id="Ringlore">Ringlore</name><set>Wizards</set></card>
+		<card><name id="Dragonlore">Dragon-lore</name><set>Dragons</set></card>
+		<card><name id="Dragonlore">Dragon-lore</name><set>Dragons</set></card>
+		<card><name id="Dragonlore">Dragon-lore</name><set>Dragons</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="FavoroftheValar">Favor of the Valar</name><set>Wizards</set></card>
+		<card><name id="AndForthHeHastened">And Forth He Hastened</name><set>Dragons</set></card>
+		<card><name id="AndForthHeHastened">And Forth He Hastened</name><set>Dragons</set></card>
+		<card><name id="PreciousGoldRing">Precious Gold Ring</name><set>Wizards</set></card>
+		<card><name id="PreciousGoldRing">Precious Gold Ring</name><set>Wizards</set></card>
+		<card><name id="PreciousGoldRing">Precious Gold Ring</name><set>Wizards</set></card>
+		<card><name id="AFriendorThree">A Friend or Three</name><set>Wizards</set></card>
+		<card><name id="AFriendorThree">A Friend or Three</name><set>Wizards</set></card>
+		<card><name id="AFriendorThree">A Friend or Three</name><set>Wizards</set></card>
+		<card><name id="SecretPassage">Secret Passage</name><set>Wizards</set></card>
+		<card><name id="SecretPassage">Secret Passage</name><set>Wizards</set></card>
+		<card><name id="SecretPassage">Secret Passage</name><set>Wizards</set></card>
+		<card><name id="FairGoldRing">Fair Gold Ring</name><set>Wizards</set></card>
+		<card><name id="FairGoldRing">Fair Gold Ring</name><set>Wizards</set></card>
+		<card><name id="LeafBrooch">Leaf Brooch</name><set>DarkMinions</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="ThrainII">Thrain II</name><set>Dragons</set></card>
+		<card><name id="Celeborn">Celeborn</name><set>Wizards</set></card>
+		<card><name id="Gloin">Gloin</name><set>Wizards</set></card>
+		<card><name id="Cram">Cram</name><set>Dragons</set></card>
+		<card><name id="RumoursofRings">Rumours of Rings</name><set>Balrog</set></card>
+	</superzone>
+	<superzone name="Location Deck">
+		<card><name id="Balin">Balin</name><set>Wizards</set></card>
+		<card><name id="GlorfindelII">Glorfindel II</name><set>Wizards</set></card>
+		<card><name id="Oin">Oin</name><set>Wizards</set></card>
+		<card><name id="Thranduil">Thranduil</name><set>Wizards</set></card>
+		<card><name id="FramFramson">Fram Framson</name><set>Dragons</set></card>
+		<card><name id="AragornII">Aragorn II</name><set>Wizards</set></card>
+		<card><name id="Arwen">Arwen</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="DwarvenRingofDurinsTribe">Dwarven Ring of Durin&apos;s Tribe</name><set>Wizards</set></card>
+		<card><name id="AFriendorThree">A Friend or Three</name><set>Wizards</set></card>
+		<card><name id="AFriendorThree">A Friend or Three</name><set>Wizards</set></card>
+		<card><name id="AFriendorThree">A Friend or Three</name><set>Wizards</set></card>
+		<card><name id="IronHillDwarves">Iron Hill Dwarves</name><set>Wizards</set></card>
+		<card><name id="Woodelves">Wood-elves</name><set>Wizards</set></card>
+		<card><name id="Galadriel">Galadriel</name><set>Wizards</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,27 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="LostinFreedomains">Lost in Free-domains</name><set>Wizards</set></card>
+		<card><name id="RolleddowntotheSea">Rolled down to the Sea</name><set>WhiteHand</set></card>
+		<card><name id="CallofHome">Call of Home</name><set>Wizards</set></card>
+		<card><name id="LostatSea">Lost at Sea</name><set>Wizards</set></card>
+		<card><name id="AloneandUnadvised">Alone and Unadvised</name><set>AgainstShadow</set></card>
+		<card><name id="SeizedbyTerror">Seized by Terror</name><set>DarkMinions</set></card>
+		<card><name id="Greed">Greed</name><set>Wizards</set></card>
+		<card><name id="ItangastAhunt">Itangast Ahunt</name><set>Dragons</set></card>
+		<card><name id="NoEscapefromMyMagic">No Escape from My Magic</name><set>Dragons</set></card>
+		<card><name id="NewsofDoom">News of Doom</name><set>LidlessEye</set></card>
+		<card><name id="BeorningSkinchangers">Beorning Skin-changers</name><set>Balrog</set></card>
+		<card><name id="StayHerAppetite">Stay Her Appetite</name><set>LidlessEye</set></card>
+		<card><name id="LureofNature">Lure of Nature</name><set>Wizards</set></card>
+		<card><name id="MordorinArms">Mordor in Arms</name><set>DarkMinions</set></card>
+		<card><name id="TheWayisShut">The Way is Shut</name><set>DarkMinions</set></card>
+		<card><name id="Pickpocket">Pick-pocket</name><set>Wizards</set></card>
+		<card><name id="SmaugAhunt">Smaug Ahunt</name><set>Dragons</set></card>
+		<card><name id="MusterDisperses">Muster Disperses</name><set>Wizards</set></card>
+		<card><name id="TheRovingEye">The Roving Eye</name><set>LidlessEye</set></card>
+		<card><name id="EarcaraxeAhunt">Earcaraxe Ahunt</name><set>Dragons</set></card>
+	</superzone>
+</deck>

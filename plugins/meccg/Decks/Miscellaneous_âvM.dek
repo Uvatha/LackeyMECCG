@@ -1,0 +1,10 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="WaitingShadow">Waiting Shadow</name><set>LidlessEye</set></card>
+		<card><name id="WholeVillagesRoused">Whole Villages Roused</name><set>WhiteHand</set></card>
+		<card><name id="RedoubledForce">Redoubled Force</name><set>DarkMinions</set></card>
+	</superzone>
+</deck>

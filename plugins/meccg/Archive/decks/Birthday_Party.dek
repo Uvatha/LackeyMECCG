@@ -1,0 +1,82 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Ancient Knowledge">Ancient Knowledge</name><set>Firstborn</set></card>
+		<card><name id="Ancient Knowledge">Ancient Knowledge</name><set>Firstborn</set></card>
+		<card><name id="Great Achievement">Great Achievement</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Great Achievement">Great Achievement</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Great Achievement">Great Achievement</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="LuckySearch">Lucky Search</name><set>Wizards</set></card>
+		<card><name id="LuckySearch">Lucky Search</name><set>Wizards</set></card>
+		<card><name id="LuckySearch">Lucky Search</name><set>Wizards</set></card>
+		<card><name id="GatesofMorning">Gates of Morning</name><set>Wizards</set></card>
+		<card><name id="GatesofMorning">Gates of Morning</name><set>Wizards</set></card>
+		<card><name id="GatesofMorning">Gates of Morning</name><set>Wizards</set></card>
+		<card><name id="StarofHighHope">Star of High Hope</name><set>Dragons</set></card>
+		<card><name id="StarofHighHope">Star of High Hope</name><set>Dragons</set></card>
+		<card><name id="StarofHighHope">Star of High Hope</name><set>Dragons</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="DarkTryst">Dark Tryst</name><set>AgainstShadow</set></card>
+		<card><name id="DarkTryst">Dark Tryst</name><set>AgainstShadow</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="TheEvenstar">The Evenstar</name><set>Wizards</set></card>
+		<card><name id="TheEvenstar">The Evenstar</name><set>Wizards</set></card>
+		<card><name id="TheEvenstar">The Evenstar</name><set>Wizards</set></card>
+		<card><name id="Warforges">War-forges</name><set>WhiteHand</set></card>
+		<card><name id="Possessions of the Green-elves">Possessions of the Green-elves</name><set>Firstborn</set></card>
+		<card><name id="ThralloftheVoice">Thrall of the Voice</name><set>WhiteHand</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="Lady of Many Gifts">Lady of Many Gifts</name><set>Firstborn</set></card>
+		<card><name id="Bladorthin">Bladorthin</name><set>Firstborn</set></card>
+		<card><name id="Towers Destroyed">Towers Destroyed</name><set>Firstborn</set></card>
+		<card><name id="Celeborn, Lord of Lorien">Celeborn, Lord of Lorien</name><set>Firstborn</set></card>
+		<card><name id="Trusted Counselor">Trusted Counselor</name><set>Firstborn</set></card>
+		<card><name id="HealingHerbs">Healing Herbs</name><set>Wizards</set></card>
+		<card><name id="ThralloftheVoice">Thrall of the Voice</name><set>WhiteHand</set></card>
+		<card><name id="Elven Handmaid">Elven Handmaid</name><set>Firstborn</set></card>
+		<card><name id="Elfstone">Elf-stone</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Location Deck">
+		<card><name id="Lady Galadriel">Lady Galadriel</name><set>Firstborn</set></card>
+		<card><name id="Lady Galadriel">Lady Galadriel</name><set>Firstborn</set></card>
+		<card><name id="Lady Galadriel">Lady Galadriel</name><set>Firstborn</set></card>
+		<card><name id="Fanar">Fanar</name><set>Firstborn</set></card>
+		<card><name id="Thranduil">Thranduil</name><set>Wizards</set></card>
+		<card><name id="GlorfindelII">Glorfindel II</name><set>Wizards</set></card>
+		<card><name id="Elrond">Elrond</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="TowerRaided">Tower Raided</name><set>AgainstShadow</set></card>
+		<card><name id="LeafBrooch">Leaf Brooch</name><set>DarkMinions</set></card>
+		<card><name id="PasstheDoorsofDolGuldur">Pass the Doors of Dol Guldur</name><set>DarkMinions</set></card>
+		<card><name id="Bow of Yew">Bow of Yew</name><set>Firstborn</set></card>
+		<card><name id="Bow of Yew">Bow of Yew</name><set>Firstborn</set></card>
+		<card><name id="Bow of Yew">Bow of Yew</name><set>Firstborn</set></card>
+		<card><name id="EmeraldoftheMariner">Emerald of the Mariner</name><set>Dragons</set></card>
+		<card><name id="Orcrist">Orcrist</name><set>Wizards</set></card>
+		<card><name id="Trusted Counselor">Trusted Counselor</name><set>Firstborn</set></card>
+		<card><name id="RescuePrisoners">Rescue Prisoners</name><set>Wizards</set></card>
+		<card><name id="SafefromtheShadow">Safe from the Shadow</name><set>AgainstShadow</set></card>
+		<card><name id="Quickbeam">Quickbeam</name><set>Wizards</set></card>
+		<card><name id="EnrunedShield">Enruned Shield</name><set>Dragons</set></card>
+		<card><name id="Waybread">Waybread</name><set>Dragons</set></card>
+		<card><name id="Waybread">Waybread</name><set>Dragons</set></card>
+		<card><name id="Chief-guardian">Chief-guardian</name><set>Firstborn</set></card>
+		<card><name id="LegacyofSmiths">Legacy of Smiths</name><set>WhiteHand</set></card>
+		<card><name id="PalantirofAmonSul">Palantir of Amon Sul</name><set>Wizards</set></card>
+		<card><name id="Aranruth">Aranruth</name><set>Firstborn</set></card>
+		<card><name id="Thranduil">Thranduil</name><set>Wizards</set></card>
+		<card><name id="GlorfindelII">Glorfindel II</name><set>Wizards</set></card>
+		<card><name id="CupofFarewell">Cup of Farewell</name><set>DarkMinions</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,4 @@
+Name	Set	Imagefile	Affiliation	Type	Cost	ConvertedCost	Offense	Defense	Mind	Body	Skills	Text
+Katar, the Remoresless	firstset	Katar_the_Remorseless	Dark	Character - Human - Fighter	3DD	5	3	1	4	2	(Hand Weapons)(Riding)(Mobile)	Double the Attack bonus to Katar provided by axes he wields.
+Axe of Delusion	firstset	Axe_of_Delusion	Dark	Item - Hand Weapon - Axe	1	1	2	1	2	1		Research: exert to draw a card.
+Faithful Steed	firstset	Faithful_Steed	Light	Item - Mount - Horse	L							

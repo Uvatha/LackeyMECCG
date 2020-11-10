@@ -1,0 +1,34 @@
+PACKVERSION:"1.0"
+
+Pack0Name:"First Set Booster"
+Pack0Image:"samplebooster"
+Pack0Format:"Classic"
+Pack0Kind:"Starter"
+Pack0Chance0Probability:90
+Pack0Chance0CommonCriterion0:"Set" IS "firstset"
+Pack0Chance0Kind0Quantity:1
+Pack0Chance0Kind0Criterion0:"Affiliation" CONTAINS "Dark"
+Pack0Chance0Kind1Quantity:1
+Pack0Chance0Kind1Criterion0:"Affiliation" CONTAINS "Dark"
+Pack0Chance0Kind2Quantity:1
+Pack0Chance0Kind2Criterion0:"Affiliation" CONTAINS "Light"
+Pack0Chance1Probability:10
+Pack0Chance1CommonCriterion0:"Set" IS "firstset"
+Pack0Chance1Kind0Quantity:1
+Pack0Chance1Kind0Criterion0:"Affiliation" CONTAINS "Dark"
+Pack0Chance1Kind1Quantity:1
+Pack0Chance1Kind1Criterion0:"Affiliation" CONTAINS "Dark"
+Pack0Chance1Kind2Quantity:1
+Pack0Chance1Kind2Criterion0:"Affiliation" CONTAINS "Light"
+
+Pack1Name:"2nd Set Booster"
+Pack1Image:"samplebooster"
+Pack1Format:"Classic"
+Pack1Kind:"Booster"
+Pack1Chance0CommonCriterion0:"Set" IS "firstset"
+Pack1Chance0Kind0Quantity:1
+Pack1Chance0Kind0Criterion0:"Item" CONTAINS "Item"
+Pack1Chance0Kind1Quantity:3
+Pack1Chance0Kind1Criterion0:"Item" CONTAINS "Item"
+Pack1Chance0Kind2Quantity:1
+Pack1Chance0Kind2Criterion0:"Item" CONTAINS "Character"

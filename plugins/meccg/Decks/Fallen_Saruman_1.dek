@@ -1,0 +1,11 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Sideboard">
+		<card><name id="AllThoughtBentuponIt">All Thought Bent upon It</name><set>LidlessEye</set></card>
+		<card><name id="AllThoughtBentuponIt">All Thought Bent upon It</name><set>LidlessEye</set></card>
+		<card><name id="KeysofOrthanc">Keys of Orthanc</name><set>WhiteHand</set></card>
+		<card><name id="KeystotheWhiteTowers">Keys to the White Towers</name><set>WhiteHand</set></card>
+	</superzone>
+</deck>

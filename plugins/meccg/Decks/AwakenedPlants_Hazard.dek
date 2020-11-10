@@ -1,0 +1,38 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Bregalad">Bregalad</name><set>Firstborn</set></card>
+		<card><name id="Curse Him, Root and Branch!">Curse Him, Root and Branch!</name><set>Firstborn</set></card>
+		<card><name id="Fangorn">Fangorn</name><set>Firstborn</set></card>
+		<card><name id="Finglas">Finglas</name><set>Firstborn</set></card>
+		<card><name id="Fladrif">Fladrif</name><set>Firstborn</set></card>
+		<card><name id="Protecting Their Domain">Protecting Their Domain</name><set>Firstborn</set></card>
+		<card><name id="Protecting Their Domain">Protecting Their Domain</name><set>Firstborn</set></card>
+		<card><name id="Protecting Their Domain">Protecting Their Domain</name><set>Firstborn</set></card>
+		<card><name id="Sentinel of the Grove">Sentinel of the Grove</name><set>Firstborn</set></card>
+		<card><name id="Sentinel of the Grove">Sentinel of the Grove</name><set>Firstborn</set></card>
+		<card><name id="Tree-herder">Tree-herder</name><set>Firstborn</set></card>
+		<card><name id="Tree-herder">Tree-herder</name><set>Firstborn</set></card>
+		<card><name id="Tree-herder">Tree-herder</name><set>Firstborn</set></card>
+		<card><name id="Wrath of the Olvar">Wrath of the Olvar</name><set>Firstborn</set></card>
+		<card><name id="Wrath of the Olvar">Wrath of the Olvar</name><set>Firstborn</set></card>
+		<card><name id="Wrath of the Olvar">Wrath of the Olvar</name><set>Firstborn</set></card>
+		<card><name id="EntinSearchoftheEntwives">Ent in Search of the Entwives</name><set>LidlessEye</set></card>
+		<card><name id="EntinSearchoftheEntwives">Ent in Search of the Entwives</name><set>LidlessEye</set></card>
+		<card><name id="EntinSearchoftheEntwives">Ent in Search of the Entwives</name><set>LidlessEye</set></card>
+		<card><name id="Huorn2">Huorn *</name><set>LidlessEye</set></card>
+		<card><name id="Huorn2">Huorn *</name><set>LidlessEye</set></card>
+		<card><name id="Huorn2">Huorn *</name><set>LidlessEye</set></card>
+		<card><name id="OldManWillow">Old Man Willow</name><set>Wizards</set></card>
+		<card><name id="OldManWillow">Old Man Willow</name><set>Wizards</set></card>
+		<card><name id="OldManWillow">Old Man Willow</name><set>Wizards</set></card>
+		<card><name id="MouthofSauron">Mouth of Sauron</name><set>Wizards</set></card>
+		<card><name id="AnUnexpectedOutpost">An Unexpected Outpost</name><set>DarkMinions</set></card>
+		<card><name id="AnUnexpectedOutpost">An Unexpected Outpost</name><set>DarkMinions</set></card>
+		<card><name id="Twilight">Twilight</name><set>Wizards</set></card>
+		<card><name id="Twilight">Twilight</name><set>Wizards</set></card>
+		<card><name id="Twilight">Twilight</name><set>Wizards</set></card>
+	</superzone>
+</deck>

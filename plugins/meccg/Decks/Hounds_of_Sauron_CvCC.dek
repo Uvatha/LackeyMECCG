@@ -1,0 +1,10 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Location Deck">
+		<card><name id="HoundsofSauron">Hounds of Sauron</name><set>AgainstShadow</set></card>
+		<card><name id="HoundsofSauron">Hounds of Sauron</name><set>AgainstShadow</set></card>
+		<card><name id="HoundsofSauron">Hounds of Sauron</name><set>AgainstShadow</set></card>
+	</superzone>
+</deck>

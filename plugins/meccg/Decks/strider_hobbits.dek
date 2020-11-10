@@ -1,0 +1,80 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="RangersoftheNorth">Rangers of the North</name><set>Wizards</set></card>
+		<card><name id="Hobbits">Hobbits</name><set>Wizards</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="RedBookofWestmarch">Red Book of Westmarch</name><set>Wizards</set></card>
+		<card><name id="Stealth">Stealth</name><set>Wizards</set></card>
+		<card><name id="Stealth">Stealth</name><set>Wizards</set></card>
+		<card><name id="Stealth">Stealth</name><set>Wizards</set></card>
+		<card><name id="AragornII">Aragorn II</name><set>Wizards</set></card>
+		<card><name id="EarthofGaladrielsOrchard">Earth of Galadriel&apos;s Orchard</name><set>Wizards</set></card>
+		<card><name id="Fireworks">Fireworks</name><set>DarkMinions</set></card>
+		<card><name id="Fireworks">Fireworks</name><set>DarkMinions</set></card>
+		<card><name id="Concealment">Concealment</name><set>Wizards</set></card>
+		<card><name id="Concealment">Concealment</name><set>Wizards</set></card>
+		<card><name id="Concealment">Concealment</name><set>Wizards</set></card>
+		<card><name id="HalflingStrength">Halfling Strength</name><set>Wizards</set></card>
+		<card><name id="HalflingStrength">Halfling Strength</name><set>Wizards</set></card>
+		<card><name id="HalflingStrength">Halfling Strength</name><set>Wizards</set></card>
+		<card><name id="BillthePony">Bill the Pony</name><set>Wizards</set></card>
+		<card><name id="MistressLobelia">Mistress Lobelia</name><set>DarkMinions</set></card>
+		<card><name id="Goldberry">Goldberry</name><set>Wizards</set></card>
+		<card><name id="TomBombadil">Tom Bombadil</name><set>Wizards</set></card>
+		<card><name id="AChanceMeeting">A Chance Meeting</name><set>Wizards</set></card>
+		<card><name id="AChanceMeeting">A Chance Meeting</name><set>Wizards</set></card>
+		<card><name id="AChanceMeeting">A Chance Meeting</name><set>Wizards</set></card>
+		<card><name id="GiftofComprehension">Gift of Comprehension</name><set>Dragons</set></card>
+		<card><name id="TorqueofHues">Torque of Hues</name><set>Wizards</set></card>
+		<card><name id="Bilbo">Bilbo</name><set>Wizards</set></card>
+		<card><name id="Frodo">Frodo</name><set>Wizards</set></card>
+		<card><name id="Merry">Merry</name><set>Wizards</set></card>
+		<card><name id="Pippin">Pippin</name><set>Wizards</set></card>
+		<card><name id="RobinSmallburrow">Robin Smallburrow</name><set>Wizards</set></card>
+		<card><name id="SamGamgee">Sam Gamgee</name><set>Wizards</set></card>
+		<card><name id="Gandalf">Gandalf</name><set>Wizards</set></card>
+		<card><name id="Gandalf">Gandalf</name><set>Wizards</set></card>
+		<card><name id="Gandalf">Gandalf</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="Strider">Strider</name><set>Balrog</set></card>
+		<card><name id="Beretar">Beretar</name><set>Wizards</set></card>
+		<card><name id="FolcoBoffin">Folco Boffin</name><set>DarkMinions</set></card>
+		<card><name id="FattyBolger">Fatty Bolger</name><set>Promo</set></card>
+		<card><name id="Halbarad">Halbarad</name><set>Wizards</set></card>
+		<card><name id="Cram">Cram</name><set>Dragons</set></card>
+		<card><name id="Cram">Cram</name><set>Dragons</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="Mallorn">Mallorn</name><set>DarkMinions</set></card>
+		<card><name id="Fireworks">Fireworks</name><set>DarkMinions</set></card>
+		<card><name id="ToFealtySworn">To Fealty Sworn</name><set>Balrog</set></card>
+		<card><name id="ToFealtySworn">To Fealty Sworn</name><set>Balrog</set></card>
+		<card><name id="ToFealtySworn">To Fealty Sworn</name><set>Balrog</set></card>
+		<card><name id="BlueMountainDwarves">Blue Mountain Dwarves</name><set>Wizards</set></card>
+		<card><name id="ElvesofLindon">Elves of Lindon</name><set>Wizards</set></card>
+		<card><name id="GiftofComprehension">Gift of Comprehension</name><set>Dragons</set></card>
+		<card><name id="GiftofComprehension">Gift of Comprehension</name><set>Dragons</set></card>
+		<card><name id="PromptingsofWisdom">Promptings of Wisdom</name><set>WhiteHand</set></card>
+		<card><name id="PromptingsofWisdom">Promptings of Wisdom</name><set>WhiteHand</set></card>
+		<card><name id="PromptingsofWisdom">Promptings of Wisdom</name><set>WhiteHand</set></card>
+		<card><name id="PalantirofElostirion">Palantir of Elostirion</name><set>Wizards</set></card>
+		<card><name id="Hobbitlore">Hobbit-lore</name><set>DarkMinions</set></card>
+		<card><name id="Hobbitlore">Hobbit-lore</name><set>DarkMinions</set></card>
+		<card><name id="Hobbitlore">Hobbit-lore</name><set>DarkMinions</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="CreptAlongCarefully">Crept Along Carefully</name><set>Balrog</set></card>
+		<card><name id="CreptAlongCarefully">Crept Along Carefully</name><set>Balrog</set></card>
+		<card><name id="CreptAlongCarefully">Crept Along Carefully</name><set>Balrog</set></card>
+	</superzone>
+</deck>

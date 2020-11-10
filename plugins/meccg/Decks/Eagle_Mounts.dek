@@ -1,0 +1,15 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Eaglemounts">Eagle-mounts</name><set>Wizards</set></card>
+		<card><name id="Eaglemounts">Eagle-mounts</name><set>Wizards</set></card>
+		<card><name id="Eaglemounts">Eagle-mounts</name><set>Wizards</set></card>
+		<card><name id="FifteenBirdsinFiveFirtrees">Fifteen Birds in Five Firtrees</name><set>DarkMinions</set></card>
+		<card><name id="Gwaihir">Gwaihir</name><set>Wizards</set></card>
+		<card><name id="LindiontheOronin">Lindion the Oronin</name><set>DarkMinions</set></card>
+		<card><name id="The Carrock">The Carrock</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="TheGreatEagles">The Great Eagles</name><set>Wizards</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,64 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="SaplingoftheWhiteTree">Sapling of the White Tree</name><set>Wizards</set></card>
+		<card><name id="Orcrist">Orcrist</name><set>Wizards</set></card>
+		<card><name id="Wormsbane">Wormsbane</name><set>Dragons</set></card>
+		<card><name id="Alatar">Alatar</name><set>Wizards</set></card>
+		<card><name id="Alatar">Alatar</name><set>Wizards</set></card>
+		<card><name id="Alatar">Alatar</name><set>Wizards</set></card>
+		<card><name id="NobleSteed">Noble Steed</name><set>WhiteHand</set></card>
+		<card><name id="NobleSteed">Noble Steed</name><set>WhiteHand</set></card>
+		<card><name id="RidersofRohan">Riders of Rohan</name><set>Wizards</set></card>
+		<card><name id="KnightsofDolAmroth">Knights of Dol Amroth</name><set>Wizards</set></card>
+		<card><name id="RangersofIthilien">Rangers of Ithilien</name><set>Wizards</set></card>
+		<card><name id="GatesofMorning">Gates of Morning</name><set>Wizards</set></card>
+		<card><name id="GatesofMorning">Gates of Morning</name><set>Wizards</set></card>
+		<card><name id="GatesofMorning">Gates of Morning</name><set>Wizards</set></card>
+		<card><name id="StarofHighHope">Star of High Hope</name><set>Dragons</set></card>
+		<card><name id="StarofHighHope">Star of High Hope</name><set>Dragons</set></card>
+		<card><name id="StarofHighHope">Star of High Hope</name><set>Dragons</set></card>
+		<card><name id="Sun">Sun</name><set>Wizards</set></card>
+		<card><name id="Sun">Sun</name><set>Wizards</set></card>
+		<card><name id="Sun">Sun</name><set>Wizards</set></card>
+		<card><name id="EchoofAllJoy">Echo of All Joy</name><set>Dragons</set></card>
+		<card><name id="EchoofAllJoy">Echo of All Joy</name><set>Dragons</set></card>
+		<card><name id="EchoofAllJoy">Echo of All Joy</name><set>Dragons</set></card>
+		<card><name id="NoStrangersatthisTime">No Strangers at this Time</name><set>AgainstShadow</set></card>
+		<card><name id="NoStrangersatthisTime">No Strangers at this Time</name><set>AgainstShadow</set></card>
+		<card><name id="Moon">Moon</name><set>Wizards</set></card>
+		<card><name id="Moon">Moon</name><set>Wizards</set></card>
+		<card><name id="Moon">Moon</name><set>Wizards</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="Southrons">Southrons</name><set>Wizards</set></card>
+		<card><name id="Narsil">Narsil</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="AragornII">Aragorn II</name><set>Wizards</set></card>
+		<card><name id="BoromirII">Boromir II</name><set>Wizards</set></card>
+		<card><name id="Faramir">Faramir</name><set>Wizards</set></card>
+		<card><name id="Beregond">Beregond</name><set>Wizards</set></card>
+		<card><name id="HornofAnor">Horn of Anor</name><set>Wizards</set></card>
+		<card><name id="ShieldofIronboundAsh">Shield of Iron-bound Ash</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Location Deck">
+		<card><name id="LuckySearch">Lucky Search</name><set>Wizards</set></card>
+		<card><name id="LuckySearch">Lucky Search</name><set>Wizards</set></card>
+		<card><name id="LuckySearch">Lucky Search</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="ReturnoftheKing">Return of the King</name><set>Wizards</set></card>
+		<card><name id="TheWhiteTree">The White Tree</name><set>Wizards</set></card>
+		<card><name id="ArmyoftheDead">Army of the Dead</name><set>Wizards</set></card>
+		<card><name id="PathsoftheDead">Paths of the Dead</name><set>Wizards</set></card>
+		<card><name id="TheWhiteWizard">The White Wizard</name><set>WhiteHand</set></card>
+		<card><name id="MenofAnorien">Men of Anorien</name><set>Wizards</set></card>
+		<card><name id="TowerGuardofMinasTirith">Tower Guard of Minas Tirith</name><set>Wizards</set></card>
+		<card><name id="HousesofHealing">Houses of Healing</name><set>Dragons</set></card>
+		<card><name id="HousesofHealing">Houses of Healing</name><set>Dragons</set></card>
+	</superzone>
+</deck>

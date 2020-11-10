@@ -1,0 +1,93 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Saruman2">Saruman *</name><set>WhiteHand</set></card>
+		<card><name id="Saruman2">Saruman *</name><set>WhiteHand</set></card>
+		<card><name id="Saruman2">Saruman *</name><set>WhiteHand</set></card>
+		<card><name id="FortressoftheTowers">Fortress of the Towers</name><set>WhiteHand</set></card>
+		<card><name id="TheFortressofIsen">The Fortress of Isen</name><set>WhiteHand</set></card>
+		<card><name id="KeysofOrthanc">Keys of Orthanc</name><set>WhiteHand</set></card>
+		<card><name id="KeystotheWhiteTowers">Keys to the White Towers</name><set>WhiteHand</set></card>
+		<card><name id="Sneakin">Sneakin&apos;</name><set>LidlessEye</set></card>
+		<card><name id="Sneakin">Sneakin&apos;</name><set>LidlessEye</set></card>
+		<card><name id="Stealth">Stealth</name><set>Wizards</set></card>
+		<card><name id="Stealth">Stealth</name><set>Wizards</set></card>
+		<card><name id="DelversHarvest">Delver&apos;s Harvest</name><set>WhiteHand</set></card>
+		<card><name id="DelversHarvest">Delver&apos;s Harvest</name><set>WhiteHand</set></card>
+		<card><name id="Eartheater">Earth-eater</name><set>WhiteHand</set></card>
+		<card><name id="TokenofGoodwill">Token of Goodwill</name><set>DarkMinions</set></card>
+		<card><name id="TokenofGoodwill">Token of Goodwill</name><set>DarkMinions</set></card>
+		<card><name id="Doubledealing">Double-dealing</name><set>WhiteHand</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="WeighAllThingstoaNicety">Weigh All Things to a Nicety</name><set>LidlessEye</set></card>
+		<card><name id="WeighAllThingstoaNicety">Weigh All Things to a Nicety</name><set>LidlessEye</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="DarkTryst">Dark Tryst</name><set>AgainstShadow</set></card>
+		<card><name id="DarkTryst">Dark Tryst</name><set>AgainstShadow</set></card>
+		<card><name id="DurinsAxe">Durin&apos;s Axe</name><set>Wizards</set></card>
+		<card><name id="Orcrist">Orcrist</name><set>Wizards</set></card>
+		<card><name id="Fili">Fili</name><set>Wizards</set></card>
+		<card><name id="Oin">Oin</name><set>Wizards</set></card>
+		<card><name id="Threlin">Threlin</name><set>LidlessEye</set></card>
+		<card><name id="ManofSkill">Man of Skill</name><set>WhiteHand</set></card>
+		<card><name id="LegacyofSmiths">Legacy of Smiths</name><set>WhiteHand</set></card>
+		<card><name id="SarumansRing">Saruman&apos;s Ring</name><set>WhiteHand</set></card>
+		<card><name id="ManycolouredRobes">Many-coloured Robes</name><set>WhiteHand</set></card>
+		<card><name id="GreatPatron">Great Patron</name><set>WhiteHand</set></card>
+		<card><name id="Goldberry">Goldberry</name><set>Wizards</set></card>
+		<card><name id="Nain">Nain</name><set>LidlessEye</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="TheForgemaster">The Forge-master</name><set>WhiteHand</set></card>
+		<card><name id="Gulla">Gulla</name><set>LidlessEye</set></card>
+		<card><name id="Balin">Balin</name><set>Wizards</set></card>
+		<card><name id="Broin">Broin</name><set>LidlessEye</set></card>
+		<card><name id="Kili">Kili</name><set>Wizards</set></card>
+		<card><name id="Gloin">Gloin</name><set>Wizards</set></card>
+		<card><name id="WizardsMyrmidon">Wizard&apos;s Myrmidon</name><set>WhiteHand</set></card>
+		<card><name id="Cram">Cram</name><set>Dragons</set></card>
+		<card><name id="Cram">Cram</name><set>Dragons</set></card>
+	</superzone>
+	<superzone name="Location Deck">
+		<card><name id="TheWorthyHills2">The Worthy Hills (M)</name><set>LidlessEye</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="PreciousGoldRing">Precious Gold Ring</name><set>Wizards</set></card>
+		<card><name id="PreciousGoldRing">Precious Gold Ring</name><set>Wizards</set></card>
+		<card><name id="PreciousGoldRing">Precious Gold Ring</name><set>Wizards</set></card>
+		<card><name id="Ringlore">Ringlore</name><set>Wizards</set></card>
+		<card><name id="Ringlore">Ringlore</name><set>Wizards</set></card>
+		<card><name id="PromptingsofWisdom">Promptings of Wisdom</name><set>WhiteHand</set></card>
+		<card><name id="PromptingsofWisdom">Promptings of Wisdom</name><set>WhiteHand</set></card>
+		<card><name id="PromptingsofWisdom">Promptings of Wisdom</name><set>WhiteHand</set></card>
+		<card><name id="SecretBook">Secret Book</name><set>AgainstShadow</set></card>
+		<card><name id="SecretBook">Secret Book</name><set>AgainstShadow</set></card>
+		<card><name id="SecretBook">Secret Book</name><set>AgainstShadow</set></card>
+		<card><name id="DreamsofLore">Dreams of Lore</name><set>Wizards</set></card>
+		<card><name id="DreamsofLore">Dreams of Lore</name><set>Wizards</set></card>
+		<card><name id="RecordsUnread">Records Unread</name><set>AgainstShadow</set></card>
+		<card><name id="PlottingRuin">Plotting Ruin</name><set>WhiteHand</set></card>
+		<card><name id="PalantirofElostirion2">Palantir of Elostirion *</name><set>LidlessEye</set></card>
+		<card><name id="MaptoMithril">Map to Mithril</name><set>Dragons</set></card>
+		<card><name id="MaptoMithril">Map to Mithril</name><set>Dragons</set></card>
+		<card><name id="WosesoftheErynVorn2">Woses of the Eryn Vorn *</name><set>LidlessEye</set></card>
+		<card><name id="MechanicalBow">Mechanical Bow</name><set>WhiteHand</set></card>
+		<card><name id="MechanicalBow">Mechanical Bow</name><set>WhiteHand</set></card>
+		<card><name id="Warforges">War-forges</name><set>WhiteHand</set></card>
+		<card><name id="Warforges">War-forges</name><set>WhiteHand</set></card>
+		<card><name id="ThatsBeenHeardBeforeTonight">That&apos;s Been Heard Before Tonight</name><set>LidlessEye</set></card>
+		<card><name id="WhenYouKnowMore">When You Know More</name><set>DarkMinions</set></card>
+		<card><name id="WhenYouKnowMore">When You Know More</name><set>DarkMinions</set></card>
+		<card><name id="Dragonlore">Dragon-lore</name><set>Dragons</set></card>
+		<card><name id="Dragonlore">Dragon-lore</name><set>Dragons</set></card>
+		<card><name id="WizardsRing">Wizard&apos;s Ring</name><set>Wizards</set></card>
+		<card><name id="ThatAintNoSecret">That Ain&apos;t No Secret</name><set>LidlessEye</set></card>
+		<card><name id="ThatAintNoSecret">That Ain&apos;t No Secret</name><set>LidlessEye</set></card>
+		<card><name id="SarumansMachinery">Saruman&apos;s Machinery</name><set>WhiteHand</set></card>
+		<card><name id="Quickbeam">Quickbeam</name><set>Wizards</set></card>
+	</superzone>
+</deck>

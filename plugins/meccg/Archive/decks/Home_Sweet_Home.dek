@@ -1,0 +1,76 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Sauron">Sauron</name><set>Balrog</set></card>
+		<card><name id="Sauron">Sauron</name><set>Balrog</set></card>
+		<card><name id="Sauron">Sauron</name><set>Balrog</set></card>
+		<card><name id="TestofFire">Test of Fire</name><set>LidlessEye</set></card>
+		<card><name id="TestofFire">Test of Fire</name><set>LidlessEye</set></card>
+		<card><name id="AwaitingtheCall">Awaiting the Call</name><set>LidlessEye</set></card>
+		<card><name id="AwaitingtheCall">Awaiting the Call</name><set>LidlessEye</set></card>
+		<card><name id="AwaitingtheCall">Awaiting the Call</name><set>LidlessEye</set></card>
+		<card><name id="TheGreatEye">The Great Eye</name><set>AgainstShadow</set></card>
+		<card><name id="TheGreatEye">The Great Eye</name><set>AgainstShadow</set></card>
+		<card><name id="TheGreatEye">The Great Eye</name><set>AgainstShadow</set></card>
+		<card><name id="BrightGoldRing">Bright Gold Ring</name><set>LidlessEye</set></card>
+		<card><name id="BrightGoldRing">Bright Gold Ring</name><set>LidlessEye</set></card>
+		<card><name id="GleamingGoldRing">Gleaming Gold Ring</name><set>LidlessEye</set></card>
+		<card><name id="GleamingGoldRing">Gleaming Gold Ring</name><set>LidlessEye</set></card>
+		<card><name id="GleamingGoldRing">Gleaming Gold Ring</name><set>LidlessEye</set></card>
+		<card><name id="WeighAllThingstoaNicety">Weigh All Things to a Nicety</name><set>LidlessEye</set></card>
+		<card><name id="WeighAllThingstoaNicety">Weigh All Things to a Nicety</name><set>LidlessEye</set></card>
+		<card><name id="WeighAllThingstoaNicety">Weigh All Things to a Nicety</name><set>LidlessEye</set></card>
+		<card><name id="DarkTryst">Dark Tryst</name><set>AgainstShadow</set></card>
+		<card><name id="DarkTryst">Dark Tryst</name><set>AgainstShadow</set></card>
+		<card><name id="DarkTryst">Dark Tryst</name><set>AgainstShadow</set></card>
+		<card><name id="Blackbole">Blackbole</name><set>LidlessEye</set></card>
+		<card><name id="NotSlayNeedlessly">Not Slay Needlessly</name><set>LidlessEye</set></card>
+		<card><name id="NotSlayNeedlessly">Not Slay Needlessly</name><set>LidlessEye</set></card>
+		<card><name id="NotSlayNeedlessly">Not Slay Needlessly</name><set>LidlessEye</set></card>
+		<card><name id="TheArkenstone2">The Arkenstone *</name><set>Promo</set></card>
+		<card><name id="ThongofFire">Thong of Fire</name><set>AgainstShadow</set></card>
+		<card><name id="VoicesofMalice">Voices of Malice</name><set>LidlessEye</set></card>
+		<card><name id="VoicesofMalice">Voices of Malice</name><set>LidlessEye</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="Thrallring">Thrall-ring</name><set>AgainstShadow</set></card>
+		<card><name id="Lagduf">Lagduf</name><set>LidlessEye</set></card>
+		<card><name id="Bindingring">Binding-ring</name><set>LidlessEye</set></card>
+		<card><name id="LieutenantofMorgul">Lieutenant of Morgul</name><set>LidlessEye</set></card>
+		<card><name id="TrollLout">Troll Lout</name><set>LidlessEye</set></card>
+		<card><name id="TrollLout">Troll Lout</name><set>LidlessEye</set></card>
+		<card><name id="OrcCaptain">Orc Captain</name><set>LidlessEye</set></card>
+	</superzone>
+	<superzone name="Location Deck">
+		<card><name id="Firiel">Firiel</name><set>DarkMinions</set></card>
+		<card><name id="Surion">Surion</name><set>DarkMinions</set></card>
+		<card><name id="DunlendingSpy">Dunlending Spy</name><set>LidlessEye</set></card>
+		<card><name id="Eun">Eun</name><set>DarkMinions</set></card>
+		<card><name id="Perchen">Perchen</name><set>AgainstShadow</set></card>
+		<card><name id="Uchel">Uchel</name><set>LidlessEye</set></card>
+		<card><name id="Herion">Herion</name><set>DarkMinions</set></card>
+		<card><name id="Dorelas">Dorelas</name><set>LidlessEye</set></card>
+		<card><name id="Ivic">Ivic</name><set>DarkMinions</set></card>
+		<card><name id="Juoma">Juoma</name><set>DarkMinions</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="Dunlendings2">Dunlendings *</name><set>LidlessEye</set></card>
+		<card><name id="Hillmen2">Hillmen</name><set>LidlessEye</set></card>
+		<card><name id="RumoroftheOne">Rumor of the One</name><set>LidlessEye</set></card>
+		<card><name id="TriflingRing">Trifling Ring</name><set>LidlessEye</set></card>
+		<card><name id="TriflingRing">Trifling Ring</name><set>LidlessEye</set></card>
+		<card><name id="TriflingRing">Trifling Ring</name><set>LidlessEye</set></card>
+		<card><name id="TheDarkPower">The Dark Power</name><set>AgainstShadow</set></card>
+		<card><name id="TheDarkPower">The Dark Power</name><set>AgainstShadow</set></card>
+		<card><name id="SuddenCall">Sudden Call</name><set>LidlessEye</set></card>
+		<card><name id="TestofFire">Test of Fire</name><set>LidlessEye</set></card>
+		<card><name id="SmokeontheWind">Smoke on the Wind</name><set>LidlessEye</set></card>
+		<card><name id="EyeNeverSleeping">Eye Never Sleeping</name><set>AgainstShadow</set></card>
+		<card><name id="EyeNeverSleeping">Eye Never Sleeping</name><set>AgainstShadow</set></card>
+		<card><name id="EyeNeverSleeping">Eye Never Sleeping</name><set>AgainstShadow</set></card>
+		<card><name id="ReadytoHisWill">Ready to His Will</name><set>LidlessEye</set></card>
+		<card><name id="ReadytoHisWill">Ready to His Will</name><set>LidlessEye</set></card>
+	</superzone>
+</deck>

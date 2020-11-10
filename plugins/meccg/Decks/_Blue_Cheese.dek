@@ -1,0 +1,91 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Eartheater">Earth-eater</name><set>WhiteHand</set></card>
+		<card><name id="DelversHarvest">Delver&apos;s Harvest</name><set>WhiteHand</set></card>
+		<card><name id="DelversHarvest">Delver&apos;s Harvest</name><set>WhiteHand</set></card>
+		<card><name id="DelversHarvest">Delver&apos;s Harvest</name><set>WhiteHand</set></card>
+		<card><name id="DwarvenLightstone">Dwarven Light-stone</name><set>DarkMinions</set></card>
+		<card><name id="DwarvenLightstone">Dwarven Light-stone</name><set>DarkMinions</set></card>
+		<card><name id="DwarvenLightstone">Dwarven Light-stone</name><set>DarkMinions</set></card>
+		<card><name id="Noldolantern">Noldo-lantern</name><set>DarkMinions</set></card>
+		<card><name id="Noldolantern">Noldo-lantern</name><set>DarkMinions</set></card>
+		<card><name id="Noldolantern">Noldo-lantern</name><set>DarkMinions</set></card>
+		<card><name id="Great Miners">Great Miners</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="SecretPassage">Secret Passage</name><set>Wizards</set></card>
+		<card><name id="SecretPassage">Secret Passage</name><set>Wizards</set></card>
+		<card><name id="SecretPassage">Secret Passage</name><set>Wizards</set></card>
+		<card><name id="DownDowntoGoblintown">Down Down to Goblin-town</name><set>LidlessEye</set></card>
+		<card><name id="DownDowntoGoblintown">Down Down to Goblin-town</name><set>LidlessEye</set></card>
+		<card><name id="VeinofArda">Vein of Arda</name><set>DarkMinions</set></card>
+		<card><name id="VeinofArda">Vein of Arda</name><set>DarkMinions</set></card>
+		<card><name id="VeinofArda">Vein of Arda</name><set>DarkMinions</set></card>
+		<card><name id="Born Under the Mountains">Born Under the Mountains</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Dwarven Galleries">Dwarven Galleries</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="GreatPatron">Great Patron</name><set>WhiteHand</set></card>
+		<card><name id="Sworn to the Lord">Sworn to the Lord</name><set>Firstborn</set></card>
+		<card><name id="Warforges">War-forges</name><set>WhiteHand</set></card>
+		<card><name id="Warforges">War-forges</name><set>WhiteHand</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="DarkTryst">Dark Tryst</name><set>AgainstShadow</set></card>
+		<card><name id="DarkTryst">Dark Tryst</name><set>AgainstShadow</set></card>
+		<card><name id="More Than Meets the Eye">More Than Meets the Eye</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Dwarven Alchemist">Dwarven Alchemist</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Knowledge of Earth&apos;s Treasures">Knowledge of Earth&apos;s Treasures</name><set>Durin&apos;s Folk</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="Thorin">Thorin</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Bofur">Bofur</name><set>Wizards</set></card>
+		<card><name id="Bifur">Bifur</name><set>Wizards</set></card>
+		<card><name id="Oin">Oin</name><set>Wizards</set></card>
+		<card><name id="Dwalin">Dwalin</name><set>Wizards</set></card>
+		<card><name id="Promise of Treasure">Promise of Treasure</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Durin&apos;s Day">Durin&apos;s Day</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Son of Thrain">Son of Thrain</name><set>Durin&apos;s Folk</set></card>
+	</superzone>
+	<superzone name="Location Deck">
+		<card><name id="Balin">Balin</name><set>Wizards</set></card>
+		<card><name id="Fili">Fili</name><set>Wizards</set></card>
+		<card><name id="Nori">Nori</name><set>Wizards</set></card>
+		<card><name id="Gloin">Gloin</name><set>Wizards</set></card>
+		<card><name id="Nali">Nali</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Attack-Lord">Attack-Lord</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Lipor">Lipor</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Gimli">Gimli</name><set>Wizards</set></card>
+		<card><name id="Dain">Dain</name><set>Durin&apos;s Folk</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="PalmtoPalm">Palm to Palm</name><set>DarkMinions</set></card>
+		<card><name id="BlueMountainDwarves">Blue Mountain Dwarves</name><set>Wizards</set></card>
+		<card><name id="LegacyofSmiths">Legacy of Smiths</name><set>WhiteHand</set></card>
+		<card><name id="LegacyofSmiths">Legacy of Smiths</name><set>WhiteHand</set></card>
+		<card><name id="A Good Bit Laid By">A Good Bit Laid By</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="New Tunnels">New Tunnels</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Not Badly Off">Not Badly Off</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="The Seven Houses">The Seven Houses</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="ThralloftheVoice">Thrall of the Voice</name><set>WhiteHand</set></card>
+		<card><name id="Trusted Counselor">Trusted Counselor</name><set>Firstborn</set></card>
+		<card><name id="Great Achievement">Great Achievement</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Hoard Gathering">Hoard Gathering</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Hoard Gathering">Hoard Gathering</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="IronShieldofOld">Iron Shield of Old</name><set>AgainstShadow</set></card>
+		<card><name id="IronShieldofOld">Iron Shield of Old</name><set>AgainstShadow</set></card>
+		<card><name id="BlindtoAllElse">Blind to All Else</name><set>WhiteHand</set></card>
+		<card><name id="Clad for War">Clad for War</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Pipe">Pipe</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Pipe">Pipe</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Pipe">Pipe</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="NeverRefuse">Never Refuse</name><set>WhiteHand</set></card>
+		<card><name id="DurinsAxe">Durin&apos;s Axe</name><set>Wizards</set></card>
+		<card><name id="Pathfinder">Pathfinder</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Pathfinder">Pathfinder</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Pathfinder">Pathfinder</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Cram">Cram</name><set>Dragons</set></card>
+		<card><name id="HealingHerbs">Healing Herbs</name><set>Wizards</set></card>
+		<card><name id="Thrallring">Thrall-ring</name><set>AgainstShadow</set></card>
+		<card><name id="Trothring">Troth-ring</name><set>AgainstShadow</set></card>
+	</superzone>
+</deck>

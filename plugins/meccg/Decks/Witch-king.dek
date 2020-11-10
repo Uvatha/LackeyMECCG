@@ -1,0 +1,19 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="TheWitchking">The Witch-king</name><set>LidlessEye</set></card>
+		<card><name id="The Morgullord.jpg">The Morgul-lord</name><set>Necromancer</set></card>
+		<card><name id="Call to Arms.jpg">Call to Arms</name><set>Necromancer</set></card>
+		<card><name id="Breeders Stock.jpg">Breeder&apos;s Stock</name><set>Necromancer</set></card>
+		<card><name id="Creating Their Domain.jpg">Creating Their Domain</name><set>Necromancer</set></card>
+		<card><name id="Horror Spreads before Them.jpg">Horror Spreads before Them</name><set>Necromancer</set></card>
+		<card><name id="Vasamacil.jpg">Vasamacil</name><set>Necromancer</set></card>
+		<card><name id="Mighty in Their Day.jpg">Mighty in Their Day</name><set>Necromancer</set></card>
+		<card><name id="Wellpreserved">Well-preserved</name><set>AgainstShadow</set></card>
+		<card><name id="RivenGate">Riven Gate</name><set>AgainstShadow</set></card>
+		<card><name id="The Ulairi Arose.jpg">The Ulairi Arose</name><set>Necromancer</set></card>
+		<card><name id="TheIronCrown2">The Iron Crown*</name><set>LidlessEye</set></card>
+	</superzone>
+</deck>

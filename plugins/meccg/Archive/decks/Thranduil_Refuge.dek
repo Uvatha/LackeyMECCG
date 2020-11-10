@@ -1,0 +1,75 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="APanoplyofWings">A Panoply of Wings</name><set>WhiteHand</set></card>
+		<card><name id="APanoplyofWings">A Panoply of Wings</name><set>WhiteHand</set></card>
+		<card><name id="APanoplyofWings">A Panoply of Wings</name><set>WhiteHand</set></card>
+		<card><name id="Elfpath">Elf-path</name><set>Dragons</set></card>
+		<card><name id="Elfpath">Elf-path</name><set>Dragons</set></card>
+		<card><name id="Elfpath">Elf-path</name><set>Dragons</set></card>
+		<card><name id="LordlyPresence">Lordly Presence</name><set>Wizards</set></card>
+		<card><name id="LordlyPresence">Lordly Presence</name><set>Wizards</set></card>
+		<card><name id="LordlyPresence">Lordly Presence</name><set>Wizards</set></card>
+		<card><name id="Muster">Muster</name><set>Wizards</set></card>
+		<card><name id="Muster">Muster</name><set>Wizards</set></card>
+		<card><name id="NoStrangersatthisTime">No Strangers at this Time</name><set>AgainstShadow</set></card>
+		<card><name id="NoStrangersatthisTime">No Strangers at this Time</name><set>AgainstShadow</set></card>
+		<card><name id="NobleHound">Noble Hound</name><set>DarkMinions</set></card>
+		<card><name id="Prince of Mirkwood">Prince of Mirkwood</name><set>Firstborn</set></card>
+		<card><name id="BeastsoftheWood">Beasts of the Wood</name><set>WhiteHand</set></card>
+		<card><name id="BeastsoftheWood">Beasts of the Wood</name><set>WhiteHand</set></card>
+		<card><name id="Carc">Carc</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="MenofDale">Men of Dale</name><set>Dragons</set></card>
+		<card><name id="MenofNorthernRhovanion">Men of Northern Rhovanion</name><set>Wizards</set></card>
+		<card><name id="NecklaceofGirion">Necklace of Girion</name><set>DarkMinions</set></card>
+		<card><name id="Raft-elves">Raft-elves</name><set>Firstborn</set></card>
+		<card><name id="Ravens of Northern Rhovanion">Ravens of Northern Rhovanion</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Woodmen">Woodmen</name><set>Wizards</set></card>
+		<card><name id="Glamdring">Glamdring</name><set>Wizards</set></card>
+		<card><name id="TorqueofHues">Torque of Hues</name><set>Wizards</set></card>
+		<card><name id="SecretPassage">Secret Passage</name><set>Wizards</set></card>
+		<card><name id="SecretPassage">Secret Passage</name><set>Wizards</set></card>
+		<card><name id="SecretPassage">Secret Passage</name><set>Wizards</set></card>
+		<card><name id="Ford">Ford</name><set>Wizards</set></card>
+		<card><name id="Ford">Ford</name><set>Wizards</set></card>
+		<card><name id="AChanceMeeting">A Chance Meeting</name><set>Wizards</set></card>
+		<card><name id="AChanceMeeting">A Chance Meeting</name><set>Wizards</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="SecretEntrance">Secret Entrance</name><set>Wizards</set></card>
+		<card><name id="SecretEntrance">Secret Entrance</name><set>Wizards</set></card>
+		<card><name id="SecretEntrance">Secret Entrance</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="Legolas">Legolas</name><set>Wizards</set></card>
+		<card><name id="HornofAnor">Horn of Anor</name><set>Wizards</set></card>
+		<card><name id="Prince of Mirkwood">Prince of Mirkwood</name><set>Firstborn</set></card>
+		<card><name id="In Accord with Nature">In Accord with Nature</name><set>Firstborn</set></card>
+		<card><name id="Emissary of the House">Emissary of the House</name><set>Firstborn</set></card>
+		<card><name id="Mallorn-dweller">Mallorn-dweller</name><set>Firstborn</set></card>
+		<card><name id="Wood-elf">Wood-elf</name><set>Firstborn</set></card>
+		<card><name id="HealingHerbs">Healing Herbs</name><set>Wizards</set></card>
+		<card><name id="Wardens of the Woodland Realm">Wardens of the Woodland Realm</name><set>Firstborn</set></card>
+		<card><name id="Annalena">Annalena</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Location Deck">
+		<card><name id="Thranduil of Mirkwood">Thranduil of Mirkwood</name><set>Firstborn</set></card>
+		<card><name id="Thranduil of Mirkwood">Thranduil of Mirkwood</name><set>Firstborn</set></card>
+		<card><name id="Thranduil of Mirkwood">Thranduil of Mirkwood</name><set>Firstborn</set></card>
+		<card><name id="Brand">Brand</name><set>Dragons</set></card>
+		<card><name id="Arhendhiril">Arhendhiril</name><set>Firstborn</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="GreatPatron">Great Patron</name><set>WhiteHand</set></card>
+		<card><name id="GathererofLoyalties">Gatherer of Loyalties</name><set>WhiteHand</set></card>
+		<card><name id="Refuge">Refuge</name><set>Dragons</set></card>
+		<card><name id="Woodelves">Wood-elves</name><set>Wizards</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="Lord of Wood and Beast">Lord of Wood and Beast</name><set>Firstborn</set></card>
+		<card><name id="LegacyofSmiths">Legacy of Smiths</name><set>WhiteHand</set></card>
+	</superzone>
+</deck>

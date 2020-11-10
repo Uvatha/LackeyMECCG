@@ -1,0 +1,75 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Alatar">Alatar</name><set>Wizards</set></card>
+		<card><name id="Gandalf">Gandalf</name><set>Wizards</set></card>
+		<card><name id="Gandalf">Gandalf</name><set>Wizards</set></card>
+		<card><name id="AChanceMeeting">A Chance Meeting</name><set>Wizards</set></card>
+		<card><name id="AChanceMeeting">A Chance Meeting</name><set>Wizards</set></card>
+		<card><name id="AndForthHeHastened">And Forth He Hastened</name><set>Dragons</set></card>
+		<card><name id="AndForthHeHastened">And Forth He Hastened</name><set>Dragons</set></card>
+		<card><name id="Concealment">Concealment</name><set>Wizards</set></card>
+		<card><name id="Concealment">Concealment</name><set>Wizards</set></card>
+		<card><name id="Concealment">Concealment</name><set>Wizards</set></card>
+		<card><name id="DarkQuarrels">Dark Quarrels</name><set>Wizards</set></card>
+		<card><name id="DarkQuarrels">Dark Quarrels</name><set>Wizards</set></card>
+		<card><name id="DarkQuarrels">Dark Quarrels</name><set>Wizards</set></card>
+		<card><name id="Fireworks">Fireworks</name><set>DarkMinions</set></card>
+		<card><name id="ForewarnedIsForearmed">Forewarned Is Forearmed</name><set>DarkMinions</set></card>
+		<card><name id="ForewarnedIsForearmed">Forewarned Is Forearmed</name><set>DarkMinions</set></card>
+		<card><name id="Hiding">Hiding</name><set>Wizards</set></card>
+		<card><name id="Hiding">Hiding</name><set>Wizards</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="NoWaitingtoWonder">No Waiting to Wonder</name><set>DarkMinions</set></card>
+		<card><name id="NobleSteed">Noble Steed</name><set>WhiteHand</set></card>
+		<card><name id="NobleSteed">Noble Steed</name><set>WhiteHand</set></card>
+		<card><name id="NobleSteed">Noble Steed</name><set>WhiteHand</set></card>
+		<card><name id="SaplingoftheWhiteTree">Sapling of the White Tree</name><set>Wizards</set></card>
+		<card><name id="SaplingoftheWhiteTree">Sapling of the White Tree</name><set>Wizards</set></card>
+		<card><name id="SaplingoftheWhiteTree">Sapling of the White Tree</name><set>Wizards</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="AragornII">Aragorn II</name><set>Wizards</set></card>
+		<card><name id="Cirdan">Cirdan</name><set>Wizards</set></card>
+		<card><name id="Bilbo">Bilbo</name><set>Wizards</set></card>
+		<card><name id="Frodo">Frodo</name><set>Wizards</set></card>
+		<card><name id="FattyBolger">Fatty Bolger</name><set>Promo</set></card>
+		<card><name id="SamGamgee">Sam Gamgee</name><set>Wizards</set></card>
+		<card><name id="GlorfindelII">Glorfindel II</name><set>Wizards</set></card>
+		<card><name id="Halbarad">Halbarad</name><set>Wizards</set></card>
+		<card><name id="Arwen">Arwen</name><set>Wizards</set></card>
+		<card><name id="Strider">Strider</name><set>Balrog</set></card>
+		<card><name id="Cram">Cram</name><set>Dragons</set></card>
+		<card><name id="Elfstone">Elf-stone</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="ReturnoftheKing">Return of the King</name><set>Wizards</set></card>
+		<card><name id="AChanceMeeting">A Chance Meeting</name><set>Wizards</set></card>
+		<card><name id="AlignPalantir">Align Palantir</name><set>Wizards</set></card>
+		<card><name id="ChoiceofLuthien">Choice of Luthien</name><set>DarkMinions</set></card>
+		<card><name id="Fireworks">Fireworks</name><set>DarkMinions</set></card>
+		<card><name id="Fireworks">Fireworks</name><set>DarkMinions</set></card>
+		<card><name id="HourofNeed">Hour of Need</name><set>DarkMinions</set></card>
+		<card><name id="MenofAnorien">Men of Anorien</name><set>Wizards</set></card>
+		<card><name id="NobleHound">Noble Hound</name><set>DarkMinions</set></card>
+		<card><name id="PalantirofMinasTirith">Palantir of Minas Tirith</name><set>Wizards</set></card>
+		<card><name id="RedArrow">Red Arrow</name><set>Wizards</set></card>
+		<card><name id="RidersofRohan">Riders of Rohan</name><set>Wizards</set></card>
+		<card><name id="TheWhiteTree">The White Tree</name><set>Wizards</set></card>
+		<card><name id="ToFealtySworn">To Fealty Sworn</name><set>Balrog</set></card>
+		<card><name id="ToFealtySworn">To Fealty Sworn</name><set>Balrog</set></card>
+		<card><name id="TowerGuardofMinasTirith">Tower Guard of Minas Tirith</name><set>Wizards</set></card>
+		<card><name id="WizardsVoice">Wizard&apos;s Voice</name><set>Wizards</set></card>
+		<card><name id="ThorinII">Thorin II</name><set>Wizards</set></card>
+		<card><name id="Theoden">Theoden</name><set>Wizards</set></card>
+	</superzone>
+</deck>

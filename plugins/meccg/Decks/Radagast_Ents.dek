@@ -1,0 +1,21 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Leaflock">Leaflock</name><set>Wizards</set></card>
+		<card><name id="Quickbeam">Quickbeam</name><set>Wizards</set></card>
+		<card><name id="Skinbark">Skinbark</name><set>Wizards</set></card>
+		<card><name id="Blackbole">Blackbole</name><set>LidlessEye</set></card>
+		<card><name id="MistressLobelia">Mistress Lobelia</name><set>DarkMinions</set></card>
+		<card><name id="RadagastsBlackBird">Radagast&apos;s Black Bird</name><set>WhiteHand</set></card>
+		<card><name id="TomBombadil">Tom Bombadil</name><set>Wizards</set></card>
+		<card><name id="AndForthHeHastened">And Forth He Hastened</name><set>Dragons</set></card>
+		<card><name id="AndForthHeHastened">And Forth He Hastened</name><set>Dragons</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="Radagast2">Radagast *</name><set>WhiteHand</set></card>
+		<card><name id="ShifterofHues">Shifter of Hues</name><set>WhiteHand</set></card>
+		<card><name id="FriendofSecretThings">Friend of Secret Things</name><set>WhiteHand</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,52 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="WhiletheYellowFaceSleeps">While the Yellow Face Sleeps</name><set>LidlessEye</set></card>
+		<card><name id="CatchanElusiveScent">Catch an Elusive Scent</name><set>LidlessEye</set></card>
+		<card><name id="CatchanElusiveScent">Catch an Elusive Scent</name><set>LidlessEye</set></card>
+		<card><name id="TriflingRing">Trifling Ring</name><set>LidlessEye</set></card>
+		<card><name id="TriflingRing">Trifling Ring</name><set>LidlessEye</set></card>
+		<card><name id="TriflingRing">Trifling Ring</name><set>LidlessEye</set></card>
+		<card><name id="ScrollofIsildur2">Scroll of Isildur *</name><set>LidlessEye</set></card>
+		<card><name id="Sauron">Sauron</name><set>Balrog</set></card>
+		<card><name id="Sauron">Sauron</name><set>Balrog</set></card>
+		<card><name id="Sauron">Sauron</name><set>Balrog</set></card>
+		<card><name id="SecretsofTheirForging">Secrets of Their Forging</name><set>LidlessEye</set></card>
+		<card><name id="TestofFire">Test of Fire</name><set>LidlessEye</set></card>
+		<card><name id="TestofFire">Test of Fire</name><set>LidlessEye</set></card>
+		<card><name id="TestofFire">Test of Fire</name><set>LidlessEye</set></card>
+		<card><name id="RumoroftheOne">Rumor of the One</name><set>LidlessEye</set></card>
+		<card><name id="Taladhan">Taladhan</name><set>DarkMinions</set></card>
+		<card><name id="Tuma">Tuma</name><set>AgainstShadow</set></card>
+		<card><name id="Wuluag">Wuluag</name><set>AgainstShadow</set></card>
+		<card><name id="Baduila">Baduila</name><set>DarkMinions</set></card>
+		<card><name id="Burat">Burat</name><set>AgainstShadow</set></card>
+		<card><name id="Dogrib">Dogrib</name><set>LidlessEye</set></card>
+		<card><name id="Elerina">Elerina</name><set>DarkMinions</set></card>
+		<card><name id="AwaitingtheCall">Awaiting the Call</name><set>LidlessEye</set></card>
+		<card><name id="AwaitingtheCall">Awaiting the Call</name><set>LidlessEye</set></card>
+		<card><name id="AwaitingtheCall">Awaiting the Call</name><set>LidlessEye</set></card>
+		<card><name id="WeHaveCometoKill">We Have Come to Kill</name><set>LidlessEye</set></card>
+		<card><name id="WeHaveCometoKill">We Have Come to Kill</name><set>LidlessEye</set></card>
+		<card><name id="WeHaveCometoKill">We Have Come to Kill</name><set>LidlessEye</set></card>
+	</superzone>
+	<superzone name="Location Deck">
+		<card><name id="Firiel">Firiel</name><set>DarkMinions</set></card>
+		<card><name id="Surion">Surion</name><set>DarkMinions</set></card>
+		<card><name id="DunlendingSpy">Dunlending Spy</name><set>LidlessEye</set></card>
+		<card><name id="Dorelas">Dorelas</name><set>LidlessEye</set></card>
+		<card><name id="Eun">Eun</name><set>DarkMinions</set></card>
+		<card><name id="Perchen">Perchen</name><set>AgainstShadow</set></card>
+		<card><name id="Uchel">Uchel</name><set>LidlessEye</set></card>
+		<card><name id="Elwen">Elwen</name><set>DarkMinions</set></card>
+		<card><name id="Wormtongue">Wormtongue</name><set>DarkMinions</set></card>
+		<card><name id="Ugluk">Ugluk</name><set>WhiteHand</set></card>
+		<card><name id="Herion">Herion</name><set>DarkMinions</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="Dunlendings2">Dunlendings *</name><set>LidlessEye</set></card>
+		<card><name id="Hillmen2">Hillmen</name><set>LidlessEye</set></card>
+	</superzone>
+</deck>

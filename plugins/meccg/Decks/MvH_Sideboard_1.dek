@@ -1,0 +1,21 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="LostatSea">Lost at Sea</name><set>Wizards</set></card>
+		<card><name id="LostinFreedomains">Lost in Free-domains</name><set>Wizards</set></card>
+		<card><name id="LostinDarkdomains">Lost in Dark-domains</name><set>Wizards</set></card>
+		<card><name id="TheWayisShut">The Way is Shut</name><set>DarkMinions</set></card>
+		<card><name id="Snowstorm">Snowstorm</name><set>Wizards</set></card>
+		<card><name id="CallofHome">Call of Home</name><set>Wizards</set></card>
+		<card><name id="MusterDisperses">Muster Disperses</name><set>Wizards</set></card>
+		<card><name id="PilferAnythingUnwatched">Pilfer Anything Unwatched</name><set>AgainstShadow</set></card>
+		<card><name id="SeizedbyTerror">Seized by Terror</name><set>DarkMinions</set></card>
+		<card><name id="RolleddowntotheSea">Rolled down to the Sea</name><set>WhiteHand</set></card>
+		<card><name id="MordorinArms">Mordor in Arms</name><set>DarkMinions</set></card>
+		<card><name id="LureoftheSenses">Lure of the Senses</name><set>Wizards</set></card>
+		<card><name id="LureofExpedience">Lure of Expedience</name><set>Wizards</set></card>
+		<card><name id="FoulFumes">Foul Fumes</name><set>Wizards</set></card>
+	</superzone>
+</deck>

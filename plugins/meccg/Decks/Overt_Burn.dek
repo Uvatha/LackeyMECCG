@@ -1,0 +1,24 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="SmokeontheWind">Smoke on the Wind</name><set>LidlessEye</set></card>
+		<card><name id="SmokeontheWind">Smoke on the Wind</name><set>LidlessEye</set></card>
+		<card><name id="SmokeontheWind">Smoke on the Wind</name><set>LidlessEye</set></card>
+		<card><name id="WeighAllThingstoaNicety">Weigh All Things to a Nicety</name><set>LidlessEye</set></card>
+		<card><name id="WeighAllThingstoaNicety">Weigh All Things to a Nicety</name><set>LidlessEye</set></card>
+		<card><name id="DarkTryst">Dark Tryst</name><set>AgainstShadow</set></card>
+		<card><name id="DarkTryst">Dark Tryst</name><set>AgainstShadow</set></card>
+		<card><name id="DarkTryst">Dark Tryst</name><set>AgainstShadow</set></card>
+		<card><name id="DwarUnleashed">Dwar Unleashed</name><set>LidlessEye</set></card>
+		<card><name id="DwarUnleashed">Dwar Unleashed</name><set>LidlessEye</set></card>
+		<card><name id="DwarUnleashed">Dwar Unleashed</name><set>LidlessEye</set></card>
+		<card><name id="HelmofFear">Helm of Fear</name><set>AgainstShadow</set></card>
+	</superzone>
+	<superzone name="Location Deck">
+		<card><name id="DwartheRingwraith">Dwar the Ringwraith</name><set>LidlessEye</set></card>
+		<card><name id="DwartheRingwraith">Dwar the Ringwraith</name><set>LidlessEye</set></card>
+		<card><name id="DwartheRingwraith">Dwar the Ringwraith</name><set>LidlessEye</set></card>
+	</superzone>
+</deck>

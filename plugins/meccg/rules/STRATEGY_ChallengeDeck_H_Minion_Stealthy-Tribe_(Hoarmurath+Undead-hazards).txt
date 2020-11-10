@@ -1,0 +1,36 @@
+H - STEALTHY TRIBE
+HOARMURATH'S CHALLENGE DECK 
+
+Hoarmurath directs a band of Morgul scouts into the fringe Shadow areas of the Misty Mountains to steal technologies and win over independent Orc tribes. His minions rely on stealth and minimal movement in the open, though they can fight in a pinch. The hazards are solid Undead.
+ 
+Starting Companies (2) at Dol Guldur 
+• Gorbag, Grishnakh, Ufthak, and Lugdush form the main company. Gorbag controls Grishnakh and starts with Blazon of the Eye. Ufthak starts with Strange Rations. 
+• Ill-favoured Fellow starts by himself at Dol Guldur and waits for more characters to join his company. 
+
+Suggested Sites for Resources
+• The Arkenstone - Moria or Caves of Ulund 
+• Blasting Fire (x3) - tapped Shadow-hold 
+• Great Lord of Goblin-gate - Goblin-gate 
+• High Helm - Mount Gundabad or Sarn Goriwing
+• Orcs of Moria - Moria 
+• Sable Shield - Mount Gundabad or Sarn Goriwing
+• Scroll of Isildur - Moria or Caves of Ulund [storing it a Barad-dur] 
+• Snaga-hai (x2) - tapped Shadow-hold 
+• Stinker - Goblin-gate 
+• Vile Fumes (x3) - tapped Shadow-hold 
+• War-wolf (x3) - tapped Shadow-hold (except Dead Marshes and Mount Gram) 
+• Black Mace (x2) (sideboard) - Moria or Caves of Ulund (2nd deck cycle) 
+• Orcs of Mirkwood (sideboard) - Sarn Goriwing 
+
+Resource Play 
+The trickiest aspect of this deck is playing multiple site-tapping resources at a small number of Shadow-holds. The 3 Records Unread are key to pulling this off. This minor item untaps Goblin-gate for the 2 allies playable there and Moria for its faction and one greater item. The nature of this deck is for the company of Orc scouts to move very little, thereby decreasing the number of creatures that attack them. Once a Shadow-hold is tapped, the deck provides a great number of playable 1 marshalling point resources including factions, allies, and items. A company should not move to an untapped Moria or Goblin-gate unless it has one of the resources specific to that site in hand.
+ 
+Hoarmurath 
+Hoarmurath taps every organization phase to bring a resource to the play deck from the sideboard. The only exception is when you have Voices of Malice in your hand --Hoarmurath is your only sage. He does not move from Dol Guldur in any case, increasing your hand size by one. It may be useful to bring in Fell Rider near the end of the first deck cycle. In this way, you have the option of moving Hoarmurath for the second cycle.
+ 
+Hazard Play 
+Woe be the opponent who wanders into this hazard mix unprepared! Practicing a little patience. you can unload a vicious mix of Undead attacks. The key is to turn them into monsters with bonuses from The Moon Is Dead, Plague of Wights, and Chill Dousers. For example, you can reasonably create a Ghouls attack of 14 strikes at 10 prowess. You should generally look to discard hazards in favor of keeping your numerous marshalling point sources in hand, however.
+ 
+Sideboard 
+Many resources in the sideboard will undoubtedly be useful against any opponent: Orc Quarrels, Black Maces, Sudden Call, etc. In fact with Hoarmurath tapping most turns to bring a resource into the play deck, you effectively increase the number of resources in the play deck without increasing the number of hazards. 
+There is nothing tricky about the sideboard hazards. Use An Unexpected Ourposts to recycle your best Undead creatures or enhancers if you are making good use of them. Otherwise bring in hazards from the sideboard to hit the elusive opponent in new ways. 

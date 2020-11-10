@@ -1,0 +1,76 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Fellowship">Fellowship</name><set>Wizards</set></card>
+		<card><name id="Fellowship">Fellowship</name><set>Wizards</set></card>
+		<card><name id="Fellowship">Fellowship</name><set>Wizards</set></card>
+		<card><name id="Glamdring">Glamdring</name><set>Wizards</set></card>
+		<card><name id="Orcrist">Orcrist</name><set>Wizards</set></card>
+		<card><name id="Orcrist">Orcrist</name><set>Wizards</set></card>
+		<card><name id="Orcrist">Orcrist</name><set>Wizards</set></card>
+		<card><name id="Orcrist">Orcrist</name><set>Wizards</set></card>
+		<card><name id="ValiantSword">Valiant Sword</name><set>Dragons</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="Woodelves">Wood-elves</name><set>Wizards</set></card>
+		<card><name id="IronHillDwarves">Iron Hill Dwarves</name><set>Wizards</set></card>
+		<card><name id="MenofLaketown">Men of Lake-town</name><set>Dragons</set></card>
+		<card><name id="HousesofHealing">Houses of Healing</name><set>Dragons</set></card>
+		<card><name id="HousesofHealing">Houses of Healing</name><set>Dragons</set></card>
+		<card><name id="NobleSteed">Noble Steed</name><set>WhiteHand</set></card>
+		<card><name id="NobleSteed">Noble Steed</name><set>WhiteHand</set></card>
+		<card><name id="FairTravelsinWilderness">Fair Travels in Wilderness</name><set>Wizards</set></card>
+		<card><name id="FairTravelsinWilderness">Fair Travels in Wilderness</name><set>Wizards</set></card>
+		<card><name id="FairTravelsinWilderness">Fair Travels in Wilderness</name><set>Wizards</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="NoStrangersatthisTime">No Strangers at this Time</name><set>AgainstShadow</set></card>
+		<card><name id="NoStrangersatthisTime">No Strangers at this Time</name><set>AgainstShadow</set></card>
+		<card><name id="NoStrangersatthisTime">No Strangers at this Time</name><set>AgainstShadow</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="DurinsAxe">Durin&apos;s Axe</name><set>Wizards</set></card>
+		<card><name id="Thranduil">Thranduil</name><set>Wizards</set></card>
+		<card><name id="Legolas">Legolas</name><set>Wizards</set></card>
+		<card><name id="Brand">Brand</name><set>Dragons</set></card>
+		<card><name id="Radagast">Radagast</name><set>Wizards</set></card>
+		<card><name id="Radagast">Radagast</name><set>Wizards</set></card>
+		<card><name id="Radagast">Radagast</name><set>Wizards</set></card>
+		<card><name id="Wormsbane">Wormsbane</name><set>Dragons</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="Beorn">Beorn</name><set>Wizards</set></card>
+		<card><name id="Hama">Hama</name><set>Wizards</set></card>
+		<card><name id="Wacho">Wacho</name><set>Wizards</set></card>
+		<card><name id="HornofAnor">Horn of Anor</name><set>Wizards</set></card>
+		<card><name id="DainII">Dain II</name><set>Wizards</set></card>
+		<card><name id="BlackArrow">Black Arrow</name><set>Promo</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="TheArkenstone">The Arkenstone</name><set>Wizards</set></card>
+		<card><name id="EmeraldoftheMariner">Emerald of the Mariner</name><set>Dragons</set></card>
+		<card><name id="Beornings">Beornings</name><set>Wizards</set></card>
+		<card><name id="TheGreatEagles">The Great Eagles</name><set>Wizards</set></card>
+		<card><name id="AllianceofFreePeoples">Alliance of Free Peoples</name><set>AgainstShadow</set></card>
+		<card><name id="APanoplyofWings">A Panoply of Wings</name><set>WhiteHand</set></card>
+		<card><name id="APanoplyofWings">A Panoply of Wings</name><set>WhiteHand</set></card>
+		<card><name id="APanoplyofWings">A Panoply of Wings</name><set>WhiteHand</set></card>
+		<card><name id="BeastsoftheWood">Beasts of the Wood</name><set>WhiteHand</set></card>
+		<card><name id="BeastsoftheWood">Beasts of the Wood</name><set>WhiteHand</set></card>
+		<card><name id="BeastsoftheWood">Beasts of the Wood</name><set>WhiteHand</set></card>
+		<card><name id="WildHounds">Wild Hounds</name><set>WhiteHand</set></card>
+		<card><name id="WildHounds">Wild Hounds</name><set>WhiteHand</set></card>
+		<card><name id="WildHounds">Wild Hounds</name><set>WhiteHand</set></card>
+		<card><name id="TheOldThrush">The Old Thrush</name><set>Wizards</set></card>
+		<card><name id="TheOldThrush">The Old Thrush</name><set>Wizards</set></card>
+		<card><name id="TheOldThrush">The Old Thrush</name><set>Wizards</set></card>
+		<card><name id="SatedBeast">Sated Beast</name><set>Dragons</set></card>
+		<card><name id="SatedBeast">Sated Beast</name><set>Dragons</set></card>
+		<card><name id="SatedBeast">Sated Beast</name><set>Dragons</set></card>
+	</superzone>
+</deck>

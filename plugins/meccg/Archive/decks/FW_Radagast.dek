@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Leaflock">Leaflock</name><set>Wizards</set></card>
+		<card><name id="Quickbeam">Quickbeam</name><set>Wizards</set></card>
+		<card><name id="RadagastsBlackBird">Radagast&apos;s Black Bird</name><set>WhiteHand</set></card>
+		<card><name id="Skinbark">Skinbark</name><set>Wizards</set></card>
+		<card><name id="Treebeard">Treebeard</name><set>Wizards</set></card>
+		<card><name id="APanoplyofWings">A Panoply of Wings</name><set>WhiteHand</set></card>
+		<card><name id="APanoplyofWings">A Panoply of Wings</name><set>WhiteHand</set></card>
+		<card><name id="DarkTryst">Dark Tryst</name><set>AgainstShadow</set></card>
+		<card><name id="DarkTryst">Dark Tryst</name><set>AgainstShadow</set></card>
+		<card><name id="DarkNumbers">Dark Numbers</name><set>DarkMinions</set></card>
+		<card><name id="DarkNumbers">Dark Numbers</name><set>DarkMinions</set></card>
+		<card><name id="LordlyPresence">Lordly Presence</name><set>Wizards</set></card>
+		<card><name id="LordlyPresence">Lordly Presence</name><set>Wizards</set></card>
+		<card><name id="ReadytoHisWill">Ready to His Will</name><set>LidlessEye</set></card>
+		<card><name id="ReadytoHisWill">Ready to His Will</name><set>LidlessEye</set></card>
+		<card><name id="BeastsoftheWood">Beasts of the Wood</name><set>WhiteHand</set></card>
+		<card><name id="BeastsoftheWood">Beasts of the Wood</name><set>WhiteHand</set></card>
+		<card><name id="NoStrangersatthisTime">No Strangers at this Time</name><set>AgainstShadow</set></card>
+		<card><name id="AFriendorThree">A Friend or Three</name><set>Wizards</set></card>
+		<card><name id="TemperingFriendship">Tempering Friendship</name><set>Wizards</set></card>
+		<card><name id="HousesofHealing">Houses of Healing</name><set>Dragons</set></card>
+		<card><name id="WeHaveCometoKill">We Have Come to Kill</name><set>LidlessEye</set></card>
+		<card><name id="WeHaveCometoKill">We Have Come to Kill</name><set>LidlessEye</set></card>
+		<card><name id="KnowledgeoftheEnemy">Knowledge of the Enemy</name><set>DarkMinions</set></card>
+		<card><name id="KnowledgeoftheEnemy">Knowledge of the Enemy</name><set>DarkMinions</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="FriendofSecretThings">Friend of Secret Things</name><set>WhiteHand</set></card>
+		<card><name id="FattyBolger">Fatty Bolger</name><set>Promo</set></card>
+		<card><name id="Frodo">Frodo</name><set>Wizards</set></card>
+		<card><name id="SamGamgee">Sam Gamgee</name><set>Wizards</set></card>
+		<card><name id="Bilbo">Bilbo</name><set>Wizards</set></card>
+		<card><name id="Cram">Cram</name><set>Dragons</set></card>
+	</superzone>
+	<superzone name="Location Deck">
+		<card><name id="Radagast2">Radagast *</name><set>WhiteHand</set></card>
+		<card><name id="Radagast2">Radagast *</name><set>WhiteHand</set></card>
+		<card><name id="Radagast2">Radagast *</name><set>WhiteHand</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="GirdleofRadagast">Girdle of Radagast</name><set>WhiteHand</set></card>
+		<card><name id="Gwaihir">Gwaihir</name><set>Wizards</set></card>
+		<card><name id="TheGreatEagles">The Great Eagles</name><set>Wizards</set></card>
+		<card><name id="LongGrievousSiege">Long Grievous Siege</name><set>Balrog</set></card>
+		<card><name id="GathererofLoyalties">Gatherer of Loyalties</name><set>WhiteHand</set></card>
+		<card><name id="LegacyofSmiths">Legacy of Smiths</name><set>WhiteHand</set></card>
+		<card><name id="Gollum">Gollum</name><set>Wizards</set></card>
+		<card><name id="PasstheDoorsofDolGuldur">Pass the Doors of Dol Guldur</name><set>DarkMinions</set></card>
+		<card><name id="RescuePrisoners">Rescue Prisoners</name><set>Wizards</set></card>
+	</superzone>
+</deck>

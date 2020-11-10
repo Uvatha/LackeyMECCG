@@ -1,0 +1,37 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Giant">Giant</name><set>Wizards</set></card>
+		<card><name id="Giant">Giant</name><set>Wizards</set></card>
+		<card><name id="Giant">Giant</name><set>Wizards</set></card>
+		<card><name id="ThundersCompanion2">Thunder&apos;s Companion *</name><set>LidlessEye</set></card>
+		<card><name id="ThundersCompanion2">Thunder&apos;s Companion *</name><set>LidlessEye</set></card>
+		<card><name id="RankuponRank">Rank upon Rank</name><set>DarkMinions</set></card>
+		<card><name id="RankuponRank">Rank upon Rank</name><set>DarkMinions</set></card>
+		<card><name id="RankuponRank">Rank upon Rank</name><set>DarkMinions</set></card>
+		<card><name id="DoorsofNight2">Doors of Night *</name><set>LidlessEye</set></card>
+		<card><name id="DoorsofNight2">Doors of Night *</name><set>LidlessEye</set></card>
+		<card><name id="DoorsofNight2">Doors of Night *</name><set>LidlessEye</set></card>
+		<card><name id="Twilight">Twilight</name><set>Wizards</set></card>
+		<card><name id="Twilight">Twilight</name><set>Wizards</set></card>
+		<card><name id="Twilight">Twilight</name><set>Wizards</set></card>
+		<card><name id="Assassin">Assassin</name><set>Wizards</set></card>
+		<card><name id="Assassin">Assassin</name><set>Wizards</set></card>
+		<card><name id="CorsairsofUmbar">Corsairs of Umbar</name><set>Wizards</set></card>
+		<card><name id="CorsairsofUmbar">Corsairs of Umbar</name><set>Wizards</set></card>
+		<card><name id="Ambusher">Ambusher</name><set>Wizards</set></card>
+		<card><name id="BeorningToll">Beorning Toll</name><set>LidlessEye</set></card>
+		<card><name id="Adunaphel">Adunaphel</name><set>Wizards</set></card>
+		<card><name id="MouthofSauron">Mouth of Sauron</name><set>Wizards</set></card>
+		<card><name id="DaelominatHome">Daelomin at Home</name><set>Dragons</set></card>
+		<card><name id="AnUnexpectedOutpost">An Unexpected Outpost</name><set>DarkMinions</set></card>
+		<card><name id="AnUnexpectedOutpost">An Unexpected Outpost</name><set>DarkMinions</set></card>
+		<card><name id="AnUnexpectedOutpost">An Unexpected Outpost</name><set>DarkMinions</set></card>
+		<card><name id="River">River</name><set>Wizards</set></card>
+		<card><name id="River">River</name><set>Wizards</set></card>
+		<card><name id="River">River</name><set>Wizards</set></card>
+		<card><name id="RevealedtoallWatchers">Revealed to all Watchers</name><set>DarkMinions</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,72 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Orcrist">Orcrist</name><set>Wizards</set></card>
+		<card><name id="Wormsbane">Wormsbane</name><set>Dragons</set></card>
+		<card><name id="GatesofMorning">Gates of Morning</name><set>Wizards</set></card>
+		<card><name id="GatesofMorning">Gates of Morning</name><set>Wizards</set></card>
+		<card><name id="GatesofMorning">Gates of Morning</name><set>Wizards</set></card>
+		<card><name id="StarofHighHope">Star of High Hope</name><set>Dragons</set></card>
+		<card><name id="StarofHighHope">Star of High Hope</name><set>Dragons</set></card>
+		<card><name id="StarofHighHope">Star of High Hope</name><set>Dragons</set></card>
+		<card><name id="Sun">Sun</name><set>Wizards</set></card>
+		<card><name id="Sun">Sun</name><set>Wizards</set></card>
+		<card><name id="Sun">Sun</name><set>Wizards</set></card>
+		<card><name id="EchoofAllJoy">Echo of All Joy</name><set>Dragons</set></card>
+		<card><name id="EchoofAllJoy">Echo of All Joy</name><set>Dragons</set></card>
+		<card><name id="EchoofAllJoy">Echo of All Joy</name><set>Dragons</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="FateoftheIthilstone">Fate of the Ithil-stone</name><set>DarkMinions</set></card>
+		<card><name id="FateoftheIthilstone">Fate of the Ithil-stone</name><set>DarkMinions</set></card>
+		<card><name id="ReturnoftheKing">Return of the King</name><set>Wizards</set></card>
+		<card><name id="ChoiceofLuthien">Choice of Luthien</name><set>DarkMinions</set></card>
+		<card><name id="TokenofGoodwill">Token of Goodwill</name><set>DarkMinions</set></card>
+		<card><name id="TokenofGoodwill">Token of Goodwill</name><set>DarkMinions</set></card>
+		<card><name id="TokenofGoodwill">Token of Goodwill</name><set>DarkMinions</set></card>
+		<card><name id="ClearSkies">Clear Skies</name><set>Wizards</set></card>
+		<card><name id="ClearSkies">Clear Skies</name><set>Wizards</set></card>
+		<card><name id="Pallando">Pallando</name><set>Wizards</set></card>
+		<card><name id="Pallando">Pallando</name><set>Wizards</set></card>
+		<card><name id="Pallando">Pallando</name><set>Wizards</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SaplingoftheWhiteTree">Sapling of the White Tree</name><set>Wizards</set></card>
+		<card><name id="SaplingoftheWhiteTree">Sapling of the White Tree</name><set>Wizards</set></card>
+		<card><name id="PalantirofAmonSul">Palantir of Amon Sul</name><set>Wizards</set></card>
+		<card><name id="ForgottenScrolls">Forgotten Scrolls</name><set>DarkMinions</set></card>
+		<card><name id="ForgottenScrolls">Forgotten Scrolls</name><set>DarkMinions</set></card>
+		<card><name id="ForgottenScrolls">Forgotten Scrolls</name><set>DarkMinions</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="AragornII">Aragorn II</name><set>Wizards</set></card>
+		<card><name id="BoromirII">Boromir II</name><set>Wizards</set></card>
+		<card><name id="Beregond">Beregond</name><set>Wizards</set></card>
+		<card><name id="ShieldofIronboundAsh">Shield of Iron-bound Ash</name><set>Wizards</set></card>
+		<card><name id="Arwen">Arwen</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Location Deck">
+		<card><name id="LuckySearch">Lucky Search</name><set>Wizards</set></card>
+		<card><name id="LuckySearch">Lucky Search</name><set>Wizards</set></card>
+		<card><name id="LuckySearch">Lucky Search</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="TheWhiteTree">The White Tree</name><set>Wizards</set></card>
+		<card><name id="MenofAnorien">Men of Anorien</name><set>Wizards</set></card>
+		<card><name id="TowerGuardofMinasTirith">Tower Guard of Minas Tirith</name><set>Wizards</set></card>
+		<card><name id="HousesofHealing">Houses of Healing</name><set>Dragons</set></card>
+		<card><name id="HousesofHealing">Houses of Healing</name><set>Dragons</set></card>
+		<card><name id="Fireworks">Fireworks</name><set>DarkMinions</set></card>
+		<card><name id="Fireworks">Fireworks</name><set>DarkMinions</set></card>
+		<card><name id="CloudlessDay">Cloudless Day</name><set>Dragons</set></card>
+		<card><name id="CloudlessDay">Cloudless Day</name><set>Dragons</set></card>
+		<card><name id="DarkNumbers">Dark Numbers</name><set>DarkMinions</set></card>
+		<card><name id="DarkNumbers">Dark Numbers</name><set>DarkMinions</set></card>
+		<card><name id="DarkNumbers">Dark Numbers</name><set>DarkMinions</set></card>
+		<card><name id="KnowledgeoftheEnemy">Knowledge of the Enemy</name><set>DarkMinions</set></card>
+		<card><name id="KnowledgeoftheEnemy">Knowledge of the Enemy</name><set>DarkMinions</set></card>
+		<card><name id="KnowledgeoftheEnemy">Knowledge of the Enemy</name><set>DarkMinions</set></card>
+	</superzone>
+</deck>

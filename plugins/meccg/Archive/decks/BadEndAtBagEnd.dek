@@ -1,0 +1,78 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="WeighAllThingstoaNicety">Weigh All Things to a Nicety</name><set>LidlessEye</set></card>
+		<card><name id="WeighAllThingstoaNicety">Weigh All Things to a Nicety</name><set>LidlessEye</set></card>
+		<card><name id="WeighAllThingstoaNicety">Weigh All Things to a Nicety</name><set>LidlessEye</set></card>
+		<card><name id="NewsoftheShire">News of the Shire</name><set>LidlessEye</set></card>
+		<card><name id="NewsoftheShire">News of the Shire</name><set>LidlessEye</set></card>
+		<card><name id="NewsoftheShire">News of the Shire</name><set>LidlessEye</set></card>
+		<card><name id="IllReportYou">I&apos;ll Report You</name><set>LidlessEye</set></card>
+		<card><name id="IllReportYou">I&apos;ll Report You</name><set>LidlessEye</set></card>
+		<card><name id="IllReportYou">I&apos;ll Report You</name><set>LidlessEye</set></card>
+		<card><name id="DarkTryst">Dark Tryst</name><set>AgainstShadow</set></card>
+		<card><name id="DarkTryst">Dark Tryst</name><set>AgainstShadow</set></card>
+		<card><name id="DarkTryst">Dark Tryst</name><set>AgainstShadow</set></card>
+		<card><name id="BroadheadedSpear">Broad-headed Spear</name><set>LidlessEye</set></card>
+		<card><name id="BroadheadedSpear">Broad-headed Spear</name><set>LidlessEye</set></card>
+		<card><name id="SwarmofBats">Swarm of Bats</name><set>LidlessEye</set></card>
+		<card><name id="SwarmofBats">Swarm of Bats</name><set>LidlessEye</set></card>
+		<card><name id="BlackMace">Black Mace</name><set>LidlessEye</set></card>
+		<card><name id="BlackMace">Black Mace</name><set>LidlessEye</set></card>
+		<card><name id="SmokeontheWind">Smoke on the Wind</name><set>LidlessEye</set></card>
+		<card><name id="SmokeontheWind">Smoke on the Wind</name><set>LidlessEye</set></card>
+		<card><name id="SmokeontheWind">Smoke on the Wind</name><set>LidlessEye</set></card>
+		<card><name id="WhereTheresaWhip">Where There&apos;s a Whip</name><set>LidlessEye</set></card>
+		<card><name id="WhereTheresaWhip">Where There&apos;s a Whip</name><set>LidlessEye</set></card>
+		<card><name id="WhereTheresaWhip">Where There&apos;s a Whip</name><set>LidlessEye</set></card>
+		<card><name id="KillAllButNOTtheHalflings">Kill All But NOT the Halflings</name><set>LidlessEye</set></card>
+		<card><name id="KillAllButNOTtheHalflings">Kill All But NOT the Halflings</name><set>LidlessEye</set></card>
+		<card><name id="KillAllButNOTtheHalflings">Kill All But NOT the Halflings</name><set>LidlessEye</set></card>
+		<card><name id="RedBookofWestmarch2">Red Book of Westmarch *</name><set>LidlessEye</set></card>
+		<card><name id="ScrollofIsildur2">Scroll of Isildur *</name><set>LidlessEye</set></card>
+		<card><name id="RegimentofBlackCrows">Regiment of Black Crows</name><set>AgainstShadow</set></card>
+		<card><name id="RegimentofBlackCrows">Regiment of Black Crows</name><set>AgainstShadow</set></card>
+		<card><name id="AncientSecrets">Ancient Secrets</name><set>Balrog</set></card>
+		<card><name id="AncientSecrets">Ancient Secrets</name><set>Balrog</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="Shagrat">Shagrat</name><set>LidlessEye</set></card>
+		<card><name id="Whip">Whip</name><set>LidlessEye</set></card>
+		<card><name id="Lagduf">Lagduf</name><set>LidlessEye</set></card>
+		<card><name id="OrdersfromLugburz">Orders from Lugburz</name><set>AgainstShadow</set></card>
+		<card><name id="UlkaurtheTongueless">Ulkaur the Tongueless</name><set>LidlessEye</set></card>
+		<card><name id="Muzgash">Muzgash</name><set>LidlessEye</set></card>
+		<card><name id="OrcVeteran">Orc Veteran</name><set>LidlessEye</set></card>
+		<card><name id="OrcVeteran">Orc Veteran</name><set>LidlessEye</set></card>
+		<card><name id="Orcdraughts">Orc-draughts</name><set>LidlessEye</set></card>
+		<card><name id="Orcliquor">Orc-liquor</name><set>LidlessEye</set></card>
+		<card><name id="Orcmounts">Orc-mounts</name><set>LidlessEye</set></card>
+	</superzone>
+	<superzone name="Location Deck">
+		<card><name id="Snaga">Snaga</name><set>LidlessEye</set></card>
+		<card><name id="Mauhur">Mauhur</name><set>AgainstShadow</set></card>
+		<card><name id="Lagduf">Lagduf</name><set>LidlessEye</set></card>
+		<card><name id="Radbug">Radbug</name><set>LidlessEye</set></card>
+		<card><name id="DoethDurthak">Doeth (Durthak)</name><set>WhiteHand</set></card>
+		<card><name id="Lugdush">Lugdush</name><set>WhiteHand</set></card>
+		<card><name id="OldTroll">Old Troll</name><set>LidlessEye</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="SuddenCall">Sudden Call</name><set>LidlessEye</set></card>
+		<card><name id="ForcedMarch">Forced March</name><set>LidlessEye</set></card>
+		<card><name id="ForcedMarch">Forced March</name><set>LidlessEye</set></card>
+		<card><name id="ForcedMarch">Forced March</name><set>LidlessEye</set></card>
+		<card><name id="LegItDoubleQuick">Leg It Double Quick</name><set>LidlessEye</set></card>
+		<card><name id="LegItDoubleQuick">Leg It Double Quick</name><set>LidlessEye</set></card>
+		<card><name id="LegItDoubleQuick">Leg It Double Quick</name><set>LidlessEye</set></card>
+		<card><name id="PiercingAllShadows">Piercing All Shadows</name><set>WhiteHand</set></card>
+		<card><name id="PiercingAllShadows">Piercing All Shadows</name><set>WhiteHand</set></card>
+		<card><name id="TokenstoShow">Tokens to Show</name><set>AgainstShadow</set></card>
+		<card><name id="TokenstoShow">Tokens to Show</name><set>AgainstShadow</set></card>
+		<card><name id="DwartheRingwraith">Dwar the Ringwraith</name><set>LidlessEye</set></card>
+		<card><name id="DwartheRingwraith">Dwar the Ringwraith</name><set>LidlessEye</set></card>
+		<card><name id="DwartheRingwraith">Dwar the Ringwraith</name><set>LidlessEye</set></card>
+	</superzone>
+</deck>

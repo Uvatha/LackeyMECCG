@@ -1,0 +1,75 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="KeystotheWhiteTowers">Keys to the White Towers</name><set>WhiteHand</set></card>
+		<card><name id="TokenofGoodwill">Token of Goodwill</name><set>DarkMinions</set></card>
+		<card><name id="TokenofGoodwill">Token of Goodwill</name><set>DarkMinions</set></card>
+		<card><name id="LegacyofSmiths">Legacy of Smiths</name><set>WhiteHand</set></card>
+		<card><name id="Concealment">Concealment</name><set>Wizards</set></card>
+		<card><name id="Concealment">Concealment</name><set>Wizards</set></card>
+		<card><name id="ANicePlacetoHide">A Nice Place to Hide</name><set>LidlessEye</set></card>
+		<card><name id="ANicePlacetoHide">A Nice Place to Hide</name><set>LidlessEye</set></card>
+		<card><name id="DarkTryst">Dark Tryst</name><set>AgainstShadow</set></card>
+		<card><name id="DarkTryst">Dark Tryst</name><set>AgainstShadow</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="FortressoftheTowers">Fortress of the Towers</name><set>WhiteHand</set></card>
+		<card><name id="RangersoftheNorth">Rangers of the North</name><set>Wizards</set></card>
+		<card><name id="Hillmen">Hillmen</name><set>Wizards</set></card>
+		<card><name id="NoStrangersatthisTime">No Strangers at this Time</name><set>AgainstShadow</set></card>
+		<card><name id="NoStrangersatthisTime">No Strangers at this Time</name><set>AgainstShadow</set></card>
+		<card><name id="NoStrangersatthisTime">No Strangers at this Time</name><set>AgainstShadow</set></card>
+		<card><name id="WosesofOldPukelland">Woses of Old Pukel-land</name><set>Wizards</set></card>
+		<card><name id="Lossoth">Lossoth</name><set>Wizards</set></card>
+		<card><name id="TruthsofDoom">Truths of Doom</name><set>WhiteHand</set></card>
+		<card><name id="GathererofLoyalties">Gatherer of Loyalties</name><set>WhiteHand</set></card>
+		<card><name id="ReadytoHisWill">Ready to His Will</name><set>LidlessEye</set></card>
+		<card><name id="ReadytoHisWill">Ready to His Will</name><set>LidlessEye</set></card>
+		<card><name id="TomBombadil">Tom Bombadil</name><set>Wizards</set></card>
+		<card><name id="HighHelm">High Helm</name><set>LidlessEye</set></card>
+		<card><name id="HighHelm">High Helm</name><set>LidlessEye</set></card>
+		<card><name id="DarkQuarrels">Dark Quarrels</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="Asternak">Asternak</name><set>LidlessEye</set></card>
+		<card><name id="WizardsMyrmidon">Wizard&apos;s Myrmidon</name><set>WhiteHand</set></card>
+		<card><name id="Beretar">Beretar</name><set>Wizards</set></card>
+		<card><name id="StaveofPallando">Stave of Pallando</name><set>WhiteHand</set></card>
+		<card><name id="Jerrek">Jerrek</name><set>LidlessEye</set></card>
+		<card><name id="DunlendingSpy">Dunlending Spy</name><set>LidlessEye</set></card>
+		<card><name id="Eradan">Eradan</name><set>LidlessEye</set></card>
+		<card><name id="HornofAnor">Horn of Anor</name><set>Wizards</set></card>
+		<card><name id="Thrallring">Thrall-ring</name><set>AgainstShadow</set></card>
+		<card><name id="HealingHerbs">Healing Herbs</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Location Deck">
+		<card><name id="Pallando2">Pallando *</name><set>WhiteHand</set></card>
+		<card><name id="Pallando2">Pallando *</name><set>WhiteHand</set></card>
+		<card><name id="Pallando2">Pallando *</name><set>WhiteHand</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="GuardedHaven">Guarded Haven</name><set>WhiteHand</set></card>
+		<card><name id="GuardedHaven">Guarded Haven</name><set>WhiteHand</set></card>
+		<card><name id="MischiefinaMeanWay">Mischief in a Mean Way</name><set>WhiteHand</set></card>
+		<card><name id="MischiefinaMeanWay">Mischief in a Mean Way</name><set>WhiteHand</set></card>
+		<card><name id="MischiefinaMeanWay">Mischief in a Mean Way</name><set>WhiteHand</set></card>
+		<card><name id="ProphetofDoom">Prophet of Doom</name><set>WhiteHand</set></card>
+		<card><name id="Halforcs">Half-orcs</name><set>WhiteHand</set></card>
+		<card><name id="Halforcs">Half-orcs</name><set>WhiteHand</set></card>
+		<card><name id="Halforcs">Half-orcs</name><set>WhiteHand</set></card>
+		<card><name id="PromptingsofWisdom">Promptings of Wisdom</name><set>WhiteHand</set></card>
+		<card><name id="PromptingsofWisdom">Promptings of Wisdom</name><set>WhiteHand</set></card>
+		<card><name id="AStridentSpawn">A Strident Spawn</name><set>WhiteHand</set></card>
+		<card><name id="GreatPatron">Great Patron</name><set>WhiteHand</set></card>
+		<card><name id="IllfavouredFellow">Ill-favoured Fellow</name><set>WhiteHand</set></card>
+		<card><name id="IllfavouredFellow">Ill-favoured Fellow</name><set>WhiteHand</set></card>
+		<card><name id="DoethDurthak">Doeth (Durthak)</name><set>WhiteHand</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="Layos">Layos</name><set>LidlessEye</set></card>
+	</superzone>
+</deck>

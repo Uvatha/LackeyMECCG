@@ -1,0 +1,21 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="AnUnexpectedParty">An Unexpected Party</name><set>DarkMinions</set></card>
+		<card><name id="AnUnexpectedParty">An Unexpected Party</name><set>DarkMinions</set></card>
+		<card><name id="AnUnexpectedParty">An Unexpected Party</name><set>DarkMinions</set></card>
+		<card><name id="GatesofMorning">Gates of Morning</name><set>Wizards</set></card>
+		<card><name id="GatesofMorning">Gates of Morning</name><set>Wizards</set></card>
+		<card><name id="GatesofMorning">Gates of Morning</name><set>Wizards</set></card>
+		<card><name id="CloudlessDay">Cloudless Day</name><set>Dragons</set></card>
+		<card><name id="CloudlessDay">Cloudless Day</name><set>Dragons</set></card>
+		<card><name id="CloudlessDay">Cloudless Day</name><set>Dragons</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LeafBrooch">Leaf Brooch</name><set>DarkMinions</set></card>
+		<card><name id="LeafBrooch">Leaf Brooch</name><set>DarkMinions</set></card>
+		<card><name id="LeafBrooch">Leaf Brooch</name><set>DarkMinions</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,19 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Last of the Seven">Last of the Seven</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Last of the Seven">Last of the Seven</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Last of the Seven">Last of the Seven</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Thrain">Thrain</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Thrain">Thrain</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Thrain">Thrain</name><set>Durin&apos;s Folk</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="Son of Thror">Son of Thror</name><set>Durin&apos;s Folk</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="Foundations of the Hoard">Foundations of the Hoard</name><set>Durin&apos;s Folk</set></card>
+	</superzone>
+</deck>

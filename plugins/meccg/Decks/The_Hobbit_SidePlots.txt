@@ -1,0 +1,38 @@
+3	Fellowship
+1	Glamdring
+4	Orcrist
+1	Valiant Sword
+3	Longbottom Leaf
+1	Wood-elves
+1	Iron Hill Dwarves
+1	Men of Lake-town
+2	Houses of Healing
+2	Noble Steed
+3	Fair Travels in Wilderness
+3	Marvels Told
+3	No Strangers at this Time
+3	Smoke Rings
+1	Durin's Axe
+1	Thranduil
+1	Legolas
+1	Brand
+3	Radagast
+1	Wormsbane
+Starting Company:
+1	Beorn
+1	Hama
+1	Wacho
+1	Horn of Anor
+1	Dain II
+1	Black Arrow
+Sideboard:
+1	The Arkenstone
+1	Emerald of the Mariner
+1	Beornings
+1	The Great Eagles
+1	Alliance of Free Peoples
+3	A Panoply of Wings
+3	Beasts of the Wood
+3	Wild Hounds
+3	The Old Thrush
+3	Sated Beast

@@ -1,0 +1,70 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="EnrunedShield">Enruned Shield</name><set>Dragons</set></card>
+		<card><name id="HalflingStrength">Halfling Strength</name><set>Wizards</set></card>
+		<card><name id="HalflingStrength">Halfling Strength</name><set>Wizards</set></card>
+		<card><name id="HalflingStrength">Halfling Strength</name><set>Wizards</set></card>
+		<card><name id="Concealment">Concealment</name><set>Wizards</set></card>
+		<card><name id="Concealment">Concealment</name><set>Wizards</set></card>
+		<card><name id="Concealment">Concealment</name><set>Wizards</set></card>
+		<card><name id="Stealth">Stealth</name><set>Wizards</set></card>
+		<card><name id="Stealth">Stealth</name><set>Wizards</set></card>
+		<card><name id="Stealth">Stealth</name><set>Wizards</set></card>
+		<card><name id="LuckySearch">Lucky Search</name><set>Wizards</set></card>
+		<card><name id="LuckySearch">Lucky Search</name><set>Wizards</set></card>
+		<card><name id="LuckySearch">Lucky Search</name><set>Wizards</set></card>
+		<card><name id="PromptingsofWisdom">Promptings of Wisdom</name><set>WhiteHand</set></card>
+		<card><name id="PromptingsofWisdom">Promptings of Wisdom</name><set>WhiteHand</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="BlueMountainDwarves">Blue Mountain Dwarves</name><set>Wizards</set></card>
+		<card><name id="ToFealtySworn">To Fealty Sworn</name><set>Balrog</set></card>
+		<card><name id="ToFealtySworn">To Fealty Sworn</name><set>Balrog</set></card>
+		<card><name id="ToFealtySworn">To Fealty Sworn</name><set>Balrog</set></card>
+		<card><name id="BookofMazarbul">Book of Mazarbul</name><set>Wizards</set></card>
+		<card><name id="RidersofRohan">Riders of Rohan</name><set>Wizards</set></card>
+		<card><name id="DarkQuarrels">Dark Quarrels</name><set>Wizards</set></card>
+		<card><name id="DarkQuarrels">Dark Quarrels</name><set>Wizards</set></card>
+		<card><name id="EarthofGaladrielsOrchard">Earth of Galadriel&apos;s Orchard</name><set>Wizards</set></card>
+		<card><name id="AShortRest">A Short Rest</name><set>Dragons</set></card>
+		<card><name id="AShortRest">A Short Rest</name><set>Dragons</set></card>
+		<card><name id="AShortRest">A Short Rest</name><set>Dragons</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="Bilbo">Bilbo</name><set>Wizards</set></card>
+		<card><name id="FattyBolger">Fatty Bolger</name><set>Promo</set></card>
+		<card><name id="SamGamgee">Sam Gamgee</name><set>Wizards</set></card>
+		<card><name id="RobinSmallburrow">Robin Smallburrow</name><set>Wizards</set></card>
+		<card><name id="Gloin">Gloin</name><set>Wizards</set></card>
+		<card><name id="Cram">Cram</name><set>Dragons</set></card>
+		<card><name id="Cram">Cram</name><set>Dragons</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="Theoden">Theoden</name><set>Wizards</set></card>
+		<card><name id="Frodo">Frodo</name><set>Wizards</set></card>
+		<card><name id="EmeraldoftheMariner">Emerald of the Mariner</name><set>Dragons</set></card>
+		<card><name id="TorqueofHues">Torque of Hues</name><set>Wizards</set></card>
+		<card><name id="TheArkenstone">The Arkenstone</name><set>Wizards</set></card>
+		<card><name id="RedArrow">Red Arrow</name><set>Wizards</set></card>
+		<card><name id="NobleSteed">Noble Steed</name><set>WhiteHand</set></card>
+		<card><name id="NobleSteed">Noble Steed</name><set>WhiteHand</set></card>
+		<card><name id="NobleSteed">Noble Steed</name><set>WhiteHand</set></card>
+		<card><name id="SafefromtheShadow">Safe from the Shadow</name><set>AgainstShadow</set></card>
+		<card><name id="Hobbits">Hobbits</name><set>Wizards</set></card>
+		<card><name id="Mallorn">Mallorn</name><set>DarkMinions</set></card>
+		<card><name id="AChanceMeeting">A Chance Meeting</name><set>Wizards</set></card>
+		<card><name id="AChanceMeeting">A Chance Meeting</name><set>Wizards</set></card>
+		<card><name id="AChanceMeeting">A Chance Meeting</name><set>Wizards</set></card>
+		<card><name id="Cirdan">Cirdan</name><set>Wizards</set></card>
+	</superzone>
+</deck>

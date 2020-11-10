@@ -1,0 +1,15 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Starting Company">
+		<card><name id="Elrond">Elrond</name><set>Wizards</set></card>
+		<card><name id="Galadriel">Galadriel</name><set>Wizards</set></card>
+		<card><name id="Halbarad">Halbarad</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Location Deck">
+		<card><name id="Alatar">Alatar</name><set>Wizards</set></card>
+		<card><name id="Alatar">Alatar</name><set>Wizards</set></card>
+		<card><name id="Alatar">Alatar</name><set>Wizards</set></card>
+	</superzone>
+</deck>

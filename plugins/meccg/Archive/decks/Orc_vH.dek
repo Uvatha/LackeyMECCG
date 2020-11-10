@@ -1,0 +1,41 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="AnUnexpectedOutpost">An Unexpected Outpost</name><set>DarkMinions</set></card>
+		<card><name id="AnUnexpectedOutpost">An Unexpected Outpost</name><set>DarkMinions</set></card>
+		<card><name id="DoorsofNight2">Doors of Night *</name><set>LidlessEye</set></card>
+		<card><name id="DoorsofNight2">Doors of Night *</name><set>LidlessEye</set></card>
+		<card><name id="DoorsofNight2">Doors of Night *</name><set>LidlessEye</set></card>
+		<card><name id="DaelominatHome">Daelomin at Home</name><set>Dragons</set></card>
+		<card><name id="Hobgoblins">Hobgoblins</name><set>Dragons</set></card>
+		<card><name id="Hobgoblins">Hobgoblins</name><set>Dragons</set></card>
+		<card><name id="Hobgoblins">Hobgoblins</name><set>Dragons</set></card>
+		<card><name id="LittleSnuffler">Little Snuffler</name><set>DarkMinions</set></card>
+		<card><name id="LittleSnuffler">Little Snuffler</name><set>DarkMinions</set></card>
+		<card><name id="LittleSnuffler">Little Snuffler</name><set>DarkMinions</set></card>
+		<card><name id="MinionsStir2">Minions Stir *</name><set>LidlessEye</set></card>
+		<card><name id="MinionsStir2">Minions Stir *</name><set>LidlessEye</set></card>
+		<card><name id="MinionsStir2">Minions Stir *</name><set>LidlessEye</set></card>
+		<card><name id="MouthofSauron">Mouth of Sauron</name><set>Wizards</set></card>
+		<card><name id="Orclieutenant">Orc-lieutenant</name><set>Wizards</set></card>
+		<card><name id="Orclieutenant">Orc-lieutenant</name><set>Wizards</set></card>
+		<card><name id="Orclieutenant">Orc-lieutenant</name><set>Wizards</set></card>
+		<card><name id="RevealedtoallWatchers">Revealed to all Watchers</name><set>DarkMinions</set></card>
+		<card><name id="Twilight2">Twilight *</name><set>LidlessEye</set></card>
+		<card><name id="Twilight2">Twilight *</name><set>LidlessEye</set></card>
+		<card><name id="Twilight2">Twilight *</name><set>LidlessEye</set></card>
+		<card><name id="TwoorThreeTribesPresent">Two or Three Tribes Present</name><set>DarkMinions</set></card>
+		<card><name id="TwoorThreeTribesPresent">Two or Three Tribes Present</name><set>DarkMinions</set></card>
+		<card><name id="Uruklieutenant">Uruk-lieutenant</name><set>LidlessEye</set></card>
+		<card><name id="Uruklieutenant">Uruk-lieutenant</name><set>LidlessEye</set></card>
+		<card><name id="Uruklieutenant">Uruk-lieutenant</name><set>LidlessEye</set></card>
+		<card><name id="DoubledVigilance">Doubled Vigilance</name><set>DarkMinions</set></card>
+		<card><name id="DoubledVigilance">Doubled Vigilance</name><set>DarkMinions</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="Siege">Siege</name><set>Wizards</set></card>
+		<card><name id="WaylaidWoundedandOrcdragged">Waylaid, Wounded, and Orc-dragged</name><set>DarkMinions</set></card>
+	</superzone>
+</deck>

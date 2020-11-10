@@ -1,0 +1,40 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Uruklieutenant">Uruk-lieutenant</name><set>LidlessEye</set></card>
+		<card><name id="Uruklieutenant">Uruk-lieutenant</name><set>LidlessEye</set></card>
+		<card><name id="Uruklieutenant">Uruk-lieutenant</name><set>LidlessEye</set></card>
+		<card><name id="UmagaurthePale">Umagaur the Pale</name><set>DarkMinions</set></card>
+		<card><name id="Buthrakaur">Buthrakaur</name><set>Balrog</set></card>
+		<card><name id="LittleSnuffler">Little Snuffler</name><set>DarkMinions</set></card>
+		<card><name id="LittleSnuffler">Little Snuffler</name><set>DarkMinions</set></card>
+		<card><name id="LittleSnuffler">Little Snuffler</name><set>DarkMinions</set></card>
+		<card><name id="DoorsofNight">Doors of Night</name><set>Wizards</set></card>
+		<card><name id="DoorsofNight">Doors of Night</name><set>Wizards</set></card>
+		<card><name id="DoorsofNight">Doors of Night</name><set>Wizards</set></card>
+		<card><name id="MinionsStir">Minions Stir</name><set>Wizards</set></card>
+		<card><name id="MinionsStir">Minions Stir</name><set>Wizards</set></card>
+		<card><name id="MinionsStir">Minions Stir</name><set>Wizards</set></card>
+		<card><name id="MorgulNight">Morgul Night</name><set>Wizards</set></card>
+		<card><name id="MorgulNight">Morgul Night</name><set>Wizards</set></card>
+		<card><name id="Orcguard">Orc-guard</name><set>Wizards</set></card>
+		<card><name id="Orcguard">Orc-guard</name><set>Wizards</set></card>
+		<card><name id="Orcguard">Orc-guard</name><set>Wizards</set></card>
+		<card><name id="Orclieutenant">Orc-lieutenant</name><set>Wizards</set></card>
+		<card><name id="Orclieutenant">Orc-lieutenant</name><set>Wizards</set></card>
+		<card><name id="Orclieutenant">Orc-lieutenant</name><set>Wizards</set></card>
+		<card><name id="Orcwatch">Orc-watch</name><set>Wizards</set></card>
+		<card><name id="Orcwatch">Orc-watch</name><set>Wizards</set></card>
+		<card><name id="TheWillofSauron">The Will of Sauron</name><set>Wizards</set></card>
+		<card><name id="TheWillofSauron">The Will of Sauron</name><set>Wizards</set></card>
+		<card><name id="TheWillofSauron">The Will of Sauron</name><set>Wizards</set></card>
+		<card><name id="TwoorThreeTribesPresent">Two or Three Tribes Present</name><set>DarkMinions</set></card>
+		<card><name id="AnUnexpectedOutpost">An Unexpected Outpost</name><set>DarkMinions</set></card>
+		<card><name id="AnUnexpectedOutpost">An Unexpected Outpost</name><set>DarkMinions</set></card>
+		<card><name id="DwartheRingwraith">Dwar the Ringwraith</name><set>LidlessEye</set></card>
+		<card><name id="DwartheRingwraith">Dwar the Ringwraith</name><set>LidlessEye</set></card>
+		<card><name id="DwartheRingwraith">Dwar the Ringwraith</name><set>LidlessEye</set></card>
+	</superzone>
+</deck>

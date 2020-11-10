@@ -1,0 +1,81 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="LeafBrooch">Leaf Brooch</name><set>DarkMinions</set></card>
+		<card><name id="LeafBrooch">Leaf Brooch</name><set>DarkMinions</set></card>
+		<card><name id="LeafBrooch">Leaf Brooch</name><set>DarkMinions</set></card>
+		<card><name id="WizardsTest">Wizard&apos;s Test</name><set>Wizards</set></card>
+		<card><name id="WizardsTest">Wizard&apos;s Test</name><set>Wizards</set></card>
+		<card><name id="WizardsTest">Wizard&apos;s Test</name><set>Wizards</set></card>
+		<card><name id="SecretPassage">Secret Passage</name><set>Wizards</set></card>
+		<card><name id="SecretPassage">Secret Passage</name><set>Wizards</set></card>
+		<card><name id="SecretPassage">Secret Passage</name><set>Wizards</set></card>
+		<card><name id="AnUnexpectedParty">An Unexpected Party</name><set>DarkMinions</set></card>
+		<card><name id="AnUnexpectedParty">An Unexpected Party</name><set>DarkMinions</set></card>
+		<card><name id="AnUnexpectedParty">An Unexpected Party</name><set>DarkMinions</set></card>
+		<card><name id="TheOneRing">The One Ring</name><set>Wizards</set></card>
+		<card><name id="Concealment">Concealment</name><set>Wizards</set></card>
+		<card><name id="Concealment">Concealment</name><set>Wizards</set></card>
+		<card><name id="Concealment">Concealment</name><set>Wizards</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="Narya">Narya</name><set>Wizards</set></card>
+		<card><name id="Narya">Narya</name><set>Wizards</set></card>
+		<card><name id="Narya">Narya</name><set>Wizards</set></card>
+		<card><name id="Fellowship">Fellowship</name><set>Wizards</set></card>
+		<card><name id="Fellowship">Fellowship</name><set>Wizards</set></card>
+		<card><name id="Fellowship">Fellowship</name><set>Wizards</set></card>
+		<card><name id="FavoroftheValar">Favor of the Valar</name><set>Wizards</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="FairTravelsinWilderness">Fair Travels in Wilderness</name><set>Wizards</set></card>
+		<card><name id="FairTravelsinWilderness">Fair Travels in Wilderness</name><set>Wizards</set></card>
+		<card><name id="Ori">Ori</name><set>Wizards</set></card>
+		<card><name id="Dori">Dori</name><set>Wizards</set></card>
+		<card><name id="Fili">Fili</name><set>Wizards</set></card>
+		<card><name id="Bifur">Bifur</name><set>Wizards</set></card>
+		<card><name id="Bofur">Bofur</name><set>Wizards</set></card>
+		<card><name id="Bombur">Bombur</name><set>Wizards</set></card>
+		<card><name id="Oin">Oin</name><set>Wizards</set></card>
+		<card><name id="Gloin">Gloin</name><set>Wizards</set></card>
+		<card><name id="Balin">Balin</name><set>Wizards</set></card>
+		<card><name id="Dwalin">Dwalin</name><set>Wizards</set></card>
+		<card><name id="Gandalf">Gandalf</name><set>Wizards</set></card>
+		<card><name id="Gandalf">Gandalf</name><set>Wizards</set></card>
+		<card><name id="Gandalf">Gandalf</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="Beorn">Beorn</name><set>Wizards</set></card>
+		<card><name id="Nori">Nori</name><set>Wizards</set></card>
+		<card><name id="Kili">Kili</name><set>Wizards</set></card>
+		<card><name id="ThorinII">Thorin II</name><set>Wizards</set></card>
+		<card><name id="RumoursofRings">Rumours of Rings</name><set>Balrog</set></card>
+		<card><name id="RumoursofRings">Rumours of Rings</name><set>Balrog</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="Wormsbane">Wormsbane</name><set>Dragons</set></card>
+		<card><name id="ArrowsShornofEbony">Arrows Shorn of Ebony</name><set>Dragons</set></card>
+		<card><name id="ArrowsShornofEbony">Arrows Shorn of Ebony</name><set>Dragons</set></card>
+		<card><name id="ReturnedExiles">Returned Exiles</name><set>Dragons</set></card>
+		<card><name id="KingundertheMountain">King under the Mountain</name><set>Dragons</set></card>
+		<card><name id="Dragonfeuds">Dragon-feuds</name><set>Dragons</set></card>
+		<card><name id="Dragonfeuds">Dragon-feuds</name><set>Dragons</set></card>
+		<card><name id="Dragonfeuds">Dragon-feuds</name><set>Dragons</set></card>
+		<card><name id="PreciousGoldRing">Precious Gold Ring</name><set>Wizards</set></card>
+		<card><name id="PreciousGoldRing">Precious Gold Ring</name><set>Wizards</set></card>
+		<card><name id="PreciousGoldRing">Precious Gold Ring</name><set>Wizards</set></card>
+		<card><name id="MagicRingofNature">Magic Ring of Nature</name><set>Wizards</set></card>
+		<card><name id="MagicRingofCourage">Magic Ring of Courage</name><set>Wizards</set></card>
+		<card><name id="CracksofDoom">Cracks of Doom</name><set>Wizards</set></card>
+		<card><name id="Gwaihir">Gwaihir</name><set>Wizards</set></card>
+		<card><name id="DwarvenRingofThrarsTribe">Dwarven Ring of Thrar&apos;s Tribe</name><set>Wizards</set></card>
+		<card><name id="DwarvenRingofBarinsTribe">Dwarven Ring of Barin&apos;s Tribe</name><set>Wizards</set></card>
+		<card><name id="DwarvenRingofBavorsTribe">Dwarven Ring of Bavor&apos;s Tribe</name><set>Wizards</set></card>
+		<card><name id="IronHillDwarves">Iron Hill Dwarves</name><set>Wizards</set></card>
+		<card><name id="TheOldThrush">The Old Thrush</name><set>Wizards</set></card>
+		<card><name id="DurinsAxe">Durin&apos;s Axe</name><set>Wizards</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,36 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Bergil">Bergil</name><set>Wizards</set></card>
+		<card><name id="Ostisen">Ostisen</name><set>LidlessEye</set></card>
+		<card><name id="SlySoutherner">Sly Southerner</name><set>WhiteHand</set></card>
+		<card><name id="SquinteyedBrute">Squint-eyed Brute</name><set>WhiteHand</set></card>
+		<card><name id="FolcoBoffin">Folco Boffin</name><set>DarkMinions</set></card>
+		<card><name id="RobinSmallburrow">Robin Smallburrow</name><set>Wizards</set></card>
+		<card><name id="Galva">Galva</name><set>Wizards</set></card>
+		<card><name id="Merry">Merry</name><set>Wizards</set></card>
+		<card><name id="Pippin">Pippin</name><set>Wizards</set></card>
+		<card><name id="SamGamgee">Sam Gamgee</name><set>Wizards</set></card>
+		<card><name id="Bilbo">Bilbo</name><set>Wizards</set></card>
+		<card><name id="Frodo">Frodo</name><set>Wizards</set></card>
+		<card><name id="Galdor">Galdor</name><set>Dragons</set></card>
+		<card><name id="Gergeli">Gergeli</name><set>DarkMinions</set></card>
+		<card><name id="GhanburiGhan">Ghan-buri-Ghan</name><set>Wizards</set></card>
+		<card><name id="Haldalam">Haldalam</name><set>Wizards</set></card>
+		<card><name id="Perchen">Perchen</name><set>AgainstShadow</set></card>
+		<card><name id="PonoraPon">Pon-ora-Pon</name><set>DarkMinions</set></card>
+		<card><name id="Raisha">Raisha</name><set>DarkMinions</set></card>
+		<card><name id="Celeborn">Celeborn</name><set>Wizards</set></card>
+		<card><name id="Brand">Brand</name><set>Dragons</set></card>
+		<card><name id="Hador">Hador</name><set>LidlessEye</set></card>
+		<card><name id="Taladhan">Taladhan</name><set>DarkMinions</set></card>
+		<card><name id="Galadriel">Galadriel</name><set>Wizards</set></card>
+		<card><name id="HabergeonofSilver">Habergeon of Silver</name><set>Dragons</set></card>
+		<card><name id="Miruvor">Miruvor</name><set>Wizards</set></card>
+		<card><name id="Nenya">Nenya</name><set>Wizards</set></card>
+		<card><name id="Nenya">Nenya</name><set>Wizards</set></card>
+		<card><name id="Nenya">Nenya</name><set>Wizards</set></card>
+	</superzone>
+</deck>

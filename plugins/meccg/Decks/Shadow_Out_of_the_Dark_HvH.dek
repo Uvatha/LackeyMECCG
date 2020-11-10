@@ -1,0 +1,29 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="ShadowoutoftheDark">Shadow out of the Dark</name><set>DarkMinions</set></card>
+		<card><name id="ShadowoutoftheDark">Shadow out of the Dark</name><set>DarkMinions</set></card>
+		<card><name id="ShadowoutoftheDark">Shadow out of the Dark</name><set>DarkMinions</set></card>
+		<card><name id="TheMoonIsDead">The Moon Is Dead</name><set>DarkMinions</set></card>
+		<card><name id="TheMoonIsDead">The Moon Is Dead</name><set>DarkMinions</set></card>
+		<card><name id="TheMoonIsDead">The Moon Is Dead</name><set>DarkMinions</set></card>
+		<card><name id="Elerina">Elerina</name><set>DarkMinions</set></card>
+		<card><name id="Firiel">Firiel</name><set>DarkMinions</set></card>
+		<card><name id="Golodhros">Golodhros</name><set>DarkMinions</set></card>
+		<card><name id="Taladhan">Taladhan</name><set>DarkMinions</set></card>
+		<card><name id="Barrowwight">Barrow-wight</name><set>Wizards</set></card>
+		<card><name id="Barrowwight">Barrow-wight</name><set>Wizards</set></card>
+		<card><name id="Barrowwight">Barrow-wight</name><set>Wizards</set></card>
+		<card><name id="ChillDouser">Chill Douser</name><set>DarkMinions</set></card>
+		<card><name id="ChillDouser">Chill Douser</name><set>DarkMinions</set></card>
+		<card><name id="ChillDouser">Chill Douser</name><set>DarkMinions</set></card>
+		<card><name id="Ghosts">Ghosts</name><set>Wizards</set></card>
+		<card><name id="Ghosts">Ghosts</name><set>Wizards</set></card>
+		<card><name id="Ghosts">Ghosts</name><set>Wizards</set></card>
+		<card><name id="StirringBones">Stirring Bones</name><set>DarkMinions</set></card>
+		<card><name id="StirringBones">Stirring Bones</name><set>DarkMinions</set></card>
+		<card><name id="StirringBones">Stirring Bones</name><set>DarkMinions</set></card>
+	</superzone>
+</deck>

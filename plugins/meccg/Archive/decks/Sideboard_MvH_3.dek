@@ -1,0 +1,27 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="LostinFreedomains2">Lost in Free-domains *</name><set>LidlessEye</set></card>
+		<card><name id="DrowningSeas">Drowning Seas</name><set>Wizards</set></card>
+		<card><name id="NewsofDoom">News of Doom</name><set>LidlessEye</set></card>
+		<card><name id="TheBalanceofThings">The Balance of Things</name><set>Wizards</set></card>
+		<card><name id="RolleddowntotheSea">Rolled down to the Sea</name><set>WhiteHand</set></card>
+		<card><name id="AloneandUnadvised">Alone and Unadvised</name><set>AgainstShadow</set></card>
+		<card><name id="CallofHome2">Call of Home *</name><set>LidlessEye</set></card>
+		<card><name id="BeorningSkinchangers">Beorning Skin-changers</name><set>Balrog</set></card>
+		<card><name id="FoulFumes">Foul Fumes</name><set>Wizards</set></card>
+		<card><name id="Itangast">Itangast</name><set>Dragons</set></card>
+		<card><name id="StayHerAppetite">Stay Her Appetite</name><set>LidlessEye</set></card>
+		<card><name id="BaneoftheIthilstone">Bane of the Ithil-stone</name><set>Wizards</set></card>
+		<card><name id="Siege">Siege</name><set>Wizards</set></card>
+		<card><name id="TroubleonAllBorders">Trouble on All Borders</name><set>AgainstShadow</set></card>
+		<card><name id="Stormcrow">Stormcrow</name><set>Dragons</set></card>
+		<card><name id="EarcaraxeAhunt">Earcaraxe Ahunt</name><set>Dragons</set></card>
+		<card><name id="ItangastAhunt">Itangast Ahunt</name><set>Dragons</set></card>
+		<card><name id="LureofPower">Lure of Power</name><set>Wizards</set></card>
+		<card><name id="SeizedbyTerror">Seized by Terror</name><set>DarkMinions</set></card>
+		<card><name id="LureofExpedience2">Lure of Expedience *</name><set>LidlessEye</set></card>
+	</superzone>
+</deck>

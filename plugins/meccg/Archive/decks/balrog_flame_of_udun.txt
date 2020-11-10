@@ -1,0 +1,32 @@
+3	Out He Sprang
+1	Breach the Hold
+3	Angband Revisited
+3	The Balrog *
+3	A More Evil Hour
+1	Descent through Fire
+3	Flame of Udun
+3	Great Fissure
+1	Cave Troll
+1	Whip of Many Thongs
+1	Stabbing Tongue of Fire
+3	Dark Tryst
+3	Swift Strokes
+1	A Few Recruits
+3	Weigh All Things to a Nicety
+Starting Company:
+1	Lagduf
+3	Hill-troll
+1	Old Troll
+1	Snaga
+2	Goblin Earth-plumb
+Sideboard:
+3	Prone to Violence
+3	Terror Heralds Doom
+3	Crowned with Storm
+3	Invade Their Domain
+3	Lord and Usurper
+3	Scourge of Fire
+3	Roots of the Earth
+3	Descent through Fire
+1	Sudden Call
+2	Breach the Hold

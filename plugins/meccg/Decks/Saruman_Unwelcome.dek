@@ -1,0 +1,46 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="DarkTryst">Dark Tryst</name><set>AgainstShadow</set></card>
+		<card><name id="DarkTryst">Dark Tryst</name><set>AgainstShadow</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="Ford">Ford</name><set>Wizards</set></card>
+		<card><name id="Ford">Ford</name><set>Wizards</set></card>
+		<card><name id="SecretPassage">Secret Passage</name><set>Wizards</set></card>
+		<card><name id="SecretPassage">Secret Passage</name><set>Wizards</set></card>
+		<card><name id="DownDowntoGoblintown">Down Down to Goblin-town</name><set>LidlessEye</set></card>
+		<card><name id="DownDowntoGoblintown">Down Down to Goblin-town</name><set>LidlessEye</set></card>
+		<card><name id="ThralloftheVoice">Thrall of the Voice</name><set>WhiteHand</set></card>
+		<card><name id="ThralloftheVoice">Thrall of the Voice</name><set>WhiteHand</set></card>
+		<card><name id="LookMoreCloselyLater">Look More Closely Later</name><set>Dragons</set></card>
+		<card><name id="LookMoreCloselyLater">Look More Closely Later</name><set>Dragons</set></card>
+		<card><name id="ThatsBeenHeardBeforeTonight">That&apos;s Been Heard Before Tonight</name><set>LidlessEye</set></card>
+		<card><name id="ThatsBeenHeardBeforeTonight">That&apos;s Been Heard Before Tonight</name><set>LidlessEye</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="Lipor">Lipor</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Gloin">Gloin</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="ManofSkill">Man of Skill</name><set>WhiteHand</set></card>
+		<card><name id="ManofSkill">Man of Skill</name><set>WhiteHand</set></card>
+		<card><name id="Ringlore">Ringlore</name><set>Wizards</set></card>
+		<card><name id="Ringlore">Ringlore</name><set>Wizards</set></card>
+		<card><name id="Doubledealing">Double-dealing</name><set>WhiteHand</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="VoicesofMalice">Voices of Malice</name><set>LidlessEye</set></card>
+		<card><name id="VoicesofMalice">Voices of Malice</name><set>LidlessEye</set></card>
+		<card><name id="ThatAintNoSecret">That Ain&apos;t No Secret</name><set>LidlessEye</set></card>
+		<card><name id="ThatAintNoSecret">That Ain&apos;t No Secret</name><set>LidlessEye</set></card>
+		<card><name id="Elves of Lothlorien">Elves of Lothlorien</name><set>Firstborn</set></card>
+		<card><name id="Elves of the House">Elves of the House</name><set>Firstborn</set></card>
+		<card><name id="GathererofLoyalties">Gatherer of Loyalties</name><set>WhiteHand</set></card>
+		<card><name id="GreatPatron">Great Patron</name><set>WhiteHand</set></card>
+	</superzone>
+</deck>

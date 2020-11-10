@@ -1,0 +1,20 @@
+PoP? (Pass or Play?)
+Pass.
+Proceed.
+Thinking....
+In response...
+Attack!	
+Done.
+You done?
+	
+Body Check
+Corruption Check
+Moving
+Entering site
+	
+/draw8
+/draw1		
+/rolld6
+/rolld6 2
+	
+CallCouncil

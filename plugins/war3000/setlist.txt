@@ -1,0 +1,7 @@
+1
+carddata.txt
+
+1
+Standard
+1
+firstset

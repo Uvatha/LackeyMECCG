@@ -1,0 +1,86 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="ThatAintNoSecret">That Ain&apos;t No Secret</name><set>LidlessEye</set></card>
+		<card><name id="ThatAintNoSecret">That Ain&apos;t No Secret</name><set>LidlessEye</set></card>
+		<card><name id="ThatsBeenHeardBeforeTonight">That&apos;s Been Heard Before Tonight</name><set>LidlessEye</set></card>
+		<card><name id="ThatsBeenHeardBeforeTonight">That&apos;s Been Heard Before Tonight</name><set>LidlessEye</set></card>
+		<card><name id="PreciousGoldRing">Precious Gold Ring</name><set>Wizards</set></card>
+		<card><name id="PreciousGoldRing">Precious Gold Ring</name><set>Wizards</set></card>
+		<card><name id="FairGoldRing">Fair Gold Ring</name><set>Wizards</set></card>
+		<card><name id="FairGoldRing">Fair Gold Ring</name><set>Wizards</set></card>
+		<card><name id="HousesofHealing">Houses of Healing</name><set>Dragons</set></card>
+		<card><name id="HousesofHealing">Houses of Healing</name><set>Dragons</set></card>
+		<card><name id="SecretPassage">Secret Passage</name><set>Wizards</set></card>
+		<card><name id="SecretPassage">Secret Passage</name><set>Wizards</set></card>
+		<card><name id="DownDowntoGoblintown">Down Down to Goblin-town</name><set>LidlessEye</set></card>
+		<card><name id="DownDowntoGoblintown">Down Down to Goblin-town</name><set>LidlessEye</set></card>
+		<card><name id="Ford">Ford</name><set>Wizards</set></card>
+		<card><name id="Ford">Ford</name><set>Wizards</set></card>
+		<card><name id="DarkTryst">Dark Tryst</name><set>AgainstShadow</set></card>
+		<card><name id="DarkTryst">Dark Tryst</name><set>AgainstShadow</set></card>
+		<card><name id="ReadytoHisWill">Ready to His Will</name><set>LidlessEye</set></card>
+		<card><name id="ReadytoHisWill">Ready to His Will</name><set>LidlessEye</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="TheForgemaster">The Forge-master</name><set>WhiteHand</set></card>
+		<card><name id="ThralloftheVoice">Thrall of the Voice</name><set>WhiteHand</set></card>
+		<card><name id="ThralloftheVoice">Thrall of the Voice</name><set>WhiteHand</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="His Beard Long and Forked">His Beard Long and Forked</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="LookMoreCloselyLater">Look More Closely Later</name><set>Dragons</set></card>
+		<card><name id="LookMoreCloselyLater">Look More Closely Later</name><set>Dragons</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="ManycolouredRobes">Many-coloured Robes</name><set>WhiteHand</set></card>
+		<card><name id="Lipor">Lipor</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="ThralloftheVoice">Thrall of the Voice</name><set>WhiteHand</set></card>
+		<card><name id="HealingHerbs">Healing Herbs</name><set>Wizards</set></card>
+		<card><name id="HealingHerbs">Healing Herbs</name><set>Wizards</set></card>
+		<card><name id="WizardsMyrmidon">Wizard&apos;s Myrmidon</name><set>WhiteHand</set></card>
+		<card><name id="RumoursofRings">Rumours of Rings</name><set>Balrog</set></card>
+		<card><name id="Gulla">Gulla</name><set>LidlessEye</set></card>
+		<card><name id="Gloin">Gloin</name><set>Wizards</set></card>
+		<card><name id="Bindingring">Binding-ring</name><set>LidlessEye</set></card>
+		<card><name id="Attack-Lord">Attack-Lord</name><set>Durin&apos;s Folk</set></card>
+	</superzone>
+	<superzone name="Location Deck">
+		<card><name id="Aegnor">Aegnor</name><set>Firstborn</set></card>
+		<card><name id="Celeborn">Celeborn</name><set>Wizards</set></card>
+		<card><name id="Celebrian">Celebrian</name><set>Firstborn</set></card>
+		<card><name id="Fanar">Fanar</name><set>Firstborn</set></card>
+		<card><name id="King&apos;s Advisor">King&apos;s Advisor</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Faramir">Faramir</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="GreatPatron">Great Patron</name><set>WhiteHand</set></card>
+		<card><name id="GathererofLoyalties">Gatherer of Loyalties</name><set>WhiteHand</set></card>
+		<card><name id="ManofSkill">Man of Skill</name><set>WhiteHand</set></card>
+		<card><name id="TheArkenstone">The Arkenstone</name><set>Wizards</set></card>
+		<card><name id="Ringlore">Ringlore</name><set>Wizards</set></card>
+		<card><name id="Ringlore">Ringlore</name><set>Wizards</set></card>
+		<card><name id="Quickbeam">Quickbeam</name><set>Wizards</set></card>
+		<card><name id="Elves of Lothlorien">Elves of Lothlorien</name><set>Firstborn</set></card>
+		<card><name id="Elves of the House">Elves of the House</name><set>Firstborn</set></card>
+		<card><name id="WizardsLaughter">Wizard&apos;s Laughter</name><set>Wizards</set></card>
+		<card><name id="Elf-friend">Elf-friend</name><set>Firstborn</set></card>
+		<card><name id="LeafBrooch">Leaf Brooch</name><set>DarkMinions</set></card>
+		<card><name id="LeafBrooch">Leaf Brooch</name><set>DarkMinions</set></card>
+		<card><name id="DwarvenRingofBavorsTribe">Dwarven Ring of Bavor&apos;s Tribe</name><set>Wizards</set></card>
+		<card><name id="DwarvenRingofDurinsTribe">Dwarven Ring of Durin&apos;s Tribe</name><set>Wizards</set></card>
+		<card><name id="Threlin">Threlin</name><set>LidlessEye</set></card>
+		<card><name id="AChanceMeeting">A Chance Meeting</name><set>Wizards</set></card>
+		<card><name id="AChanceMeeting">A Chance Meeting</name><set>Wizards</set></card>
+		<card><name id="WhenIKnowAnything">When I Know Anything</name><set>Dragons</set></card>
+		<card><name id="WhenIKnowAnything">When I Know Anything</name><set>Dragons</set></card>
+		<card><name id="Beretar">Beretar</name><set>Wizards</set></card>
+		<card><name id="DwarvenRingofDruinsTribe">Dwarven Ring of Druin&apos;s Tribe</name><set>Wizards</set></card>
+		<card><name id="LesserRing">Lesser Ring</name><set>Wizards</set></card>
+		<card><name id="LesserRing">Lesser Ring</name><set>Wizards</set></card>
+		<card><name id="APanoplyofWings">A Panoply of Wings</name><set>WhiteHand</set></card>
+		<card><name id="IllBeAtYourHeels">I&apos;ll Be At Your Heels</name><set>LidlessEye</set></card>
+	</superzone>
+</deck>

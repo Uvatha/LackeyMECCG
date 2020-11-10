@@ -1,0 +1,14 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Starting Company">
+		<card><name id="GamlingtheOld">Gamling the Old</name><set>Wizards</set></card>
+		<card><name id="Eomer">Eomer</name><set>Wizards</set></card>
+		<card><name id="Eowyn">Eowyn</name><set>Wizards</set></card>
+		<card><name id="Theoden">Theoden</name><set>Wizards</set></card>
+		<card><name id="Haldir">Haldir</name><set>Wizards</set></card>
+		<card><name id="Erkenbrand">Erkenbrand</name><set>Wizards</set></card>
+		<card><name id="Hama">Hama</name><set>Wizards</set></card>
+	</superzone>
+</deck>

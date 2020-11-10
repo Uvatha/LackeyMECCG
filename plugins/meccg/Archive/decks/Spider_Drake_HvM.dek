@@ -1,0 +1,32 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="BairanaxatHome">Bairanax at Home</name><set>Dragons</set></card>
+		<card><name id="DwarofWaw">Dwar of Waw</name><set>Wizards</set></card>
+		<card><name id="FullofFrothandRage">Full of Froth and Rage</name><set>AgainstShadow</set></card>
+		<card><name id="FullofFrothandRage">Full of Froth and Rage</name><set>AgainstShadow</set></card>
+		<card><name id="FullofFrothandRage">Full of Froth and Rage</name><set>AgainstShadow</set></card>
+		<card><name id="Landroval">Landroval</name><set>LidlessEye</set></card>
+		<card><name id="MonstrosityofDiverseShape">Monstrosity of Diverse Shape</name><set>Balrog</set></card>
+		<card><name id="NaturesRevenge">Nature&apos;s Revenge</name><set>WhiteHand</set></card>
+		<card><name id="Shelob">Shelob</name><set>Wizards</set></card>
+		<card><name id="WakeofWar">Wake of War</name><set>Wizards</set></card>
+		<card><name id="WatcherintheWater2">Watcher in the Water *</name><set>LidlessEye</set></card>
+		<card><name id="WormsStench">Worm&apos;s Stench</name><set>Dragons</set></card>
+		<card><name id="GiantSpiders">Giant Spiders</name><set>Wizards</set></card>
+		<card><name id="GiantSpiders">Giant Spiders</name><set>Wizards</set></card>
+		<card><name id="GiantSpiders">Giant Spiders</name><set>Wizards</set></card>
+		<card><name id="LesserSpiders">Lesser Spiders</name><set>Dragons</set></card>
+		<card><name id="LesserSpiders">Lesser Spiders</name><set>Dragons</set></card>
+		<card><name id="LesserSpiders">Lesser Spiders</name><set>Dragons</set></card>
+		<card><name id="ShelobsBrood">Shelob&apos;s Brood</name><set>Balrog</set></card>
+		<card><name id="SpawnofUngoliant">Spawn of Ungoliant</name><set>Balrog</set></card>
+		<card><name id="SpideroftheMorlat">Spider of the Morlat</name><set>DarkMinions</set></card>
+		<card><name id="Raindrake">Rain-drake</name><set>Dragons</set></card>
+		<card><name id="CaveWorm">Cave Worm</name><set>Dragons</set></card>
+		<card><name id="Cavedrake">Cave-drake</name><set>Wizards</set></card>
+		<card><name id="PowerBuiltbyWaiting">Power Built by Waiting</name><set>AgainstShadow</set></card>
+	</superzone>
+</deck>

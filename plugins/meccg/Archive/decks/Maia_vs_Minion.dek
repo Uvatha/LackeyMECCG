@@ -1,0 +1,46 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="MasteroftheHouse">Master of the House</name><set>AgainstShadow</set></card>
+		<card><name id="ChillThemwithFear">Chill Them with Fear</name><set>LidlessEye</set></card>
+		<card><name id="ChillThemwithFear">Chill Them with Fear</name><set>LidlessEye</set></card>
+		<card><name id="ChillThemwithFear">Chill Them with Fear</name><set>LidlessEye</set></card>
+		<card><name id="MouthofSauron">Mouth of Sauron</name><set>Wizards</set></card>
+		<card><name id="River2">River *</name><set>LidlessEye</set></card>
+		<card><name id="River2">River *</name><set>LidlessEye</set></card>
+		<card><name id="River2">River *</name><set>LidlessEye</set></card>
+		<card><name id="Adunaphel">Adunaphel</name><set>Wizards</set></card>
+		<card><name id="DaelominatHome">Daelomin at Home</name><set>Dragons</set></card>
+		<card><name id="Twilight">Twilight</name><set>Wizards</set></card>
+		<card><name id="Twilight">Twilight</name><set>Wizards</set></card>
+		<card><name id="Twilight">Twilight</name><set>Wizards</set></card>
+		<card><name id="GandalftheWhiteRider">Gandalf the White Rider</name><set>AgainstShadow</set></card>
+		<card><name id="ElflordRevealedinWrath">Elf-lord Revealed in Wrath</name><set>LidlessEye</set></card>
+		<card><name id="ElflordRevealedinWrath">Elf-lord Revealed in Wrath</name><set>LidlessEye</set></card>
+		<card><name id="ElflordRevealedinWrath">Elf-lord Revealed in Wrath</name><set>LidlessEye</set></card>
+		<card><name id="ElvesuponErrantry">Elves upon Errantry</name><set>LidlessEye</set></card>
+		<card><name id="ElvesuponErrantry">Elves upon Errantry</name><set>LidlessEye</set></card>
+		<card><name id="ElvesuponErrantry">Elves upon Errantry</name><set>LidlessEye</set></card>
+		<card><name id="AnUnexpectedOutpost">An Unexpected Outpost</name><set>DarkMinions</set></card>
+		<card><name id="AnUnexpectedOutpost">An Unexpected Outpost</name><set>DarkMinions</set></card>
+		<card><name id="WaitingShadow">Waiting Shadow</name><set>LidlessEye</set></card>
+		<card><name id="WaitingShadow">Waiting Shadow</name><set>LidlessEye</set></card>
+		<card><name id="WaitingShadow">Waiting Shadow</name><set>LidlessEye</set></card>
+		<card><name id="RevealedtoallWatchers">Revealed to all Watchers</name><set>DarkMinions</set></card>
+		<card><name id="Anarin">Anarin</name><set>DarkMinions</set></card>
+		<card><name id="DurinsFolk">Durin&apos;s Folk</name><set>AgainstShadow</set></card>
+		<card><name id="DurinsFolk">Durin&apos;s Folk</name><set>AgainstShadow</set></card>
+		<card><name id="DurinsFolk">Durin&apos;s Folk</name><set>AgainstShadow</set></card>
+		<card><name id="DwarvenTravelers">Dwarven Travelers</name><set>AgainstShadow</set></card>
+		<card><name id="DwarvenTravelers">Dwarven Travelers</name><set>AgainstShadow</set></card>
+		<card><name id="DwarvenTravelers">Dwarven Travelers</name><set>AgainstShadow</set></card>
+		<card><name id="ReturnedBeyondAllHope">Returned Beyond All Hope</name><set>AgainstShadow</set></card>
+		<card><name id="ReturnedBeyondAllHope">Returned Beyond All Hope</name><set>AgainstShadow</set></card>
+		<card><name id="ReturnedBeyondAllHope">Returned Beyond All Hope</name><set>AgainstShadow</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="TroubleonAllBorders">Trouble on All Borders</name><set>AgainstShadow</set></card>
+	</superzone>
+</deck>

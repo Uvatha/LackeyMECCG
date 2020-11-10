@@ -1,0 +1,24 @@
+war3000	10-27-11
+plugins/war3000/plugininfo.txt	http://lackeyccg.com/war3000/plugininfo.txt	114284
+plugins/war3000/setlist.txt	http://lackeyccg.com/war3000/setlist.txt	3065
+plugins/war3000/defaultchat.txt	http://lackeyccg.com/war3000/defaultchat.txt	10407
+plugins/war3000/bot.jpg	http://lackeyccg.com/war3000/bot.jpg	2734
+plugins/war3000/packs/packdefinitions.txt	http://lackeyccg.com/war3000/packs/packdefinitions.txt	100112
+plugins/war3000/packs/samplebooster.jpg	http://lackeyccg.com/war3000/packs/samplebooster.jpg	674586
+plugins/war3000/CardImageURLs1.txt	http://lackeyccg.com/war3000/CardImageURLs1.txt	26030
+plugins/war3000/images/Phase1.jpg	http://lackeyccg.com/war3000/images/Phase1.jpg	-5071
+plugins/war3000/images/Phase2.jpg	http://lackeyccg.com/war3000/images/Phase2.jpg	-6731
+plugins/war3000/images/Phase3.jpg	http://lackeyccg.com/war3000/images/Phase3.jpg	-8346
+plugins/war3000/images/Phase4.jpg	http://lackeyccg.com/war3000/images/Phase4.jpg	-13880
+plugins/war3000/images/Phase5.jpg	http://lackeyccg.com/war3000/images/Phase5.jpg	-11246
+plugins/war3000/images/Phase6.jpg	http://lackeyccg.com/war3000/images/Phase6.jpg	9170
+plugins/war3000/images/Phase7.jpg	http://lackeyccg.com/war3000/images/Phase7.jpg	3107
+CardImageURLs:
+firstset/Axe_Of_Delusion.jpg	http://lackeyccg.com/war3000/medium/Axe_Of_Delusion.jpg
+firstset/Katar_The_Remorseless.jpg	http://lackeyccg.com/war3000/medium/Katar_The_Remorseless.jpg
+
+CardURLFiles:
+CardImageURLs1.txt
+
+CardGeneralURLs:
+http://lackeyccg.com/war3000/medium/

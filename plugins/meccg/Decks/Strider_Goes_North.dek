@@ -1,0 +1,37 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="LuckySearch">Lucky Search</name><set>Wizards</set></card>
+		<card><name id="LuckySearch">Lucky Search</name><set>Wizards</set></card>
+		<card><name id="LuckySearch">Lucky Search</name><set>Wizards</set></card>
+		<card><name id="EyesofMandos">Eyes of Mandos</name><set>DarkMinions</set></card>
+		<card><name id="EyesofMandos">Eyes of Mandos</name><set>DarkMinions</set></card>
+		<card><name id="EyesofMandos">Eyes of Mandos</name><set>DarkMinions</set></card>
+		<card><name id="ThoroughSearch">Thorough Search</name><set>Wizards</set></card>
+		<card><name id="ThoroughSearch">Thorough Search</name><set>Wizards</set></card>
+		<card><name id="ThoroughSearch">Thorough Search</name><set>Wizards</set></card>
+		<card><name id="Orcrist">Orcrist</name><set>Wizards</set></card>
+		<card><name id="Wormsbane">Wormsbane</name><set>Dragons</set></card>
+		<card><name id="Narsil">Narsil</name><set>Wizards</set></card>
+		<card><name id="PalantirofAmonSul">Palantir of Amon Sul</name><set>Wizards</set></card>
+		<card><name id="TheMithrilcoat">The Mithril-coat</name><set>Wizards</set></card>
+		<card><name id="DurinsAxe">Durin&apos;s Axe</name><set>Wizards</set></card>
+		<card><name id="Glamdring">Glamdring</name><set>Wizards</set></card>
+		<card><name id="RedArrow">Red Arrow</name><set>Wizards</set></card>
+		<card><name id="TorqueofHues">Torque of Hues</name><set>Wizards</set></card>
+		<card><name id="BlueMountainDwarves">Blue Mountain Dwarves</name><set>Wizards</set></card>
+		<card><name id="ElvesofLindon">Elves of Lindon</name><set>Wizards</set></card>
+		<card><name id="RangersoftheNorth">Rangers of the North</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="Strider">Strider</name><set>Balrog</set></card>
+		<card><name id="Peath">Peath</name><set>Wizards</set></card>
+		<card><name id="Elrohir">Elrohir</name><set>Wizards</set></card>
+		<card><name id="Elladan">Elladan</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Location Deck">
+		<card><name id="AragornII">Aragorn II</name><set>Wizards</set></card>
+	</superzone>
+</deck>

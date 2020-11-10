@@ -1,0 +1,15 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Location Deck">
+		<card><name id="WhiletheYellowFaceSleeps">While the Yellow Face Sleeps</name><set>LidlessEye</set></card>
+		<card><name id="HoarmuraththeRingwraith">Hoarmurath the Ringwraith</name><set>LidlessEye</set></card>
+		<card><name id="HeraldedLord">Heralded Lord</name><set>LidlessEye</set></card>
+		<card><name id="BadetoRule">Bade to Rule</name><set>LidlessEye</set></card>
+		<card><name id="OrcCaptain">Orc Captain</name><set>LidlessEye</set></card>
+		<card><name id="OrcCaptain">Orc Captain</name><set>LidlessEye</set></card>
+		<card><name id="OrcCaptain">Orc Captain</name><set>LidlessEye</set></card>
+		<card><name id="BytheRingwraithsWord">By the Ringwraith&apos;s Word</name><set>LidlessEye</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,18 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="SmokeontheWind">Smoke on the Wind</name><set>LidlessEye</set></card>
+		<card><name id="Burned and Choppedup">Burned and Chopped-up</name><set>War of the Ring</set></card>
+		<card><name id="BurningRickCotandTree">Burning Rick, Cot, and Tree</name><set>LidlessEye</set></card>
+		<card><name id="LongGrievousSiege">Long Grievous Siege</name><set>Balrog</set></card>
+		<card><name id="ToSatisfytheQuestioner">To Satisfy the Questioner</name><set>LidlessEye</set></card>
+		<card><name id="The Slow Torment of Years.jpg">The Slow Torment of Years</name><set>Necromancer</set></card>
+		<card><name id="KillAllButNOTtheHalflings">Kill All But NOT the Halflings</name><set>LidlessEye</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="UseYourLegs">Use Your Legs</name><set>AgainstShadow</set></card>
+		<card><name id="TreasontheGreatestFoe">Treason the Greatest Foe</name><set>AgainstShadow</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,37 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="ChillDouser">Chill Douser</name><set>DarkMinions</set></card>
+		<card><name id="ChillDouser">Chill Douser</name><set>DarkMinions</set></card>
+		<card><name id="ChillDouser">Chill Douser</name><set>DarkMinions</set></card>
+		<card><name id="Corpsecandle">Corpse-candle</name><set>Wizards</set></card>
+		<card><name id="Barrowwight">Barrow-wight</name><set>Wizards</set></card>
+		<card><name id="Ghosts2">Ghosts *</name><set>LidlessEye</set></card>
+		<card><name id="Ghosts2">Ghosts *</name><set>LidlessEye</set></card>
+		<card><name id="Adunaphel">Adunaphel</name><set>Wizards</set></card>
+		<card><name id="DaelominatHome">Daelomin at Home</name><set>Dragons</set></card>
+		<card><name id="SmaugatHome">Smaug at Home</name><set>Dragons</set></card>
+		<card><name id="BairanaxatHome">Bairanax at Home</name><set>Dragons</set></card>
+		<card><name id="BeorningSkinchangers">Beorning Skin-changers</name><set>Balrog</set></card>
+		<card><name id="MouthofSauron">Mouth of Sauron</name><set>Wizards</set></card>
+		<card><name id="ExhalationofDecay">Exhalation of Decay</name><set>DarkMinions</set></card>
+		<card><name id="ExhalationofDecay">Exhalation of Decay</name><set>DarkMinions</set></card>
+		<card><name id="ExhalationofDecay">Exhalation of Decay</name><set>DarkMinions</set></card>
+		<card><name id="TheMoonIsDead">The Moon Is Dead</name><set>DarkMinions</set></card>
+		<card><name id="TheMoonIsDead">The Moon Is Dead</name><set>DarkMinions</set></card>
+		<card><name id="TheMoonIsDead">The Moon Is Dead</name><set>DarkMinions</set></card>
+		<card><name id="StirringBones">Stirring Bones</name><set>DarkMinions</set></card>
+		<card><name id="StirringBones">Stirring Bones</name><set>DarkMinions</set></card>
+		<card><name id="StirringBones">Stirring Bones</name><set>DarkMinions</set></card>
+		<card><name id="River2">River *</name><set>LidlessEye</set></card>
+		<card><name id="River2">River *</name><set>LidlessEye</set></card>
+		<card><name id="River2">River *</name><set>LidlessEye</set></card>
+		<card><name id="Twilight2">Twilight *</name><set>LidlessEye</set></card>
+		<card><name id="Twilight2">Twilight *</name><set>LidlessEye</set></card>
+		<card><name id="Twilight2">Twilight *</name><set>LidlessEye</set></card>
+		<card><name id="AnUnexpectedOutpost">An Unexpected Outpost</name><set>DarkMinions</set></card>
+		<card><name id="AnUnexpectedOutpost">An Unexpected Outpost</name><set>DarkMinions</set></card>
+	</superzone>
+</deck>

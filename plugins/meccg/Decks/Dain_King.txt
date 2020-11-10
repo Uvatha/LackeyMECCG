@@ -1,0 +1,47 @@
+1	Ironfoot
+3	Noble Hound
+1	Men of Dale
+1	Men of Northern Rhovanion
+1	Old Grudge
+1	Not at Home
+1	Wormsbane
+1	Kingdom of Old Restored
+2	Crept Along Cleverly
+1	King under the Mountain
+3	Desperate Strike
+3	The Old Thrush
+2	No Strangers at this Time
+1	Orcrist
+2	Dark Tryst
+1	Iron Hill Dwarves
+1	Aranruth
+1	Durin's Axe
+1	Glamdring
+1	Emerald of the Mariner
+Starting Company:
+1	Thorin III Stonehelm
+1	Lipor
+1	Nali
+1	Pathfinder
+1	Dworin
+1	Gulla
+1	Attack-Lord
+1	Threlin
+1	Son of Dain
+1	Legolas
+1	Thrall of the Voice
+1	Son of Nain
+1	Bow of Yew
+Location Deck:
+3	Dain
+Sideboard:
+1	Friendship of Old Renewed
+1	Great Achievement
+1	Returned Exiles
+1	Wood-elves
+1	Gatherer of Loyalties
+2	Mining Settlement
+1	Strength from the Ered Engrin
+1	Thror's Map
+1	This Cannot Be Borne!
+1	The Seven Houses

@@ -1,0 +1,22 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="NeverRefuse">Never Refuse</name><set>WhiteHand</set></card>
+		<card><name id="NeverRefuse">Never Refuse</name><set>WhiteHand</set></card>
+		<card><name id="NeverRefuse">Never Refuse</name><set>WhiteHand</set></card>
+		<card><name id="ArcaneSchool">Arcane School</name><set>WhiteHand</set></card>
+		<card><name id="ArcaneSchool">Arcane School</name><set>WhiteHand</set></card>
+		<card><name id="TruthsofDoom">Truths of Doom</name><set>WhiteHand</set></card>
+		<card><name id="StaveofPallando">Stave of Pallando</name><set>WhiteHand</set></card>
+		<card><name id="PallandosHood">Pallando&apos;s Hood</name><set>WhiteHand</set></card>
+		<card><name id="PallandosApprentice">Pallando&apos;s Apprentice</name><set>WhiteHand</set></card>
+		<card><name id="Pallando2">Pallando *</name><set>WhiteHand</set></card>
+		<card><name id="Pallando2">Pallando *</name><set>WhiteHand</set></card>
+		<card><name id="Pallando2">Pallando *</name><set>WhiteHand</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="ProphetofDoom">Prophet of Doom</name><set>WhiteHand</set></card>
+	</superzone>
+</deck>

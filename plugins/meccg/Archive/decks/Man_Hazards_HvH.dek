@@ -1,0 +1,42 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="RankuponRank">Rank upon Rank</name><set>DarkMinions</set></card>
+		<card><name id="RankuponRank">Rank upon Rank</name><set>DarkMinions</set></card>
+		<card><name id="RankuponRank">Rank upon Rank</name><set>DarkMinions</set></card>
+		<card><name id="ThriceOutnumbered">Thrice Outnumbered</name><set>LidlessEye</set></card>
+		<card><name id="ThriceOutnumbered">Thrice Outnumbered</name><set>LidlessEye</set></card>
+		<card><name id="Adunaphel">Adunaphel</name><set>Wizards</set></card>
+		<card><name id="Assassin">Assassin</name><set>Wizards</set></card>
+		<card><name id="Assassin">Assassin</name><set>Wizards</set></card>
+		<card><name id="BeorningSkinchangers">Beorning Skin-changers</name><set>Balrog</set></card>
+		<card><name id="BeorningSkinchangers">Beorning Skin-changers</name><set>Balrog</set></card>
+		<card><name id="BeorningToll">Beorning Toll</name><set>LidlessEye</set></card>
+		<card><name id="CorsairsofUmbar">Corsairs of Umbar</name><set>Wizards</set></card>
+		<card><name id="DaelominatHome">Daelomin at Home</name><set>Dragons</set></card>
+		<card><name id="LawlessMen">Lawless Men</name><set>LidlessEye</set></card>
+		<card><name id="River2">River *</name><set>LidlessEye</set></card>
+		<card><name id="River2">River *</name><set>LidlessEye</set></card>
+		<card><name id="River2">River *</name><set>LidlessEye</set></card>
+		<card><name id="SellswordsBetweenCharters">Sellswords Between Charters</name><set>LidlessEye</set></card>
+		<card><name id="Thief">Thief</name><set>Wizards</set></card>
+		<card><name id="Twilight">Twilight</name><set>Wizards</set></card>
+		<card><name id="Twilight">Twilight</name><set>Wizards</set></card>
+		<card><name id="Twilight">Twilight</name><set>Wizards</set></card>
+		<card><name id="MouthofSauron">Mouth of Sauron</name><set>Wizards</set></card>
+		<card><name id="AnUnexpectedOutpost">An Unexpected Outpost</name><set>DarkMinions</set></card>
+		<card><name id="AnUnexpectedOutpost">An Unexpected Outpost</name><set>DarkMinions</set></card>
+		<card><name id="ItangastAhunt">Itangast Ahunt</name><set>Dragons</set></card>
+		<card><name id="Ambusher">Ambusher</name><set>Wizards</set></card>
+		<card><name id="RevealedtoallWatchers">Revealed to all Watchers</name><set>DarkMinions</set></card>
+		<card><name id="Abductor">Abductor</name><set>Wizards</set></card>
+		<card><name id="Pickpocket">Pick-pocket</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="ShadowofMordor">Shadow of Mordor</name><set>Dragons</set></card>
+		<card><name id="TroubleonAllBorders">Trouble on All Borders</name><set>AgainstShadow</set></card>
+		<card><name id="WholeVillagesRoused">Whole Villages Roused</name><set>WhiteHand</set></card>
+	</superzone>
+</deck>

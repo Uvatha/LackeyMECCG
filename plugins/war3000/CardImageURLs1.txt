@@ -1,0 +1,4 @@
+CardImageURLs:
+firstset/Faithful_Steed.jpg	http://lackeyccg.com/war3000/medium/Faithful_Steed.jpg
+firstset/Axe_Of_Delusion.jpg	http://lackeyccg.com/war3000/medium/Axe_Of_Delusion.jpg
+firstset/Katar_The_Remorseless.jpg	http://lackeyccg.com/war3000/medium/Katar_The_Remorseless.jpg

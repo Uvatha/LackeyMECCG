@@ -1,0 +1,83 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="ChoiceofLuthien">Choice of Luthien</name><set>DarkMinions</set></card>
+		<card><name id="SaplingoftheWhiteTree">Sapling of the White Tree</name><set>Wizards</set></card>
+		<card><name id="SaplingoftheWhiteTree">Sapling of the White Tree</name><set>Wizards</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="FateoftheIthilstone">Fate of the Ithil-stone</name><set>DarkMinions</set></card>
+		<card><name id="FateoftheIthilstone">Fate of the Ithil-stone</name><set>DarkMinions</set></card>
+		<card><name id="ForgottenScrolls">Forgotten Scrolls</name><set>DarkMinions</set></card>
+		<card><name id="ForgottenScrolls">Forgotten Scrolls</name><set>DarkMinions</set></card>
+		<card><name id="Orcrist">Orcrist</name><set>Wizards</set></card>
+		<card><name id="Wormsbane">Wormsbane</name><set>Dragons</set></card>
+		<card><name id="TokenofGoodwill">Token of Goodwill</name><set>DarkMinions</set></card>
+		<card><name id="TokenofGoodwill">Token of Goodwill</name><set>DarkMinions</set></card>
+		<card><name id="LostTome">Lost Tome</name><set>DarkMinions</set></card>
+		<card><name id="LostTome">Lost Tome</name><set>DarkMinions</set></card>
+		<card><name id="DarkQuarrels">Dark Quarrels</name><set>Wizards</set></card>
+		<card><name id="DarkQuarrels">Dark Quarrels</name><set>Wizards</set></card>
+		<card><name id="DarkTryst">Dark Tryst</name><set>AgainstShadow</set></card>
+		<card><name id="DarkTryst">Dark Tryst</name><set>AgainstShadow</set></card>
+		<card><name id="WeighAllThingstoaNicety">Weigh All Things to a Nicety</name><set>LidlessEye</set></card>
+		<card><name id="WeighAllThingstoaNicety">Weigh All Things to a Nicety</name><set>LidlessEye</set></card>
+		<card><name id="RingofFire">Ring of Fire</name><set>WhiteHand</set></card>
+		<card><name id="FlatteraFoe">Flatter a Foe</name><set>Dragons</set></card>
+		<card><name id="FlatteraFoe">Flatter a Foe</name><set>Dragons</set></card>
+		<card><name id="ReadytoHisWill">Ready to His Will</name><set>LidlessEye</set></card>
+		<card><name id="ReadytoHisWill">Ready to His Will</name><set>LidlessEye</set></card>
+		<card><name id="PalantirofMinasTirith">Palantir of Minas Tirith</name><set>Wizards</set></card>
+		<card><name id="ChambersintheRoyalCourt">Chambers in the Royal Court</name><set>WhiteHand</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="Arwen">Arwen</name><set>Wizards</set></card>
+		<card><name id="GandalfsFriend">Gandalf&apos;s Friend</name><set>WhiteHand</set></card>
+		<card><name id="WizardsMyrmidon">Wizard&apos;s Myrmidon</name><set>WhiteHand</set></card>
+		<card><name id="Elladan">Elladan</name><set>Wizards</set></card>
+		<card><name id="ThralloftheVoice">Thrall of the Voice</name><set>WhiteHand</set></card>
+		<card><name id="Imrahil">Imrahil</name><set>Wizards</set></card>
+		<card><name id="Elrohir">Elrohir</name><set>Wizards</set></card>
+		<card><name id="Haldir">Haldir</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Location Deck">
+		<card><name id="Gandalf2">Gandalf *</name><set>WhiteHand</set></card>
+		<card><name id="Gandalf2">Gandalf *</name><set>WhiteHand</set></card>
+		<card><name id="Gandalf2">Gandalf *</name><set>WhiteHand</set></card>
+		<card><name id="Ioreth">Ioreth</name><set>Dragons</set></card>
+		<card><name id="Halbarad">Halbarad</name><set>Wizards</set></card>
+		<card><name id="Forlong">Forlong</name><set>Wizards</set></card>
+		<card><name id="BoromirII">Boromir II</name><set>Wizards</set></card>
+		<card><name id="Beregond">Beregond</name><set>Wizards</set></card>
+		<card><name id="Annalena">Annalena</name><set>Wizards</set></card>
+		<card><name id="Herion">Herion</name><set>DarkMinions</set></card>
+		<card><name id="Faramir">Faramir</name><set>Wizards</set></card>
+		<card><name id="Beretar">Beretar</name><set>Wizards</set></card>
+		<card><name id="Peath">Peath</name><set>Wizards</set></card>
+		<card><name id="Voteli">Voteli</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="GuardedHaven">Guarded Haven</name><set>WhiteHand</set></card>
+		<card><name id="GuardedHaven">Guarded Haven</name><set>WhiteHand</set></card>
+		<card><name id="AwaittheOnset">Await the Onset</name><set>WhiteHand</set></card>
+		<card><name id="MenofAnorien">Men of Anorien</name><set>Wizards</set></card>
+		<card><name id="LegacyofSmiths">Legacy of Smiths</name><set>WhiteHand</set></card>
+		<card><name id="TheWhiteTree">The White Tree</name><set>Wizards</set></card>
+		<card><name id="Narya">Narya</name><set>Wizards</set></card>
+		<card><name id="KnowledgeoftheEnemy">Knowledge of the Enemy</name><set>DarkMinions</set></card>
+		<card><name id="KnowledgeoftheEnemy">Knowledge of the Enemy</name><set>DarkMinions</set></card>
+		<card><name id="DarkNumbers">Dark Numbers</name><set>DarkMinions</set></card>
+		<card><name id="KnightsofDolAmroth">Knights of Dol Amroth</name><set>Wizards</set></card>
+		<card><name id="MenofAnfalas">Men of Anfalas</name><set>Wizards</set></card>
+		<card><name id="MenofLebennin">Men of Lebennin</name><set>Wizards</set></card>
+		<card><name id="WizardsTrove">Wizard&apos;s Trove</name><set>WhiteHand</set></card>
+		<card><name id="WizardsTrove">Wizard&apos;s Trove</name><set>WhiteHand</set></card>
+		<card><name id="PalantirofAmonSul">Palantir of Amon Sul</name><set>Wizards</set></card>
+		<card><name id="GreyEmbassy">Grey Embassy</name><set>WhiteHand</set></card>
+		<card><name id="ChambersintheRoyalCourt">Chambers in the Royal Court</name><set>WhiteHand</set></card>
+	</superzone>
+</deck>

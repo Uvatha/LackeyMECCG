@@ -1,0 +1,52 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Treebeard">Treebeard</name><set>Wizards</set></card>
+		<card><name id="Skinbark">Skinbark</name><set>Wizards</set></card>
+		<card><name id="Quickbeam">Quickbeam</name><set>Wizards</set></card>
+		<card><name id="EntsofFangorn">Ents of Fangorn</name><set>Wizards</set></card>
+		<card><name id="Leaflock">Leaflock</name><set>Wizards</set></card>
+		<card><name id="Entdraughts">Ent-draughts</name><set>Wizards</set></card>
+		<card><name id="Entdraughts">Ent-draughts</name><set>Wizards</set></card>
+		<card><name id="Entdraughts">Ent-draughts</name><set>Wizards</set></card>
+		<card><name id="Radagast2">Radagast *</name><set>WhiteHand</set></card>
+		<card><name id="FriendofSecretThings">Friend of Secret Things</name><set>WhiteHand</set></card>
+		<card><name id="FriendofSecretThings">Friend of Secret Things</name><set>WhiteHand</set></card>
+		<card><name id="APanoplyofWings">A Panoply of Wings</name><set>WhiteHand</set></card>
+		<card><name id="BeastsoftheWood">Beasts of the Wood</name><set>WhiteHand</set></card>
+		<card><name id="WildHounds">Wild Hounds</name><set>WhiteHand</set></card>
+		<card><name id="AnUntimelyBrood">An Untimely Brood</name><set>WhiteHand</set></card>
+		<card><name id="GirdleofRadagast">Girdle of Radagast</name><set>WhiteHand</set></card>
+		<card><name id="GloveofRadagast">Glove of Radagast</name><set>WhiteHand</set></card>
+		<card><name id="Herblore">Herb-lore</name><set>DarkMinions</set></card>
+		<card><name id="MasterofShapes">Master of Shapes</name><set>WhiteHand</set></card>
+		<card><name id="PocketedRobes">Pocketed Robes</name><set>WhiteHand</set></card>
+		<card><name id="WingedChangemaster">Winged Change-master</name><set>WhiteHand</set></card>
+		<card><name id="BillthePony">Bill the Pony</name><set>Wizards</set></card>
+		<card><name id="Blackbole">Blackbole</name><set>LidlessEye</set></card>
+		<card><name id="Gwaihir">Gwaihir</name><set>Wizards</set></card>
+		<card><name id="NenseldetheWingild">Nenselde the Wingild</name><set>Dragons</set></card>
+		<card><name id="NobleHound">Noble Hound</name><set>DarkMinions</set></card>
+		<card><name id="NobleSteed">Noble Steed</name><set>WhiteHand</set></card>
+		<card><name id="RegimentofBlackCrows">Regiment of Black Crows</name><set>AgainstShadow</set></card>
+		<card><name id="RoactheRaven">Roäc the Raven</name><set>Wizards</set></card>
+		<card><name id="Shadowfax">Shadowfax</name><set>Wizards</set></card>
+		<card><name id="TheWargking">The Warg-king</name><set>LidlessEye</set></card>
+		<card><name id="TomBombadil">Tom Bombadil</name><set>Wizards</set></card>
+		<card><name id="Warwarg">War-warg</name><set>LidlessEye</set></card>
+		<card><name id="Warwolf">War-wolf</name><set>LidlessEye</set></card>
+		<card><name id="LastChildofUngoliant">Last Child of Ungoliant</name><set>LidlessEye</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="Anarin">Anarin</name><set>DarkMinions</set></card>
+		<card><name id="Carambor">Carambor</name><set>LidlessEye</set></card>
+		<card><name id="Elladan">Elladan</name><set>Wizards</set></card>
+		<card><name id="Elrohir">Elrohir</name><set>Wizards</set></card>
+		<card><name id="GildorInglorion">Gildor Inglorion</name><set>Wizards</set></card>
+		<card><name id="Haldir">Haldir</name><set>Wizards</set></card>
+		<card><name id="Legolas">Legolas</name><set>Wizards</set></card>
+		<card><name id="Orophin">Orophin</name><set>Wizards</set></card>
+	</superzone>
+</deck>

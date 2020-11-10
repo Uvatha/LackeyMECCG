@@ -1,0 +1,72 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="ShowThingsUnbidden">Show Things Unbidden</name><set>Balrog</set></card>
+		<card><name id="ShowThingsUnbidden">Show Things Unbidden</name><set>Balrog</set></card>
+		<card><name id="GoldBeltofLorien">Gold Belt of Lorien</name><set>Dragons</set></card>
+		<card><name id="PreciousGoldRing">Precious Gold Ring</name><set>Wizards</set></card>
+		<card><name id="PreciousGoldRing">Precious Gold Ring</name><set>Wizards</set></card>
+		<card><name id="PreciousGoldRing">Precious Gold Ring</name><set>Wizards</set></card>
+		<card><name id="TorqueofHues">Torque of Hues</name><set>Wizards</set></card>
+		<card><name id="Stealth">Stealth</name><set>Wizards</set></card>
+		<card><name id="Stealth">Stealth</name><set>Wizards</set></card>
+		<card><name id="Stealth">Stealth</name><set>Wizards</set></card>
+		<card><name id="Concealment">Concealment</name><set>Wizards</set></card>
+		<card><name id="Concealment">Concealment</name><set>Wizards</set></card>
+		<card><name id="Concealment">Concealment</name><set>Wizards</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="ScrollofIsildur">Scroll of Isildur</name><set>Wizards</set></card>
+		<card><name id="FavoroftheValar">Favor of the Valar</name><set>Wizards</set></card>
+		<card><name id="EyesofMandos">Eyes of Mandos</name><set>DarkMinions</set></card>
+		<card><name id="EyesofMandos">Eyes of Mandos</name><set>DarkMinions</set></card>
+		<card><name id="LeafBrooch">Leaf Brooch</name><set>DarkMinions</set></card>
+		<card><name id="LeafBrooch">Leaf Brooch</name><set>DarkMinions</set></card>
+		<card><name id="LeafBrooch">Leaf Brooch</name><set>DarkMinions</set></card>
+		<card><name id="EarthofGaladrielsOrchard">Earth of Galadriel&apos;s Orchard</name><set>Wizards</set></card>
+		<card><name id="HalflingStrength">Halfling Strength</name><set>Wizards</set></card>
+		<card><name id="HalflingStrength">Halfling Strength</name><set>Wizards</set></card>
+		<card><name id="HalflingStrength">Halfling Strength</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="Galadriel">Galadriel</name><set>Wizards</set></card>
+		<card><name id="Gloin">Gloin</name><set>Wizards</set></card>
+		<card><name id="RumoursofRings">Rumours of Rings</name><set>Balrog</set></card>
+		<card><name id="RobinSmallburrow">Robin Smallburrow</name><set>Wizards</set></card>
+		<card><name id="FattyBolger">Fatty Bolger</name><set>Promo</set></card>
+	</superzone>
+	<superzone name="Location Deck">
+		<card><name id="Pallando">Pallando</name><set>Wizards</set></card>
+		<card><name id="Pallando">Pallando</name><set>Wizards</set></card>
+		<card><name id="Pallando">Pallando</name><set>Wizards</set></card>
+		<card><name id="Celeborn">Celeborn</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="Mallorn">Mallorn</name><set>DarkMinions</set></card>
+		<card><name id="Hobbits">Hobbits</name><set>Wizards</set></card>
+		<card><name id="BillthePony">Bill the Pony</name><set>Wizards</set></card>
+		<card><name id="Elfsong">Elf-song</name><set>Wizards</set></card>
+		<card><name id="WizardsTest">Wizard&apos;s Test</name><set>Wizards</set></card>
+		<card><name id="WizardsTest">Wizard&apos;s Test</name><set>Wizards</set></card>
+		<card><name id="WizardsTest">Wizard&apos;s Test</name><set>Wizards</set></card>
+		<card><name id="TheOneRing">The One Ring</name><set>Wizards</set></card>
+		<card><name id="PhialofGaladriel">Phial of Galadriel</name><set>DarkMinions</set></card>
+		<card><name id="MistressLobelia">Mistress Lobelia</name><set>DarkMinions</set></card>
+		<card><name id="ThreeGoldenHairs">Three Golden Hairs</name><set>Dragons</set></card>
+		<card><name id="TheGreatEagles">The Great Eagles</name><set>Wizards</set></card>
+		<card><name id="Bilbo">Bilbo</name><set>Wizards</set></card>
+		<card><name id="Frodo">Frodo</name><set>Wizards</set></card>
+		<card><name id="Cirdan">Cirdan</name><set>Wizards</set></card>
+		<card><name id="ToFealtySworn">To Fealty Sworn</name><set>Balrog</set></card>
+		<card><name id="ToFealtySworn">To Fealty Sworn</name><set>Balrog</set></card>
+		<card><name id="ToFealtySworn">To Fealty Sworn</name><set>Balrog</set></card>
+		<card><name id="FreetoChoose">Free to Choose</name><set>DarkMinions</set></card>
+		<card><name id="Beornings">Beornings</name><set>Wizards</set></card>
+	</superzone>
+</deck>

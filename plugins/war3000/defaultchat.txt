@@ -1,0 +1,13 @@
+PoP? (Pass or Play?)
+Pass.
+Proceed.
+Thinking....
+Attack!
+In response...
+End of turn...
+Done.
+You done?
+Mulligan.
+MISE!
+/draw7
+/flip 1

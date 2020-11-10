@@ -1,0 +1,65 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Ironfoot">Ironfoot</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="NobleHound">Noble Hound</name><set>DarkMinions</set></card>
+		<card><name id="NobleHound">Noble Hound</name><set>DarkMinions</set></card>
+		<card><name id="NotatHome">Not at Home</name><set>Dragons</set></card>
+		<card><name id="Kingdom of Old Restored">Kingdom of Old Restored</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="CreptAlongCleverly">Crept Along Cleverly</name><set>WhiteHand</set></card>
+		<card><name id="CreptAlongCleverly">Crept Along Cleverly</name><set>WhiteHand</set></card>
+		<card><name id="KingundertheMountain">King under the Mountain</name><set>Dragons</set></card>
+		<card><name id="TheOldThrush">The Old Thrush</name><set>Wizards</set></card>
+		<card><name id="TheOldThrush">The Old Thrush</name><set>Wizards</set></card>
+		<card><name id="TheOldThrush">The Old Thrush</name><set>Wizards</set></card>
+		<card><name id="NoStrangersatthisTime">No Strangers at this Time</name><set>AgainstShadow</set></card>
+		<card><name id="Orcrist">Orcrist</name><set>Wizards</set></card>
+		<card><name id="DarkTryst">Dark Tryst</name><set>AgainstShadow</set></card>
+		<card><name id="DarkTryst">Dark Tryst</name><set>AgainstShadow</set></card>
+		<card><name id="IronHillDwarves">Iron Hill Dwarves</name><set>Wizards</set></card>
+		<card><name id="Aranruth">Aranruth</name><set>Firstborn</set></card>
+		<card><name id="DurinsAxe">Durin&apos;s Axe</name><set>Wizards</set></card>
+		<card><name id="Glamdring">Glamdring</name><set>Wizards</set></card>
+		<card><name id="EmeraldoftheMariner">Emerald of the Mariner</name><set>Dragons</set></card>
+		<card><name id="Great Friendship">Great Friendship</name><set>Firstborn</set></card>
+		<card><name id="Great Friendship">Great Friendship</name><set>Firstborn</set></card>
+		<card><name id="Wormsbane">Wormsbane</name><set>Dragons</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="Thorin III Stonehelm">Thorin III Stonehelm</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Son of Dain">Son of Dain</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Legolas">Legolas</name><set>Wizards</set></card>
+		<card><name id="ThralloftheVoice">Thrall of the Voice</name><set>WhiteHand</set></card>
+		<card><name id="Son of Nain">Son of Nain</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Bow of Yew">Bow of Yew</name><set>Firstborn</set></card>
+		<card><name id="Gimli">Gimli</name><set>Wizards</set></card>
+		<card><name id="HealingHerbs">Healing Herbs</name><set>Wizards</set></card>
+		<card><name id="HealingHerbs">Healing Herbs</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Location Deck">
+		<card><name id="Dain">Dain</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Dain">Dain</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Dain">Dain</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Nali">Nali</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Lipor">Lipor</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Attack-Lord">Attack-Lord</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="King&apos;s Advisor">King&apos;s Advisor</name><set>Durin&apos;s Folk</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="Friendship of Old Renewed">Friendship of Old Renewed</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Great Achievement">Great Achievement</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="ReturnedExiles">Returned Exiles</name><set>Dragons</set></card>
+		<card><name id="Woodelves">Wood-elves</name><set>Wizards</set></card>
+		<card><name id="GathererofLoyalties">Gatherer of Loyalties</name><set>WhiteHand</set></card>
+		<card><name id="Mining Settlement">Mining Settlement</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Mining Settlement">Mining Settlement</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Strength from the Ered Engrin">Strength from the Ered Engrin</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="ThrorsMap2">Thror&apos;s Map</name><set>AgainstShadow</set></card>
+		<card><name id="This Cannot Be Borne!">This Cannot Be Borne!</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="The Seven Houses">The Seven Houses</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Attack-Lord">Attack-Lord</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Threlin">Threlin</name><set>LidlessEye</set></card>
+	</superzone>
+</deck>

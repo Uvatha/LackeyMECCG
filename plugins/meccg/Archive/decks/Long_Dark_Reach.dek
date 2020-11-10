@@ -1,0 +1,28 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="WildFellBeast">Wild Fell Beast</name><set>Dragons</set></card>
+		<card><name id="WildFellBeast">Wild Fell Beast</name><set>Dragons</set></card>
+		<card><name id="WildFellBeast">Wild Fell Beast</name><set>Dragons</set></card>
+		<card><name id="KnightsofthePrince">Knights of the Prince</name><set>AgainstShadow</set></card>
+		<card><name id="ButhrakaurtheGreen">Buthrakaur the Green</name><set>DarkMinions</set></card>
+		<card><name id="Earcaraxe">Earcaraxe</name><set>Dragons</set></card>
+		<card><name id="ElflordRevealedinWrath">Elf-lord Revealed in Wrath</name><set>LidlessEye</set></card>
+		<card><name id="Itangast">Itangast</name><set>Dragons</set></card>
+		<card><name id="KhamultheEasterling">Khamul the Easterling</name><set>Wizards</set></card>
+		<card><name id="Leucaruth">Leucaruth</name><set>Wizards</set></card>
+		<card><name id="LordoftheCarrock">Lord of the Carrock</name><set>AgainstShadow</set></card>
+		<card><name id="Morgulrats">Morgul-rats</name><set>Dragons</set></card>
+		<card><name id="Morgulrats">Morgul-rats</name><set>Dragons</set></card>
+		<card><name id="Morgulrats">Morgul-rats</name><set>Dragons</set></card>
+		<card><name id="Scatha">Scatha</name><set>Dragons</set></card>
+		<card><name id="Smaug">Smaug</name><set>Wizards</set></card>
+		<card><name id="UmagaurthePale">Umagaur the Pale</name><set>DarkMinions</set></card>
+		<card><name id="WitchkingofAngmar">Witch-king of Angmar</name><set>Wizards</set></card>
+		<card><name id="LongDarkReach">Long Dark Reach</name><set>DarkMinions</set></card>
+		<card><name id="LongDarkReach">Long Dark Reach</name><set>DarkMinions</set></card>
+		<card><name id="LongDarkReach">Long Dark Reach</name><set>DarkMinions</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,19 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="AnUnexpectedOutpost">An Unexpected Outpost</name><set>DarkMinions</set></card>
+		<card><name id="TheBalanceofThings">The Balance of Things</name><set>Wizards</set></card>
+		<card><name id="RolleddowntotheSea">Rolled down to the Sea</name><set>WhiteHand</set></card>
+		<card><name id="TheRovingEye">The Roving Eye</name><set>LidlessEye</set></card>
+		<card><name id="CallofHome">Call of Home</name><set>Wizards</set></card>
+		<card><name id="MusterDisperses">Muster Disperses</name><set>Wizards</set></card>
+		<card><name id="PilferAnythingUnwatched">Pilfer Anything Unwatched</name><set>AgainstShadow</set></card>
+		<card><name id="SearchingEye">Searching Eye</name><set>Dragons</set></card>
+		<card><name id="EarcaraxeAhunt">Earcaraxe Ahunt</name><set>Dragons</set></card>
+		<card><name id="ItangastAhunt">Itangast Ahunt</name><set>Dragons</set></card>
+		<card><name id="ShadowofMordor">Shadow of Mordor</name><set>Dragons</set></card>
+		<card><name id="Twilight">Twilight</name><set>Wizards</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,86 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="Arwen">Arwen</name><set>Wizards</set></card>
+		<card><name id="Vilya">Vilya</name><set>Wizards</set></card>
+		<card><name id="Vilya">Vilya</name><set>Wizards</set></card>
+		<card><name id="Vilya">Vilya</name><set>Wizards</set></card>
+		<card><name id="Narsil">Narsil</name><set>Wizards</set></card>
+		<card><name id="SaplingoftheWhiteTree">Sapling of the White Tree</name><set>Wizards</set></card>
+		<card><name id="Reforging">Reforging</name><set>Wizards</set></card>
+		<card><name id="Reforging">Reforging</name><set>Wizards</set></card>
+		<card><name id="Reforging">Reforging</name><set>Wizards</set></card>
+		<card><name id="AragornII">Aragorn II</name><set>Wizards</set></card>
+		<card><name id="GlorfindelII">Glorfindel II</name><set>Wizards</set></card>
+		<card><name id="TokenofGoodwill">Token of Goodwill</name><set>DarkMinions</set></card>
+		<card><name id="TokenofGoodwill">Token of Goodwill</name><set>DarkMinions</set></card>
+		<card><name id="TokenofGoodwill">Token of Goodwill</name><set>DarkMinions</set></card>
+		<card><name id="AnduriltheFlameoftheWest">Anduril, the Flame of the West</name><set>Wizards</set></card>
+		<card><name id="Stealth">Stealth</name><set>Wizards</set></card>
+		<card><name id="Stealth">Stealth</name><set>Wizards</set></card>
+		<card><name id="Concealment">Concealment</name><set>Wizards</set></card>
+		<card><name id="Concealment">Concealment</name><set>Wizards</set></card>
+		<card><name id="Concealment">Concealment</name><set>Wizards</set></card>
+		<card><name id="SecretPassage">Secret Passage</name><set>Wizards</set></card>
+		<card><name id="SecretPassage">Secret Passage</name><set>Wizards</set></card>
+		<card><name id="SecretPassage">Secret Passage</name><set>Wizards</set></card>
+		<card><name id="AndForthHeHastened">And Forth He Hastened</name><set>Dragons</set></card>
+		<card><name id="AndForthHeHastened">And Forth He Hastened</name><set>Dragons</set></card>
+		<card><name id="SafefromtheShadow">Safe from the Shadow</name><set>AgainstShadow</set></card>
+		<card><name id="SafefromtheShadow">Safe from the Shadow</name><set>AgainstShadow</set></card>
+		<card><name id="SafefromtheShadow">Safe from the Shadow</name><set>AgainstShadow</set></card>
+		<card><name id="Saruman">Saruman</name><set>Wizards</set></card>
+		<card><name id="Saruman">Saruman</name><set>Wizards</set></card>
+		<card><name id="Saruman">Saruman</name><set>Wizards</set></card>
+		<card><name id="Halbarad">Halbarad</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="Strider">Strider</name><set>Balrog</set></card>
+		<card><name id="Elrond">Elrond</name><set>Wizards</set></card>
+		<card><name id="Cram">Cram</name><set>Dragons</set></card>
+		<card><name id="Cram">Cram</name><set>Dragons</set></card>
+		<card><name id="Anborn">Anborn</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="ArmyoftheDead">Army of the Dead</name><set>Wizards</set></card>
+		<card><name id="PathsoftheDead">Paths of the Dead</name><set>Wizards</set></card>
+		<card><name id="ReturnoftheKing">Return of the King</name><set>Wizards</set></card>
+		<card><name id="TheWhiteTree">The White Tree</name><set>Wizards</set></card>
+		<card><name id="AnduriltheFlameoftheWest">Anduril, the Flame of the West</name><set>Wizards</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="TowerGuardofMinasTirith">Tower Guard of Minas Tirith</name><set>Wizards</set></card>
+		<card><name id="PalantirofElostirion">Palantir of Elostirion</name><set>Wizards</set></card>
+		<card><name id="PalantirofMinasTirith">Palantir of Minas Tirith</name><set>Wizards</set></card>
+		<card><name id="UsePalantir">Use Palantir</name><set>Wizards</set></card>
+		<card><name id="UsePalantir">Use Palantir</name><set>Wizards</set></card>
+		<card><name id="UsePalantir">Use Palantir</name><set>Wizards</set></card>
+		<card><name id="PromptingsofWisdom">Promptings of Wisdom</name><set>WhiteHand</set></card>
+		<card><name id="PromptingsofWisdom">Promptings of Wisdom</name><set>WhiteHand</set></card>
+		<card><name id="ElvesofLindon">Elves of Lindon</name><set>Wizards</set></card>
+		<card><name id="GiftofComprehension">Gift of Comprehension</name><set>Dragons</set></card>
+		<card><name id="CreptAlongCarefully">Crept Along Carefully</name><set>Balrog</set></card>
+		<card><name id="CreptAlongCarefully">Crept Along Carefully</name><set>Balrog</set></card>
+		<card><name id="CreptAlongCarefully">Crept Along Carefully</name><set>Balrog</set></card>
+		<card><name id="DarkQuarrels">Dark Quarrels</name><set>Wizards</set></card>
+		<card><name id="DarkQuarrels">Dark Quarrels</name><set>Wizards</set></card>
+		<card><name id="DarkQuarrels">Dark Quarrels</name><set>Wizards</set></card>
+		<card><name id="SecretEntrance">Secret Entrance</name><set>Wizards</set></card>
+		<card><name id="SecretEntrance">Secret Entrance</name><set>Wizards</set></card>
+		<card><name id="SecretEntrance">Secret Entrance</name><set>Wizards</set></card>
+		<card><name id="Goldberry">Goldberry</name><set>Wizards</set></card>
+		<card><name id="NenseldetheWingild">Nenselde the Wingild</name><set>Dragons</set></card>
+		<card><name id="ChoiceofLuthien">Choice of Luthien</name><set>DarkMinions</set></card>
+		<card><name id="WizardUncloaked">Wizard Uncloaked</name><set>Dragons</set></card>
+		<card><name id="WizardsFire">Wizard&apos;s Fire</name><set>Wizards</set></card>
+		<card><name id="WizardsRing">Wizard&apos;s Ring</name><set>Wizards</set></card>
+	</superzone>
+</deck>

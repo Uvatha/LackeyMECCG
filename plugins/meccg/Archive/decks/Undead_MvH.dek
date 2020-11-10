@@ -1,0 +1,51 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="DaelominatHome">Daelomin at Home</name><set>Dragons</set></card>
+		<card><name id="MouthofSauron">Mouth of Sauron</name><set>Wizards</set></card>
+		<card><name id="RevealedtoallWatchers">Revealed to all Watchers</name><set>DarkMinions</set></card>
+		<card><name id="AnUnexpectedOutpost">An Unexpected Outpost</name><set>DarkMinions</set></card>
+		<card><name id="AnUnexpectedOutpost">An Unexpected Outpost</name><set>DarkMinions</set></card>
+		<card><name id="Twilight">Twilight</name><set>Wizards</set></card>
+		<card><name id="Twilight">Twilight</name><set>Wizards</set></card>
+		<card><name id="Twilight">Twilight</name><set>Wizards</set></card>
+		<card><name id="TheMoonIsDead">The Moon Is Dead</name><set>DarkMinions</set></card>
+		<card><name id="TheMoonIsDead">The Moon Is Dead</name><set>DarkMinions</set></card>
+		<card><name id="TheMoonIsDead">The Moon Is Dead</name><set>DarkMinions</set></card>
+		<card><name id="PlagueofWights">Plague of Wights</name><set>Wizards</set></card>
+		<card><name id="PlagueofWights">Plague of Wights</name><set>Wizards</set></card>
+		<card><name id="PlagueofWights">Plague of Wights</name><set>Wizards</set></card>
+		<card><name id="DoorsofNight">Doors of Night</name><set>Wizards</set></card>
+		<card><name id="DoorsofNight">Doors of Night</name><set>Wizards</set></card>
+		<card><name id="DoorsofNight">Doors of Night</name><set>Wizards</set></card>
+		<card><name id="ChillDouser">Chill Douser</name><set>DarkMinions</set></card>
+		<card><name id="ChillDouser">Chill Douser</name><set>DarkMinions</set></card>
+		<card><name id="ChillDouser">Chill Douser</name><set>DarkMinions</set></card>
+		<card><name id="StirringBones">Stirring Bones</name><set>DarkMinions</set></card>
+		<card><name id="StirringBones">Stirring Bones</name><set>DarkMinions</set></card>
+		<card><name id="StirringBones">Stirring Bones</name><set>DarkMinions</set></card>
+		<card><name id="Ghosts2">Ghosts *</name><set>LidlessEye</set></card>
+		<card><name id="Ghosts2">Ghosts *</name><set>LidlessEye</set></card>
+		<card><name id="Ghosts2">Ghosts *</name><set>LidlessEye</set></card>
+		<card><name id="Barrowwight">Barrow-wight</name><set>Wizards</set></card>
+		<card><name id="Barrowwight">Barrow-wight</name><set>Wizards</set></card>
+		<card><name id="MorgulNight">Morgul Night</name><set>Wizards</set></card>
+		<card><name id="MorgulNight">Morgul Night</name><set>Wizards</set></card>
+		<card><name id="MorgulNight">Morgul Night</name><set>Wizards</set></card>
+		<card><name id="FoulFumes">Foul Fumes</name><set>Wizards</set></card>
+		<card><name id="FoulFumes">Foul Fumes</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="LostinFreedomains">Lost in Free-domains</name><set>Wizards</set></card>
+		<card><name id="CallofHome">Call of Home</name><set>Wizards</set></card>
+		<card><name id="RolleddowntotheSea">Rolled down to the Sea</name><set>WhiteHand</set></card>
+		<card><name id="MusterDisperses">Muster Disperses</name><set>Wizards</set></card>
+		<card><name id="LostatSea">Lost at Sea</name><set>Wizards</set></card>
+		<card><name id="ItangastAhunt">Itangast Ahunt</name><set>Dragons</set></card>
+		<card><name id="TheWayisShut">The Way is Shut</name><set>DarkMinions</set></card>
+		<card><name id="Twilight">Twilight</name><set>Wizards</set></card>
+		<card><name id="ReachingShadow">Reaching Shadow</name><set>DarkMinions</set></card>
+	</superzone>
+</deck>

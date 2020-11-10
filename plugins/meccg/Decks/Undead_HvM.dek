@@ -1,0 +1,37 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="ChillDouser">Chill Douser</name><set>DarkMinions</set></card>
+		<card><name id="ChillDouser">Chill Douser</name><set>DarkMinions</set></card>
+		<card><name id="ChillDouser">Chill Douser</name><set>DarkMinions</set></card>
+		<card><name id="Ghosts2">Ghosts *</name><set>LidlessEye</set></card>
+		<card><name id="Adunaphel">Adunaphel</name><set>Wizards</set></card>
+		<card><name id="DaelominatHome">Daelomin at Home</name><set>Dragons</set></card>
+		<card><name id="MouthofSauron">Mouth of Sauron</name><set>Wizards</set></card>
+		<card><name id="ExhalationofDecay">Exhalation of Decay</name><set>DarkMinions</set></card>
+		<card><name id="ExhalationofDecay">Exhalation of Decay</name><set>DarkMinions</set></card>
+		<card><name id="TheMoonIsDead">The Moon Is Dead</name><set>DarkMinions</set></card>
+		<card><name id="TheMoonIsDead">The Moon Is Dead</name><set>DarkMinions</set></card>
+		<card><name id="TheMoonIsDead">The Moon Is Dead</name><set>DarkMinions</set></card>
+		<card><name id="StirringBones">Stirring Bones</name><set>DarkMinions</set></card>
+		<card><name id="StirringBones">Stirring Bones</name><set>DarkMinions</set></card>
+		<card><name id="River2">River *</name><set>LidlessEye</set></card>
+		<card><name id="River2">River *</name><set>LidlessEye</set></card>
+		<card><name id="River2">River *</name><set>LidlessEye</set></card>
+		<card><name id="Twilight2">Twilight *</name><set>LidlessEye</set></card>
+		<card><name id="Twilight2">Twilight *</name><set>LidlessEye</set></card>
+		<card><name id="Twilight2">Twilight *</name><set>LidlessEye</set></card>
+		<card><name id="AnUnexpectedOutpost">An Unexpected Outpost</name><set>DarkMinions</set></card>
+		<card><name id="AnUnexpectedOutpost">An Unexpected Outpost</name><set>DarkMinions</set></card>
+		<card><name id="RevealedtoallWatchers">Revealed to all Watchers</name><set>DarkMinions</set></card>
+		<card><name id="WispofPaleSheen">Wisp of Pale Sheen</name><set>DarkMinions</set></card>
+		<card><name id="WispofPaleSheen">Wisp of Pale Sheen</name><set>DarkMinions</set></card>
+		<card><name id="WispofPaleSheen">Wisp of Pale Sheen</name><set>DarkMinions</set></card>
+		<card><name id="Barrowwight2">Barrow-wight *</name><set>LidlessEye</set></card>
+		<card><name id="Barrowwight2">Barrow-wight *</name><set>LidlessEye</set></card>
+		<card><name id="EnchantedStream">Enchanted Stream</name><set>AgainstShadow</set></card>
+		<card><name id="EnchantedStream">Enchanted Stream</name><set>AgainstShadow</set></card>
+	</superzone>
+</deck>

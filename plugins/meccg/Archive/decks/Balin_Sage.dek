@@ -1,0 +1,16 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Balin, Dwarf of All Trades">Balin, Dwarf of All Trades</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Son of Fundin">Son of Fundin</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Balin">Balin</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Balin">Balin</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Balin">Balin</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Trusted Counselor">Trusted Counselor</name><set>Firstborn</set></card>
+		<card><name id="Kingdom of Old Restored">Kingdom of Old Restored</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Knowledge of Earth_s Treasures">Knowledge of Earth&apos;s Treasures</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Return to Old Dwellings">Return to Old Dwellings</name><set>Durin&apos;s Folk</set></card>
+	</superzone>
+</deck>

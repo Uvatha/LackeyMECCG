@@ -1,0 +1,8 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="NewsofDoom">News of Doom</name><set>LidlessEye</set></card>
+	</superzone>
+</deck>

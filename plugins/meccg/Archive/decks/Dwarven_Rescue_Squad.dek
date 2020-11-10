@@ -1,0 +1,77 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Dwarven Axe">Dwarven Axe</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Dwarven Axe">Dwarven Axe</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Dwarven Axe">Dwarven Axe</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="TorqueofHues">Torque of Hues</name><set>Wizards</set></card>
+		<card><name id="DurinsAxe">Durin&apos;s Axe</name><set>Wizards</set></card>
+		<card><name id="TheDwarvesAreuponYou">The Dwarves Are upon You!</name><set>DarkMinions</set></card>
+		<card><name id="TheDwarvesAreuponYou">The Dwarves Are upon You!</name><set>DarkMinions</set></card>
+		<card><name id="TheDwarvesAreuponYou">The Dwarves Are upon You!</name><set>DarkMinions</set></card>
+		<card><name id="AnUnexpectedParty">An Unexpected Party</name><set>DarkMinions</set></card>
+		<card><name id="AnUnexpectedParty">An Unexpected Party</name><set>DarkMinions</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="RiskyBlow">Risky Blow</name><set>Wizards</set></card>
+		<card><name id="RiskyBlow">Risky Blow</name><set>Wizards</set></card>
+		<card><name id="RiskyBlow">Risky Blow</name><set>Wizards</set></card>
+		<card><name id="HundredsofButterflies">Hundreds of Butterflies</name><set>DarkMinions</set></card>
+		<card><name id="HundredsofButterflies">Hundreds of Butterflies</name><set>DarkMinions</set></card>
+		<card><name id="HundredsofButterflies">Hundreds of Butterflies</name><set>DarkMinions</set></card>
+		<card><name id="KnowledgeoftheEnemy">Knowledge of the Enemy</name><set>DarkMinions</set></card>
+		<card><name id="KnowledgeoftheEnemy">Knowledge of the Enemy</name><set>DarkMinions</set></card>
+		<card><name id="KnowledgeoftheEnemy">Knowledge of the Enemy</name><set>DarkMinions</set></card>
+		<card><name id="Orcrist">Orcrist</name><set>Wizards</set></card>
+		<card><name id="Wormsbane">Wormsbane</name><set>Dragons</set></card>
+		<card><name id="RescuePrisoners">Rescue Prisoners</name><set>Wizards</set></card>
+		<card><name id="RescuePrisoners">Rescue Prisoners</name><set>Wizards</set></card>
+		<card><name id="RescuePrisoners">Rescue Prisoners</name><set>Wizards</set></card>
+		<card><name id="Narsil">Narsil</name><set>Wizards</set></card>
+		<card><name id="PalantirofAmonSul">Palantir of Amon Sul</name><set>Wizards</set></card>
+		<card><name id="TheArkenstone">The Arkenstone</name><set>Wizards</set></card>
+		<card><name id="TheMithrilcoat">The Mithril-coat</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="ThrainII">Thrain II</name><set>Dragons</set></card>
+		<card><name id="Gloin">Gloin</name><set>Wizards</set></card>
+		<card><name id="Bifur">Bifur</name><set>Wizards</set></card>
+		<card><name id="Bofur">Bofur</name><set>Wizards</set></card>
+		<card><name id="Nori">Nori</name><set>Wizards</set></card>
+		<card><name id="RumoursofRings">Rumours of Rings</name><set>Balrog</set></card>
+		<card><name id="Starglass">Star-glass</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Location Deck">
+		<card><name id="Pallando">Pallando</name><set>Wizards</set></card>
+		<card><name id="Pallando">Pallando</name><set>Wizards</set></card>
+		<card><name id="Pallando">Pallando</name><set>Wizards</set></card>
+		<card><name id="ThorinII">Thorin II</name><set>Wizards</set></card>
+		<card><name id="Balin">Balin</name><set>Wizards</set></card>
+		<card><name id="Cirdan">Cirdan</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="Forod">Forod</name><set>Dragons</set></card>
+		<card><name id="BlueMountainDwarves">Blue Mountain Dwarves</name><set>Wizards</set></card>
+		<card><name id="AChanceMeeting">A Chance Meeting</name><set>Wizards</set></card>
+		<card><name id="IronHillDwarves">Iron Hill Dwarves</name><set>Wizards</set></card>
+		<card><name id="Goldberry">Goldberry</name><set>Wizards</set></card>
+		<card><name id="TomBombadil">Tom Bombadil</name><set>Wizards</set></card>
+		<card><name id="AFriendorThree">A Friend or Three</name><set>Wizards</set></card>
+		<card><name id="AFriendorThree">A Friend or Three</name><set>Wizards</set></card>
+		<card><name id="OldFriendship">Old Friendship</name><set>Wizards</set></card>
+		<card><name id="OldFriendship">Old Friendship</name><set>Wizards</set></card>
+		<card><name id="DwarvenRingofDurinsTribe">Dwarven Ring of Durin&apos;s Tribe</name><set>Wizards</set></card>
+		<card><name id="DwarvenRingofBarinsTribe">Dwarven Ring of Barin&apos;s Tribe</name><set>Wizards</set></card>
+		<card><name id="WizardsLaughter">Wizard&apos;s Laughter</name><set>Wizards</set></card>
+		<card><name id="FairGoldRing">Fair Gold Ring</name><set>Wizards</set></card>
+		<card><name id="Thranduil">Thranduil</name><set>Wizards</set></card>
+		<card><name id="DwarvenRingofDwalinsTribe">Dwarven Ring of Dwalin&apos;s Tribe</name><set>Wizards</set></card>
+		<card><name id="PasstheDoorsofDolGuldur">Pass the Doors of Dol Guldur</name><set>DarkMinions</set></card>
+		<card><name id="PasstheDoorsofDolGuldur">Pass the Doors of Dol Guldur</name><set>DarkMinions</set></card>
+	</superzone>
+</deck>

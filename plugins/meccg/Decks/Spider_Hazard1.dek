@@ -1,0 +1,37 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="WakeofWar">Wake of War</name><set>Wizards</set></card>
+		<card><name id="WakeofWar">Wake of War</name><set>Wizards</set></card>
+		<card><name id="WakeofWar">Wake of War</name><set>Wizards</set></card>
+		<card><name id="SpawnofUngoliant">Spawn of Ungoliant</name><set>Balrog</set></card>
+		<card><name id="Shelob">Shelob</name><set>Wizards</set></card>
+		<card><name id="UngoliantsProgeny">Ungoliant&apos;s Progeny</name><set>Balrog</set></card>
+		<card><name id="UngoliantsFoulIssue">Ungoliant&apos;s Foul Issue</name><set>Balrog</set></card>
+		<card><name id="MonstrosityofDiverseShape">Monstrosity of Diverse Shape</name><set>Balrog</set></card>
+		<card><name id="SpideroftheMorlat">Spider of the Morlat</name><set>DarkMinions</set></card>
+		<card><name id="FullofFrothandRage">Full of Froth and Rage</name><set>AgainstShadow</set></card>
+		<card><name id="FullofFrothandRage">Full of Froth and Rage</name><set>AgainstShadow</set></card>
+		<card><name id="FullofFrothandRage">Full of Froth and Rage</name><set>AgainstShadow</set></card>
+		<card><name id="PiercedbyManyWounds">Pierced by Many Wounds</name><set>DarkMinions</set></card>
+		<card><name id="PiercedbyManyWounds">Pierced by Many Wounds</name><set>DarkMinions</set></card>
+		<card><name id="PiercedbyManyWounds">Pierced by Many Wounds</name><set>DarkMinions</set></card>
+		<card><name id="ShelobsBrood">Shelob&apos;s Brood</name><set>Balrog</set></card>
+		<card><name id="ShelobsBrood">Shelob&apos;s Brood</name><set>Balrog</set></card>
+		<card><name id="ShelobsBrood">Shelob&apos;s Brood</name><set>Balrog</set></card>
+		<card><name id="LesserSpiders">Lesser Spiders</name><set>Dragons</set></card>
+		<card><name id="LesserSpiders">Lesser Spiders</name><set>Dragons</set></card>
+		<card><name id="LesserSpiders">Lesser Spiders</name><set>Dragons</set></card>
+		<card><name id="GiantSpiders2">Giant Spiders *</name><set>LidlessEye</set></card>
+		<card><name id="GiantSpiders2">Giant Spiders *</name><set>LidlessEye</set></card>
+		<card><name id="GiantSpiders2">Giant Spiders *</name><set>LidlessEye</set></card>
+		<card><name id="PowerBuiltbyWaiting">Power Built by Waiting</name><set>AgainstShadow</set></card>
+		<card><name id="PowerBuiltbyWaiting">Power Built by Waiting</name><set>AgainstShadow</set></card>
+		<card><name id="WatcherintheWater2">Watcher in the Water *</name><set>LidlessEye</set></card>
+		<card><name id="WatcherintheWater2">Watcher in the Water *</name><set>LidlessEye</set></card>
+		<card><name id="CarrionFeeders">Carrion Feeders</name><set>Balrog</set></card>
+		<card><name id="CarrionFeeders">Carrion Feeders</name><set>Balrog</set></card>
+	</superzone>
+</deck>

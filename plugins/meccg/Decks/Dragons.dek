@@ -1,0 +1,39 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Agburanar">Agburanar</name><set>Wizards</set></card>
+		<card><name id="Bairanax">Bairanax</name><set>Dragons</set></card>
+		<card><name id="Cavedrake">Cave-drake</name><set>Wizards</set></card>
+		<card><name id="Cavedrake">Cave-drake</name><set>Wizards</set></card>
+		<card><name id="Cavedrake">Cave-drake</name><set>Wizards</set></card>
+		<card><name id="Daelomin">Daelomin</name><set>Wizards</set></card>
+		<card><name id="Itangast">Itangast</name><set>Dragons</set></card>
+		<card><name id="Leucaruth">Leucaruth</name><set>Wizards</set></card>
+		<card><name id="Scatha">Scatha</name><set>Dragons</set></card>
+		<card><name id="Smaug">Smaug</name><set>Wizards</set></card>
+		<card><name id="AgburanaratHome">Agburanar at Home</name><set>Dragons</set></card>
+		<card><name id="AgburanarAhunt">Agburanar Ahunt</name><set>Dragons</set></card>
+		<card><name id="DaelominatHome">Daelomin at Home</name><set>Dragons</set></card>
+		<card><name id="DragonsDesolation">Dragon&apos;s Desolation</name><set>Wizards</set></card>
+		<card><name id="DragonsDesolation">Dragon&apos;s Desolation</name><set>Wizards</set></card>
+		<card><name id="DragonsDesolation">Dragon&apos;s Desolation</name><set>Wizards</set></card>
+		<card><name id="EarcaraxeAhunt">Earcaraxe Ahunt</name><set>Dragons</set></card>
+		<card><name id="FeverofUnrest">Fever of Unrest</name><set>Dragons</set></card>
+		<card><name id="FoesShallFall">Foes Shall Fall</name><set>DarkMinions</set></card>
+		<card><name id="FrenzyofMadness">Frenzy of Madness</name><set>Dragons</set></card>
+		<card><name id="FromthePitsofAngband">From the Pits of Angband</name><set>Dragons</set></card>
+		<card><name id="ParsimonyofSeclusion">Parsimony of Seclusion</name><set>Dragons</set></card>
+		<card><name id="ParsimonyofSeclusion">Parsimony of Seclusion</name><set>Dragons</set></card>
+		<card><name id="ParsimonyofSeclusion">Parsimony of Seclusion</name><set>Dragons</set></card>
+		<card><name id="ProwessofAge">Prowess of Age</name><set>Dragons</set></card>
+		<card><name id="ProwessofAge">Prowess of Age</name><set>Dragons</set></card>
+		<card><name id="ProwessofAge">Prowess of Age</name><set>Dragons</set></card>
+		<card><name id="RumorofWealth">Rumor of Wealth</name><set>Dragons</set></card>
+		<card><name id="SummonsfromLongSleep">Summons from Long Sleep</name><set>AgainstShadow</set></card>
+		<card><name id="MouthofSauron">Mouth of Sauron</name><set>Wizards</set></card>
+		<card><name id="RevealedtoallWatchers">Revealed to all Watchers</name><set>DarkMinions</set></card>
+		<card><name id="WitheredLands">Withered Lands</name><set>Dragons</set></card>
+	</superzone>
+</deck>

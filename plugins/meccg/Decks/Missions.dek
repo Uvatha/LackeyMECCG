@@ -1,0 +1,66 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="A Friend of Yore">A Friend of Yore</name><set>Firstborn</set></card>
+		<card><name id="BurningRickCotandTree">Burning Rick, Cot, and Tree</name><set>LidlessEye</set></card>
+		<card><name id="Burned and Choppedup">Burned and Chopped-up</name><set>War of the Ring</set></card>
+		<card><name id="ChoiceofLuthien">Choice of Luthien</name><set>DarkMinions</set></card>
+		<card><name id="Clean the Greenwood">Clean the Greenwood</name><set>Firstborn</set></card>
+		<card><name id="Crystals of Bilak-Khald">Crystals of Bilak-Khald</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Curse the Baggins!.jpg">Curse the Baggins!</name><set>Necromancer</set></card>
+		<card><name id="Dark Forges.jpg">Dark Forges</name><set>Necromancer</set></card>
+		<card><name id="DarkNumbers">Dark Numbers</name><set>DarkMinions</set></card>
+		<card><name id="Dark Spires Rising.jpg">Dark Spires Rising</name><set>Necromancer</set></card>
+		<card><name id="Deep Mountain Fortress">Deep Mountain Fortess</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Eryn Lasgalen">Eryn Lasgalen</name><set>Firstborn</set></card>
+		<card><name id="FateoftheIthilstone">Fate of the Ithil-stone</name><set>DarkMinions</set></card>
+		<card><name id="Glades of Flowering Stone">Glades of Flowering Stone</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="GreatArmyoftheNorth">Great Army of the North</name><set>Balrog</set></card>
+		<card><name id="Great Bow of Lorien">Great Bow of Lorien</name><set>Firstborn</set></card>
+		<card><name id="Have You Seen Baggins.jpg">Have You Seen Baggins?</name><set>Necromancer</set></card>
+		<card><name id="He&apos;s for LugbÃºrz.jpg">He&apos;s for LugbÃºrz</name><set>Necromancer</set></card>
+		<card><name id="Hoard Gathering">Hoard Gathering</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="IntotheSmokingCone">Into the Smoking Cone</name><set>DarkMinions</set></card>
+		<card><name id="KillAllButNOTtheHalflings">Kill All But NOT the Halflings</name><set>LidlessEye</set></card>
+		<card><name id="Kingdom of Old Restored">Kingdom of Old Restored</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Land of the Necromancer.jpg">Land of the Necromancer</name><set>Necromancer</set></card>
+		<card><name id="LongGrievousSiege">Long Grievous Siege</name><set>Balrog</set></card>
+		<card><name id="NewsoftheShire">News of the Shire</name><set>LidlessEye</set></card>
+		<card><name id="No Abiding Place.jpg">No Abiding Place</name><set>Necromancer</set></card>
+		<card><name id="PasstheDoorsofDolGuldur">Pass the Doors of Dol Guldur</name><set>DarkMinions</set></card>
+		<card><name id="Profitable Trade">Profitable Trade</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Reconstructed Towers">Reconstructed Towers</name><set>Firstborn</set></card>
+		<card><name id="RescuePrisoners">Rescue Prisoners</name><set>Wizards</set></card>
+		<card><name id="Return to Old Dwellings">Return to Old Dwellings</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Seekers of Knowledge">Seekers of Knowledge</name><set>Firstborn</set></card>
+		<card><name id="SeizePrisoners">Seize Prisoners</name><set>LidlessEye</set></card>
+		<card><name id="Shelob Ahungered">Shelob Ahungered</name><set>War of the Ring</set></card>
+		<card><name id="SmokeontheWind">Smoke on the Wind</name><set>LidlessEye</set></card>
+		<card><name id="The Slow Torment of Years.jpg">The Slow Torment of Years</name><set>Necromancer</set></card>
+		<card><name id="The Three Are Together">The Three Are Together</name><set>Firstborn</set></card>
+		<card><name id="TheWhiteTree">The White Tree</name><set>Wizards</set></card>
+		<card><name id="TheWhiteWizard">The White Wizard</name><set>WhiteHand</set></card>
+		<card><name id="TheWindlordFoundMe">The Windlord Found Me</name><set>DarkMinions</set></card>
+		<card><name id="There&apos;s Queer Folk About.jpg">There&apos;s Queer Folk About</name><set>Necromancer</set></card>
+		<card><name id="This Cannot Be Borne!">This Cannot Be Borne!</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="ToSatisfytheQuestioner">To Satisfy the Questioner</name><set>LidlessEye</set></card>
+		<card><name id="TotheUttermostFoundations">To the Uttermost Foundations</name><set>DarkMinions</set></card>
+		<card><name id="Tower of Ecthelion">Tower of Ecthelion</name><set>War of the Ring</set></card>
+		<card><name id="TowerRaided">Tower Raided</name><set>AgainstShadow</set></card>
+		<card><name id="Towers Destroyed">Towers Destroyed</name><set>Firstborn</set></card>
+		<card><name id="TreasontheGreatestFoe">Treason the Greatest Foe</name><set>AgainstShadow</set></card>
+		<card><name id="TributeGarnered">Tribute Garnered</name><set>AgainstShadow</set></card>
+		<card><name id="Use with Terrible Effect.jpg">Use with Terrible Effect</name><set>Necromancer</set></card>
+		<card><name id="UseYourLegs">Use Your Legs</name><set>AgainstShadow</set></card>
+		<card><name id="VeinofArda">Vein of Arda</name><set>DarkMinions</set></card>
+		<card><name id="Watch over Mordor.jpg">Watch over Mordor</name><set>Necromancer</set></card>
+		<card><name id="Watch over Mordor">Watch over Mordor</name><set>War of the Ring</set></card>
+		<card><name id="WhenIKnowAnything">When I Know Anything</name><set>Dragons</set></card>
+		<card><name id="WhenYouKnowMore">When You Know More</name><set>DarkMinions</set></card>
+		<card><name id="Wholesome Forest.jpg">Wholesome Forest</name><set>Necromancer</set></card>
+		<card><name id="Wizards Pupil">Wizard&apos;s Pupil</name><set>War of the Ring</set></card>
+		<card><name id="Youve Come Back Changed">You&apos;ve Come Back Changed</name><set>War of the Ring</set></card>
+	</superzone>
+</deck>

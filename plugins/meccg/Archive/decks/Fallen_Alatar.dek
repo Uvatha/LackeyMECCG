@@ -1,0 +1,69 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="BowofAlatar">Bow of Alatar</name><set>WhiteHand</set></card>
+		<card><name id="GreatPatron">Great Patron</name><set>WhiteHand</set></card>
+		<card><name id="HuntsmansGarb">Huntsman&apos;s Garb</name><set>WhiteHand</set></card>
+		<card><name id="JointheHunt">Join the Hunt</name><set>WhiteHand</set></card>
+		<card><name id="LegacyofSmiths">Legacy of Smiths</name><set>WhiteHand</set></card>
+		<card><name id="TheGreatHunt">The Great Hunt</name><set>WhiteHand</set></card>
+		<card><name id="Alatar2">Alatar *</name><set>WhiteHand</set></card>
+		<card><name id="Alatar2">Alatar *</name><set>WhiteHand</set></card>
+		<card><name id="Alatar2">Alatar *</name><set>WhiteHand</set></card>
+		<card><name id="FramFramson">Fram Framson</name><set>Dragons</set></card>
+		<card><name id="TheHunt">The Hunt</name><set>DarkMinions</set></card>
+		<card><name id="TheHunt">The Hunt</name><set>DarkMinions</set></card>
+		<card><name id="StarofHighHope">Star of High Hope</name><set>Dragons</set></card>
+		<card><name id="StarofHighHope">Star of High Hope</name><set>Dragons</set></card>
+		<card><name id="Sun">Sun</name><set>Wizards</set></card>
+		<card><name id="Sun">Sun</name><set>Wizards</set></card>
+		<card><name id="TheCockCrows">The Cock Crows</name><set>Wizards</set></card>
+		<card><name id="TheCockCrows">The Cock Crows</name><set>Wizards</set></card>
+		<card><name id="SkiesofFire">Skies of Fire</name><set>LidlessEye</set></card>
+		<card><name id="SkiesofFire">Skies of Fire</name><set>LidlessEye</set></card>
+		<card><name id="EchoofAllJoy">Echo of All Joy</name><set>Dragons</set></card>
+		<card><name id="EchoofAllJoy">Echo of All Joy</name><set>Dragons</set></card>
+		<card><name id="Fellowship">Fellowship</name><set>Wizards</set></card>
+		<card><name id="Fellowship">Fellowship</name><set>Wizards</set></card>
+		<card><name id="WeHaveCometoKill">We Have Come to Kill</name><set>LidlessEye</set></card>
+		<card><name id="WeHaveCometoKill">We Have Come to Kill</name><set>LidlessEye</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="GathererofLoyalties">Gatherer of Loyalties</name><set>WhiteHand</set></card>
+		<card><name id="Wormsbane">Wormsbane</name><set>Dragons</set></card>
+		<card><name id="Glamdring">Glamdring</name><set>Wizards</set></card>
+		<card><name id="ThoroughSearch">Thorough Search</name><set>Wizards</set></card>
+		<card><name id="ThoroughSearch">Thorough Search</name><set>Wizards</set></card>
+		<card><name id="CatchanElusiveScent">Catch an Elusive Scent</name><set>LidlessEye</set></card>
+		<card><name id="CatchanElusiveScent">Catch an Elusive Scent</name><set>LidlessEye</set></card>
+		<card><name id="DarkTryst">Dark Tryst</name><set>AgainstShadow</set></card>
+		<card><name id="DarkTryst">Dark Tryst</name><set>AgainstShadow</set></card>
+		<card><name id="HoardWellsearched">Hoard Well-searched</name><set>AgainstShadow</set></card>
+		<card><name id="HoardWellsearched">Hoard Well-searched</name><set>AgainstShadow</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="Faramir">Faramir</name><set>Wizards</set></card>
+		<card><name id="SquireoftheHunt">Squire of the Hunt</name><set>WhiteHand</set></card>
+		<card><name id="BoromirII">Boromir II</name><set>Wizards</set></card>
+		<card><name id="Beregond">Beregond</name><set>Wizards</set></card>
+		<card><name id="Surion">Surion</name><set>DarkMinions</set></card>
+		<card><name id="ThralloftheVoice">Thrall of the Voice</name><set>WhiteHand</set></card>
+		<card><name id="ShieldofIronboundAsh">Shield of Iron-bound Ash</name><set>Wizards</set></card>
+		<card><name id="ThrorsMap">Thror&apos;s Map</name><set>Dragons</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="TrosHesnef">Tros Hesnef</name><set>LidlessEye</set></card>
+		<card><name id="Gulla">Gulla</name><set>LidlessEye</set></card>
+		<card><name id="Carambor">Carambor</name><set>LidlessEye</set></card>
+		<card><name id="Halbarad">Halbarad</name><set>Wizards</set></card>
+		<card><name id="Herion">Herion</name><set>DarkMinions</set></card>
+		<card><name id="TheSunUnveiled">The Sun Unveiled</name><set>AgainstShadow</set></card>
+		<card><name id="TheSunUnveiled">The Sun Unveiled</name><set>AgainstShadow</set></card>
+		<card><name id="TowerGuardofMinasTirith">Tower Guard of Minas Tirith</name><set>Wizards</set></card>
+		<card><name id="OromesWarders">Orome&apos;s Warders</name><set>WhiteHand</set></card>
+	</superzone>
+</deck>

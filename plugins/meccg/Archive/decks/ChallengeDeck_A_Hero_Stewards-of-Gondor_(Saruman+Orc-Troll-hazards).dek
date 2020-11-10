@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title>Saruman_challenge</title>
+		<author>Cristian</author>
+		<email></email>
+		<date>08-26-09</date>
+		<game>meccg</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="Saruman">Saruman</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Saruman">Saruman</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Saruman">Saruman</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Theoden">Theoden</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Peath">Peath</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Ioreth">Ioreth</name>
+			<set>Dragons</set>
+		</card>
+		<card>
+			<name id="Haldir">Haldir</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Balin">Balin</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Glamdring">Glamdring</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="HauberkofBrightMail">Hauberk of Bright Mail</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="HauberkofBrightMail">Hauberk of Bright Mail</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="KnightsofDolAmroth">Knights of Dol Amroth</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="MenofAnfalas">Men of Anfalas</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="MenofAnorien">Men of Anorien</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="MenofLebennin">Men of Lebennin</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="PalantirofOrthanc">Palantir of Orthanc</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="RangersofIthilien">Rangers of Ithilien</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="SaplingoftheWhiteTree">Sapling of the White Tree</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="ScrollofIsildur">Scroll of Isildur</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Treebeard">Treebeard</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="AndForthHeHastened">And Forth He Hastened</name>
+			<set>Dragons</set>
+		</card>
+		<card>
+			<name id="Concealment">Concealment</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Concealment">Concealment</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Concealment">Concealment</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="DarkQuarrels">Dark Quarrels</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="DarkQuarrels">Dark Quarrels</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Dodge">Dodge</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Dodge">Dodge</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="GreatShip">Great Ship</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="HalflingStrength">Halfling Strength</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="HalflingStrength">Halfling Strength</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="MarvelsTold">Marvels Told</name>
+			<set>Dragons</set>
+		</card>
+		<card>
+			<name id="MarvelsTold">Marvels Told</name>
+			<set>Dragons</set>
+		</card>
+		<card>
+			<name id="MarvelsTold">Marvels Told</name>
+			<set>Dragons</set>
+		</card>
+		<card>
+			<name id="SmokeRings">Smoke Rings</name>
+			<set>DarkMinions</set>
+		</card>
+		<card>
+			<name id="Stealth">Stealth</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Stealth">Stealth</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Stealth">Stealth</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="BertBurat">Bert (Burat)</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="TomTuma">Tom (Tuma)</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="WilliamWuluag">William (Wuluag)</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Hobgoblins">Hobgoblins</name>
+			<set>Dragons</set>
+		</card>
+		<card>
+			<name id="Hobgoblins">Hobgoblins</name>
+			<set>Dragons</set>
+		</card>
+		<card>
+			<name id="Hobgoblins">Hobgoblins</name>
+			<set>Dragons</set>
+		</card>
+		<card>
+			<name id="LittleSnuffler">Little Snuffler</name>
+			<set>DarkMinions</set>
+		</card>
+		<card>
+			<name id="Orcguard">Orc-guard</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Orclieutenant">Orc-lieutenant</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Orclieutenant">Orc-lieutenant</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Orclieutenant">Orc-lieutenant</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Orcwarband">Orc-warband</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Orcwarband">Orc-warband</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Orcwatch">Orc-watch</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Orcwatch">Orc-watch</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Orcwatch">Orc-watch</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="AloneandUnadvised">Alone and Unadvised</name>
+			<set>AgainstShadow</set>
+		</card>
+		<card>
+			<name id="AloneandUnadvised">Alone and Unadvised</name>
+			<set>AgainstShadow</set>
+		</card>
+		<card>
+			<name id="AnUnexpectedOutpost">An Unexpected Outpost</name>
+			<set>DarkMinions</set>
+		</card>
+		<card>
+			<name id="AnUnexpectedOutpost">An Unexpected Outpost</name>
+			<set>DarkMinions</set>
+		</card>
+		<card>
+			<name id="ChokingShadows">Choking Shadows</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="DoorsofNight">Doors of Night</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="DoorsofNight">Doors of Night</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="DoorsofNight">Doors of Night</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="MinionsStir">Minions Stir</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="MinionsStir">Minions Stir</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="MinionsStir">Minions Stir</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Twilight">Twilight</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Twilight">Twilight</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="TwoorThreeTribesPresent">Two or Three Tribes Present</name>
+			<set>DarkMinions</set>
+		</card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card>
+			<name id="Adrazar">Adrazar</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="HornofAnor">Horn of Anor</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Anborn">Anborn</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="FattyBolger">Fatty Bolger</name>
+			<set>Promo</set>
+		</card>
+		<card>
+			<name id="Cram">Cram</name>
+			<set>Dragons</set>
+		</card>
+		<card>
+			<name id="GlorfindelII">Glorfindel II</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="SamGamgee">Sam Gamgee</name>
+			<set>Wizards</set>
+		</card>
+	</superzone>
+	<superzone name="Location Deck">
+		<card>
+			<name id="DolAmroth">Dol Amroth</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Edhellond">Edhellond</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Edhellond">Edhellond</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Edoras">Edoras</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="GlitteringCaves">Glittering Caves</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="HennethAnnun">Henneth Annun</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Isengard">Isengard</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="IsleoftheUlond">Isle of the Ulond</name>
+			<set>Dragons</set>
+		</card>
+		<card>
+			<name id="LondGalen">Lond Galen</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Lorien">Lorien</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Lorien">Lorien</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="MinasTirith">Minas Tirith</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Moria">Moria</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Pelargir">Pelargir</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Rivendell">Rivendell</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Rivendell">Rivendell</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Tolfalas">Tolfalas</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Wellinghall">Wellinghall</name>
+			<set>Wizards</set>
+		</card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card>
+			<name id="Alatar">Alatar</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="AlignPalantir">Align Palantir</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="ManyTurnsandDoublings">Many Turns and Doublings</name>
+			<set>Dragons</set>
+		</card>
+		<card>
+			<name id="PromptingsofWisdom">Promptings of Wisdom</name>
+			<set>WhiteHand</set>
+		</card>
+		<card>
+			<name id="PromptingsofWisdom">Promptings of Wisdom</name>
+			<set>WhiteHand</set>
+		</card>
+		<card>
+			<name id="RebuildtheTown">Rebuild the Town</name>
+			<set>DarkMinions</set>
+		</card>
+		<card>
+			<name id="RidersofRohan">Riders of Rohan</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Vanishment">Vanishment</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="TheWhiteTree">The White Tree</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="WizardUncloaked">Wizard Uncloaked</name>
+			<set>Dragons</set>
+		</card>
+		<card>
+			<name id="WizardsLaughter">Wizard&apos;s Laughter</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="CallofHome">Call of Home</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="EarcaraxeAhunt">Earcaraxe Ahunt</name>
+			<set>Dragons</set>
+		</card>
+		<card>
+			<name id="InciteDefenders">Incite Defenders</name>
+			<set>LidlessEye</set>
+		</card>
+		<card>
+			<name id="MusterDisperses">Muster Disperses</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="MusterDisperses">Muster Disperses</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="MusterDisperses">Muster Disperses</name>
+			<set>Wizards</set>
+		</card>
+		<card>
+			<name id="Rebeltalk">Rebel-talk</name>
+			<set>LidlessEye</set>
+		</card>
+		<card>
+			<name id="Rebeltalk">Rebel-talk</name>
+			<set>LidlessEye</set>
+		</card>
+		<card>
+			<name id="Twilight">Twilight</name>
+			<set>Wizards</set>
+		</card>
+	</superzone>
+</deck>

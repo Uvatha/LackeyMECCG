@@ -1,0 +1,64 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="FramFramson">Fram Framson</name><set>Dragons</set></card>
+		<card><name id="Skinchanger">Skin-changer</name><set>Dragons</set></card>
+		<card><name id="Skinchanger">Skin-changer</name><set>Dragons</set></card>
+		<card><name id="Skinchanger">Skin-changer</name><set>Dragons</set></card>
+		<card><name id="Wormsbane">Wormsbane</name><set>Dragons</set></card>
+		<card><name id="TheOldThrush">The Old Thrush</name><set>Wizards</set></card>
+		<card><name id="TheOldThrush">The Old Thrush</name><set>Wizards</set></card>
+		<card><name id="TheOldThrush">The Old Thrush</name><set>Wizards</set></card>
+		<card><name id="Orcrist">Orcrist</name><set>Wizards</set></card>
+		<card><name id="Alatar">Alatar</name><set>Wizards</set></card>
+		<card><name id="Alatar">Alatar</name><set>Wizards</set></card>
+		<card><name id="Alatar">Alatar</name><set>Wizards</set></card>
+		<card><name id="SacrificeofForm">Sacrifice of Form</name><set>Wizards</set></card>
+		<card><name id="AChanceMeeting">A Chance Meeting</name><set>Wizards</set></card>
+		<card><name id="AChanceMeeting">A Chance Meeting</name><set>Wizards</set></card>
+		<card><name id="AChanceMeeting">A Chance Meeting</name><set>Wizards</set></card>
+		<card><name id="NecklaceofGirion">Necklace of Girion</name><set>DarkMinions</set></card>
+		<card><name id="SmaugatHome">Smaug at Home</name><set>Dragons</set></card>
+		<card><name id="DaelominatHome">Daelomin at Home</name><set>Dragons</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="ArrowsShornofEbony">Arrows Shorn of Ebony</name><set>Dragons</set></card>
+		<card><name id="ArrowsShornofEbony">Arrows Shorn of Ebony</name><set>Dragons</set></card>
+		<card><name id="ArrowsShornofEbony">Arrows Shorn of Ebony</name><set>Dragons</set></card>
+		<card><name id="Glamdring">Glamdring</name><set>Wizards</set></card>
+		<card><name id="Beornings">Beornings</name><set>Wizards</set></card>
+		<card><name id="BoromirII">Boromir II</name><set>Wizards</set></card>
+		<card><name id="RiskyBlow">Risky Blow</name><set>Wizards</set></card>
+		<card><name id="RiskyBlow">Risky Blow</name><set>Wizards</set></card>
+		<card><name id="RiskyBlow">Risky Blow</name><set>Wizards</set></card>
+		<card><name id="SecretPassage">Secret Passage</name><set>Wizards</set></card>
+		<card><name id="SecretPassage">Secret Passage</name><set>Wizards</set></card>
+		<card><name id="SecretPassage">Secret Passage</name><set>Wizards</set></card>
+		<card><name id="Woodelves">Wood-elves</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="Beorn">Beorn</name><set>Wizards</set></card>
+		<card><name id="DainII">Dain II</name><set>Wizards</set></card>
+		<card><name id="BlackArrow">Black Arrow</name><set>Promo</set></card>
+		<card><name id="Legolas">Legolas</name><set>Wizards</set></card>
+		<card><name id="Cram">Cram</name><set>Dragons</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="TheWhiteWizard">The White Wizard</name><set>WhiteHand</set></card>
+		<card><name id="EmeraldofDoriath">Emerald of Doriath</name><set>Dragons</set></card>
+		<card><name id="KingundertheMountain">King under the Mountain</name><set>Dragons</set></card>
+		<card><name id="WizardsStaff">Wizard&apos;s Staff</name><set>Dragons</set></card>
+		<card><name id="ReturnedExiles">Returned Exiles</name><set>Dragons</set></card>
+		<card><name id="RoactheRaven">Roäc the Raven</name><set>Wizards</set></card>
+		<card><name id="TheArkenstone">The Arkenstone</name><set>Wizards</set></card>
+		<card><name id="EmeraldoftheMariner">Emerald of the Mariner</name><set>Dragons</set></card>
+		<card><name id="PowerAgainsttheShadow">Power Against the Shadow</name><set>AgainstShadow</set></card>
+		<card><name id="PowerAgainsttheShadow">Power Against the Shadow</name><set>AgainstShadow</set></card>
+		<card><name id="PowerAgainsttheShadow">Power Against the Shadow</name><set>AgainstShadow</set></card>
+	</superzone>
+</deck>

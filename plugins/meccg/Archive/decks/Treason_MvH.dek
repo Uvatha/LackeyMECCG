@@ -1,0 +1,16 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Location Deck">
+		<card><name id="TreasontheGreatestFoe">Treason the Greatest Foe</name><set>AgainstShadow</set></card>
+		<card><name id="TreasontheGreatestFoe">Treason the Greatest Foe</name><set>AgainstShadow</set></card>
+		<card><name id="TreasontheGreatestFoe">Treason the Greatest Foe</name><set>AgainstShadow</set></card>
+		<card><name id="HoundsofSauron">Hounds of Sauron</name><set>AgainstShadow</set></card>
+		<card><name id="HoundsofSauron">Hounds of Sauron</name><set>AgainstShadow</set></card>
+		<card><name id="HoundsofSauron">Hounds of Sauron</name><set>AgainstShadow</set></card>
+		<card><name id="SoYouveComeBack">So You&apos;ve Come Back</name><set>LidlessEye</set></card>
+		<card><name id="ShutYerMouth">Shut Yer Mouth</name><set>LidlessEye</set></card>
+		<card><name id="Saruman2">Saruman *</name><set>WhiteHand</set></card>
+	</superzone>
+</deck>

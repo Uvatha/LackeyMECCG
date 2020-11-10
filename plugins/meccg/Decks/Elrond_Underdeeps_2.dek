@@ -1,0 +1,54 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Fellowship">Fellowship</name><set>Wizards</set></card>
+		<card><name id="Fellowship">Fellowship</name><set>Wizards</set></card>
+		<card><name id="Fellowship">Fellowship</name><set>Wizards</set></card>
+		<card><name id="Narya">Narya</name><set>Wizards</set></card>
+		<card><name id="Narya">Narya</name><set>Wizards</set></card>
+		<card><name id="Narya">Narya</name><set>Wizards</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="FavoroftheValar">Favor of the Valar</name><set>Wizards</set></card>
+		<card><name id="Orcrist">Orcrist</name><set>Wizards</set></card>
+		<card><name id="Aiglos">Aiglos</name><set>DarkMinions</set></card>
+		<card><name id="Dragonhelm">Dragon-helm</name><set>DarkMinions</set></card>
+		<card><name id="DwarvenLightstone">Dwarven Light-stone</name><set>DarkMinions</set></card>
+		<card><name id="DwarvenLightstone">Dwarven Light-stone</name><set>DarkMinions</set></card>
+		<card><name id="DwarvenLightstone">Dwarven Light-stone</name><set>DarkMinions</set></card>
+		<card><name id="Woodmen">Woodmen</name><set>Wizards</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="AndForthHeHastened">And Forth He Hastened</name><set>Dragons</set></card>
+		<card><name id="AndForthHeHastened">And Forth He Hastened</name><set>Dragons</set></card>
+		<card><name id="AndForthHeHastened">And Forth He Hastened</name><set>Dragons</set></card>
+		<card><name id="TotheUttermostFoundations">To the Uttermost Foundations</name><set>DarkMinions</set></card>
+		<card><name id="NobleHound">Noble Hound</name><set>DarkMinions</set></card>
+		<card><name id="NobleHound">Noble Hound</name><set>DarkMinions</set></card>
+		<card><name id="VeinofArda">Vein of Arda</name><set>DarkMinions</set></card>
+		<card><name id="Vilya">Vilya</name><set>Wizards</set></card>
+		<card><name id="Vilya">Vilya</name><set>Wizards</set></card>
+		<card><name id="Vilya">Vilya</name><set>Wizards</set></card>
+		<card><name id="GlorfindelII">Glorfindel II</name><set>Wizards</set></card>
+		<card><name id="Gandalf">Gandalf</name><set>Wizards</set></card>
+		<card><name id="Gandalf">Gandalf</name><set>Wizards</set></card>
+		<card><name id="Gandalf">Gandalf</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="Elrond">Elrond</name><set>Wizards</set></card>
+		<card><name id="Wacho">Wacho</name><set>Wizards</set></card>
+		<card><name id="Elrohir">Elrohir</name><set>Wizards</set></card>
+		<card><name id="Elladan">Elladan</name><set>Wizards</set></card>
+		<card><name id="Starglass">Star-glass</name><set>Wizards</set></card>
+		<card><name id="Starglass">Star-glass</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="Mithril">Mithril</name><set>DarkMinions</set></card>
+		<card><name id="VeinofArda">Vein of Arda</name><set>DarkMinions</set></card>
+		<card><name id="VeinofArda">Vein of Arda</name><set>DarkMinions</set></card>
+	</superzone>
+</deck>

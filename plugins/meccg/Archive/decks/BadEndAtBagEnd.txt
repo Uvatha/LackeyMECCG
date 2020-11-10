@@ -1,0 +1,26 @@
+1	Red Book of Westmarch
+2	War-wolf
+3	Weigh All Things to a Nicety
+2	News of the Shire
+2	I'll Report You
+3	Dark Tryst
+3	Broad-headed Spear
+2	Swarm of Bats
+2	Seize Prisoners
+1	Black Mace
+2	Smoke on the Wind
+3	Where There's a Whip
+2	Kill All But NOT the Halflings
+1	High Helm
+1	Thong of Fire
+3	Dwar the Ringwraith
+Starting Company:
+1	Snaga
+1	Muzgash
+1	Shagrat
+2	Orc Veteran
+1	Radbug
+1	Whip
+1	Foul-smelling Paste
+Sideboard:
+1	Sudden Call

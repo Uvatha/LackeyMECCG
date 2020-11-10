@@ -1,0 +1,65 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Narya">Narya</name><set>Wizards</set></card>
+		<card><name id="Narya">Narya</name><set>Wizards</set></card>
+		<card><name id="Narya">Narya</name><set>Wizards</set></card>
+		<card><name id="Nenya">Nenya</name><set>Wizards</set></card>
+		<card><name id="Nenya">Nenya</name><set>Wizards</set></card>
+		<card><name id="Nenya">Nenya</name><set>Wizards</set></card>
+		<card><name id="Vilya">Vilya</name><set>Wizards</set></card>
+		<card><name id="Vilya">Vilya</name><set>Wizards</set></card>
+		<card><name id="Vilya">Vilya</name><set>Wizards</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="FavoroftheValar">Favor of the Valar</name><set>Wizards</set></card>
+		<card><name id="ThreeGoldenHairs">Three Golden Hairs</name><set>Dragons</set></card>
+		<card><name id="PhialofGaladriel">Phial of Galadriel</name><set>DarkMinions</set></card>
+		<card><name id="GlorfindelII">Glorfindel II</name><set>Wizards</set></card>
+		<card><name id="ShowThingsUnbidden">Show Things Unbidden</name><set>Balrog</set></card>
+		<card><name id="ShowThingsUnbidden">Show Things Unbidden</name><set>Balrog</set></card>
+		<card><name id="SafefromtheShadow">Safe from the Shadow</name><set>AgainstShadow</set></card>
+		<card><name id="SafefromtheShadow">Safe from the Shadow</name><set>AgainstShadow</set></card>
+		<card><name id="SafefromtheShadow">Safe from the Shadow</name><set>AgainstShadow</set></card>
+		<card><name id="EmeraldoftheMariner">Emerald of the Mariner</name><set>Dragons</set></card>
+		<card><name id="TheWindlordFoundMe">The Windlord Found Me</name><set>DarkMinions</set></card>
+		<card><name id="TheWindlordFoundMe">The Windlord Found Me</name><set>DarkMinions</set></card>
+		<card><name id="TheWindlordFoundMe">The Windlord Found Me</name><set>DarkMinions</set></card>
+		<card><name id="Gandalf">Gandalf</name><set>Wizards</set></card>
+		<card><name id="Gandalf">Gandalf</name><set>Wizards</set></card>
+		<card><name id="Gandalf">Gandalf</name><set>Wizards</set></card>
+		<card><name id="Woodelves">Wood-elves</name><set>Wizards</set></card>
+		<card><name id="Celeborn">Celeborn</name><set>Wizards</set></card>
+		<card><name id="Gollum">Gollum</name><set>Wizards</set></card>
+		<card><name id="GoldBeltofLorien">Gold Belt of Lorien</name><set>Dragons</set></card>
+		<card><name id="Thranduil">Thranduil</name><set>Wizards</set></card>
+		<card><name id="Elladan">Elladan</name><set>Wizards</set></card>
+		<card><name id="Elrohir">Elrohir</name><set>Wizards</set></card>
+		<card><name id="GildorInglorion">Gildor Inglorion</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="Elrond">Elrond</name><set>Wizards</set></card>
+		<card><name id="Halbarad">Halbarad</name><set>Wizards</set></card>
+		<card><name id="Galadriel">Galadriel</name><set>Wizards</set></card>
+		<card><name id="Starglass">Star-glass</name><set>Wizards</set></card>
+		<card><name id="Elfstone">Elf-stone</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="RescuePrisoners">Rescue Prisoners</name><set>Wizards</set></card>
+		<card><name id="RescuePrisoners">Rescue Prisoners</name><set>Wizards</set></card>
+		<card><name id="RescuePrisoners">Rescue Prisoners</name><set>Wizards</set></card>
+		<card><name id="PasstheDoorsofDolGuldur">Pass the Doors of Dol Guldur</name><set>DarkMinions</set></card>
+		<card><name id="PasstheDoorsofDolGuldur">Pass the Doors of Dol Guldur</name><set>DarkMinions</set></card>
+		<card><name id="PasstheDoorsofDolGuldur">Pass the Doors of Dol Guldur</name><set>DarkMinions</set></card>
+		<card><name id="Galdor">Galdor</name><set>Dragons</set></card>
+	</superzone>
+</deck>

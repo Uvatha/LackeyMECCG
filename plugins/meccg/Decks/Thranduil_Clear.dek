@@ -1,0 +1,15 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Starting Company">
+		<card><name id="Legendary Hunt">Legendary Hunt</name><set>Firstborn</set></card>
+		<card><name id="Lord of Wood and Beast">Lord of Wood and Beast</name><set>Firstborn</set></card>
+		<card><name id="Lust for Treasure">Lust for Treasure</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Lust for Treasure">Lust for Treasure</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Possessions of the Green-elves">Possessions of the Green-elves</name><set>Firstborn</set></card>
+		<card><name id="Prince of Mirkwood">Prince of Mirkwood</name><set>Firstborn</set></card>
+		<card><name id="The King_s Hunting">The King&apos;s Hunting</name><set>Firstborn</set></card>
+		<card><name id="Wardens of the Woodland Realm">Wardens of the Woodland Realm</name><set>Firstborn</set></card>
+	</superzone>
+</deck>

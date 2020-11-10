@@ -1,0 +1,45 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="DurinsFolk">Durin&apos;s Folk</name><set>AgainstShadow</set></card>
+		<card><name id="DurinsFolk">Durin&apos;s Folk</name><set>AgainstShadow</set></card>
+		<card><name id="DurinsFolk">Durin&apos;s Folk</name><set>AgainstShadow</set></card>
+		<card><name id="DwarvenTravelers">Dwarven Travelers</name><set>AgainstShadow</set></card>
+		<card><name id="DwarvenTravelers">Dwarven Travelers</name><set>AgainstShadow</set></card>
+		<card><name id="DwarvenTravelers">Dwarven Travelers</name><set>AgainstShadow</set></card>
+		<card><name id="ElflordRevealedinWrath">Elf-lord Revealed in Wrath</name><set>LidlessEye</set></card>
+		<card><name id="ElflordRevealedinWrath">Elf-lord Revealed in Wrath</name><set>LidlessEye</set></card>
+		<card><name id="ElflordRevealedinWrath">Elf-lord Revealed in Wrath</name><set>LidlessEye</set></card>
+		<card><name id="EntinSearchoftheEntwives">Ent in Search of the Entwives</name><set>LidlessEye</set></card>
+		<card><name id="EntinSearchoftheEntwives">Ent in Search of the Entwives</name><set>LidlessEye</set></card>
+		<card><name id="EntinSearchoftheEntwives">Ent in Search of the Entwives</name><set>LidlessEye</set></card>
+		<card><name id="GandalftheWhiteRider">Gandalf the White Rider</name><set>AgainstShadow</set></card>
+		<card><name id="LadyoftheGoldenWood">Lady of the Golden Wood</name><set>AgainstShadow</set></card>
+		<card><name id="LordoftheCarrock">Lord of the Carrock</name><set>AgainstShadow</set></card>
+		<card><name id="LordoftheHaven">Lord of the Haven</name><set>AgainstShadow</set></card>
+		<card><name id="MasteroftheHouse">Master of the House</name><set>AgainstShadow</set></card>
+		<card><name id="PallandotheSoulkeeper">Pallando the Soul-keeper</name><set>AgainstShadow</set></card>
+		<card><name id="RadagasttheTamer">Radagast the Tamer</name><set>AgainstShadow</set></card>
+		<card><name id="SarumantheWise">Saruman the Wise</name><set>AgainstShadow</set></card>
+		<card><name id="ThranduilsFolk">Thranduil&apos;s Folk</name><set>LidlessEye</set></card>
+		<card><name id="ThranduilsFolk">Thranduil&apos;s Folk</name><set>LidlessEye</set></card>
+		<card><name id="TurningHopetoDespair">Turning Hope to Despair</name><set>AgainstShadow</set></card>
+		<card><name id="TurningHopetoDespair">Turning Hope to Despair</name><set>AgainstShadow</set></card>
+		<card><name id="TurningHopetoDespair">Turning Hope to Despair</name><set>AgainstShadow</set></card>
+		<card><name id="WanderingEldar">Wandering Eldar</name><set>LidlessEye</set></card>
+		<card><name id="WanderingEldar">Wandering Eldar</name><set>LidlessEye</set></card>
+		<card><name id="WanderingEldar">Wandering Eldar</name><set>LidlessEye</set></card>
+		<card><name id="ChillThemwithFear">Chill Them with Fear</name><set>LidlessEye</set></card>
+		<card><name id="ChillThemwithFear">Chill Them with Fear</name><set>LidlessEye</set></card>
+		<card><name id="ChillThemwithFear">Chill Them with Fear</name><set>LidlessEye</set></card>
+		<card><name id="MouthofSauron">Mouth of Sauron</name><set>Wizards</set></card>
+		<card><name id="Adunaphel">Adunaphel</name><set>Wizards</set></card>
+		<card><name id="UvathatheHorseman">Uvatha the Horseman</name><set>Wizards</set></card>
+		<card><name id="ReturnedBeyondAllHope">Returned Beyond All Hope</name><set>AgainstShadow</set></card>
+		<card><name id="Twilight2">Twilight *</name><set>LidlessEye</set></card>
+		<card><name id="Twilight2">Twilight *</name><set>LidlessEye</set></card>
+		<card><name id="Twilight2">Twilight *</name><set>LidlessEye</set></card>
+	</superzone>
+</deck>

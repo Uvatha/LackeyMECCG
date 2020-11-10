@@ -1,0 +1,42 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="SummonsfromLongSleep">Summons from Long Sleep</name><set>AgainstShadow</set></card>
+		<card><name id="SummonsfromLongSleep">Summons from Long Sleep</name><set>AgainstShadow</set></card>
+		<card><name id="SummonsfromLongSleep">Summons from Long Sleep</name><set>AgainstShadow</set></card>
+		<card><name id="DoorsofNight">Doors of Night</name><set>Wizards</set></card>
+		<card><name id="DoorsofNight">Doors of Night</name><set>Wizards</set></card>
+		<card><name id="DoorsofNight">Doors of Night</name><set>Wizards</set></card>
+		<card><name id="PowerBuiltbyWaiting">Power Built by Waiting</name><set>AgainstShadow</set></card>
+		<card><name id="PowerBuiltbyWaiting">Power Built by Waiting</name><set>AgainstShadow</set></card>
+		<card><name id="WitheredLands">Withered Lands</name><set>Dragons</set></card>
+		<card><name id="WitheredLands">Withered Lands</name><set>Dragons</set></card>
+		<card><name id="WitheredLands">Withered Lands</name><set>Dragons</set></card>
+		<card><name id="LostintheWilderness">Lost in the Wilderness</name><set>Wizards</set></card>
+		<card><name id="LostintheWilderness">Lost in the Wilderness</name><set>Wizards</set></card>
+		<card><name id="CaveWorm">Cave Worm</name><set>Dragons</set></card>
+		<card><name id="CaveWorm">Cave Worm</name><set>Dragons</set></card>
+		<card><name id="CaveWorm">Cave Worm</name><set>Dragons</set></card>
+		<card><name id="AnUnexpectedOutpost">An Unexpected Outpost</name><set>DarkMinions</set></card>
+		<card><name id="AnUnexpectedOutpost">An Unexpected Outpost</name><set>DarkMinions</set></card>
+		<card><name id="WingedColddrake">Winged Cold-drake</name><set>Dragons</set></card>
+		<card><name id="WingedColddrake">Winged Cold-drake</name><set>Dragons</set></card>
+		<card><name id="WingedColddrake">Winged Cold-drake</name><set>Dragons</set></card>
+		<card><name id="WingedFiredrake">Winged Fire-drake</name><set>Dragons</set></card>
+		<card><name id="WingedFiredrake">Winged Fire-drake</name><set>Dragons</set></card>
+		<card><name id="WingedFiredrake">Winged Fire-drake</name><set>Dragons</set></card>
+		<card><name id="FoesShallFall">Foes Shall Fall</name><set>DarkMinions</set></card>
+		<card><name id="FoesShallFall">Foes Shall Fall</name><set>DarkMinions</set></card>
+		<card><name id="TrueFiredrake">True Fire-drake</name><set>Dragons</set></card>
+		<card><name id="TrueFiredrake">True Fire-drake</name><set>Dragons</set></card>
+		<card><name id="SmaugatHome">Smaug at Home</name><set>Dragons</set></card>
+		<card><name id="DaelominatHome">Daelomin at Home</name><set>Dragons</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="NamelessThing">Nameless Thing</name><set>DarkMinions</set></card>
+		<card><name id="NamelessThing">Nameless Thing</name><set>DarkMinions</set></card>
+		<card><name id="NamelessThing">Nameless Thing</name><set>DarkMinions</set></card>
+	</superzone>
+</deck>

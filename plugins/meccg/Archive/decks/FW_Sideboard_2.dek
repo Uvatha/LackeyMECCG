@@ -1,0 +1,17 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="BlindtotheWest">Blind to the West</name><set>WhiteHand</set></card>
+		<card><name id="IreoftheEast">Ire of the East</name><set>WhiteHand</set></card>
+		<card><name id="HeartGrownCold">Heart Grown Cold</name><set>WhiteHand</set></card>
+		<card><name id="NaturesRevenge">Nature&apos;s Revenge</name><set>WhiteHand</set></card>
+		<card><name id="NaturesRevenge">Nature&apos;s Revenge</name><set>WhiteHand</set></card>
+		<card><name id="FoolsBane">Fool&apos;s Bane</name><set>WhiteHand</set></card>
+		<card><name id="BaneoftheIthilstone">Bane of the Ithil-stone</name><set>Wizards</set></card>
+		<card><name id="WildTrolls">Wild Trolls</name><set>LidlessEye</set></card>
+		<card><name id="NamelessThing">Nameless Thing</name><set>DarkMinions</set></card>
+		<card><name id="NamelessThing">Nameless Thing</name><set>DarkMinions</set></card>
+	</superzone>
+</deck>

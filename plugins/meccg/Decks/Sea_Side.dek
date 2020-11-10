@@ -1,0 +1,63 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Belegaer">Belegaer</name><set>Dragons</set></card>
+		<card><name id="Belegaer">Belegaer</name><set>Dragons</set></card>
+		<card><name id="Belegaer">Belegaer</name><set>Dragons</set></card>
+		<card><name id="Southrons">Southrons</name><set>Wizards</set></card>
+		<card><name id="GreatShip">Great Ship</name><set>Wizards</set></card>
+		<card><name id="GreatShip">Great Ship</name><set>Wizards</set></card>
+		<card><name id="GreatShip">Great Ship</name><set>Wizards</set></card>
+		<card><name id="Orcrist">Orcrist</name><set>Wizards</set></card>
+		<card><name id="Wormsbane">Wormsbane</name><set>Dragons</set></card>
+		<card><name id="KnightsofDolAmroth">Knights of Dol Amroth</name><set>Wizards</set></card>
+		<card><name id="WosesofOldPukelland">Woses of Old Pukel-land</name><set>Wizards</set></card>
+		<card><name id="SaplingoftheWhiteTree">Sapling of the White Tree</name><set>Wizards</set></card>
+		<card><name id="NobleSteed">Noble Steed</name><set>WhiteHand</set></card>
+		<card><name id="NobleSteed">Noble Steed</name><set>WhiteHand</set></card>
+		<card><name id="NobleSteed">Noble Steed</name><set>WhiteHand</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="NoStrangersatthisTime">No Strangers at this Time</name><set>AgainstShadow</set></card>
+		<card><name id="NoStrangersatthisTime">No Strangers at this Time</name><set>AgainstShadow</set></card>
+		<card><name id="NoStrangersatthisTime">No Strangers at this Time</name><set>AgainstShadow</set></card>
+		<card><name id="ForewarnedIsForearmed">Forewarned Is Forearmed</name><set>DarkMinions</set></card>
+		<card><name id="Barrowblade">Barrow-blade</name><set>DarkMinions</set></card>
+		<card><name id="Barrowblade">Barrow-blade</name><set>DarkMinions</set></card>
+		<card><name id="SecretPassage">Secret Passage</name><set>Wizards</set></card>
+		<card><name id="SecretPassage">Secret Passage</name><set>Wizards</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="Narsil">Narsil</name><set>Wizards</set></card>
+		<card><name id="FairTravelsinWilderness">Fair Travels in Wilderness</name><set>Wizards</set></card>
+		<card><name id="FairTravelsinWilderness">Fair Travels in Wilderness</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="Cirdan">Cirdan</name><set>Wizards</set></card>
+		<card><name id="Elladan">Elladan</name><set>Wizards</set></card>
+		<card><name id="Strider">Strider</name><set>Balrog</set></card>
+		<card><name id="DaggerofWesternesse">Dagger of Westernesse</name><set>Wizards</set></card>
+		<card><name id="DaggerofWesternesse">Dagger of Westernesse</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Location Deck">
+		<card><name id="Imrahil">Imrahil</name><set>Wizards</set></card>
+		<card><name id="AragornII">Aragorn II</name><set>Wizards</set></card>
+		<card><name id="Alatar">Alatar</name><set>Wizards</set></card>
+		<card><name id="Alatar">Alatar</name><set>Wizards</set></card>
+		<card><name id="Alatar">Alatar</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="TheWhiteTree">The White Tree</name><set>Wizards</set></card>
+		<card><name id="ReturnoftheKing">Return of the King</name><set>Wizards</set></card>
+		<card><name id="TheHunt">The Hunt</name><set>DarkMinions</set></card>
+		<card><name id="TheOldThrush">The Old Thrush</name><set>Wizards</set></card>
+		<card><name id="WizardsLaughter">Wizard&apos;s Laughter</name><set>Wizards</set></card>
+		<card><name id="OldFriendship">Old Friendship</name><set>Wizards</set></card>
+		<card><name id="PalantirofMinasTirith">Palantir of Minas Tirith</name><set>Wizards</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="WizardUncloaked">Wizard Uncloaked</name><set>Dragons</set></card>
+		<card><name id="WithdrawntoMordor">Withdrawn to Mordor</name><set>DarkMinions</set></card>
+	</superzone>
+</deck>

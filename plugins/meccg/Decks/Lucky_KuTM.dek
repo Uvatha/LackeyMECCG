@@ -1,0 +1,69 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="GatesofMorning">Gates of Morning</name><set>Wizards</set></card>
+		<card><name id="GatesofMorning">Gates of Morning</name><set>Wizards</set></card>
+		<card><name id="GatesofMorning">Gates of Morning</name><set>Wizards</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="SmokeRings">Smoke Rings</name><set>DarkMinions</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LongbottomLeaf">Longbottom Leaf</name><set>Balrog</set></card>
+		<card><name id="LuckySearch">Lucky Search</name><set>Wizards</set></card>
+		<card><name id="LuckySearch">Lucky Search</name><set>Wizards</set></card>
+		<card><name id="LuckySearch">Lucky Search</name><set>Wizards</set></card>
+		<card><name id="DarkQuarrels">Dark Quarrels</name><set>Wizards</set></card>
+		<card><name id="DarkQuarrels">Dark Quarrels</name><set>Wizards</set></card>
+		<card><name id="DarkQuarrels">Dark Quarrels</name><set>Wizards</set></card>
+		<card><name id="ManyTurnsandDoublings">Many Turns and Doublings</name><set>Dragons</set></card>
+		<card><name id="ManyTurnsandDoublings">Many Turns and Doublings</name><set>Dragons</set></card>
+		<card><name id="ManyTurnsandDoublings">Many Turns and Doublings</name><set>Dragons</set></card>
+		<card><name id="EnrunedShield">Enruned Shield</name><set>Dragons</set></card>
+		<card><name id="BookofMazarbul">Book of Mazarbul</name><set>Wizards</set></card>
+		<card><name id="BlueMountainDwarves">Blue Mountain Dwarves</name><set>Wizards</set></card>
+		<card><name id="Gollum">Gollum</name><set>Wizards</set></card>
+		<card><name id="TheDwarvesAreuponYou">The Dwarves Are upon You!</name><set>DarkMinions</set></card>
+		<card><name id="TheDwarvesAreuponYou">The Dwarves Are upon You!</name><set>DarkMinions</set></card>
+		<card><name id="TheDwarvesAreuponYou">The Dwarves Are upon You!</name><set>DarkMinions</set></card>
+		<card><name id="TheWindlordFoundMe">The Windlord Found Me</name><set>DarkMinions</set></card>
+		<card><name id="TheWindlordFoundMe">The Windlord Found Me</name><set>DarkMinions</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+		<card><name id="MarvelsTold">Marvels Told</name><set>Dragons</set></card>
+	</superzone>
+	<superzone name="Starting Company">
+		<card><name id="ThorinII">Thorin II</name><set>Wizards</set></card>
+		<card><name id="Halbarad">Halbarad</name><set>Wizards</set></card>
+		<card><name id="Cram">Cram</name><set>Dragons</set></card>
+		<card><name id="Cram">Cram</name><set>Dragons</set></card>
+		<card><name id="ThrainII">Thrain II</name><set>Dragons</set></card>
+	</superzone>
+	<superzone name="Location Deck">
+		<card><name id="Radagast">Radagast</name><set>Wizards</set></card>
+		<card><name id="Radagast">Radagast</name><set>Wizards</set></card>
+		<card><name id="Radagast">Radagast</name><set>Wizards</set></card>
+		<card><name id="Thranduil">Thranduil</name><set>Wizards</set></card>
+		<card><name id="GlorfindelII">Glorfindel II</name><set>Wizards</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="KingundertheMountain">King under the Mountain</name><set>Dragons</set></card>
+		<card><name id="ReturnedExiles">Returned Exiles</name><set>Dragons</set></card>
+		<card><name id="TheOldThrush">The Old Thrush</name><set>Wizards</set></card>
+		<card><name id="TheOldThrush">The Old Thrush</name><set>Wizards</set></card>
+		<card><name id="SacrificeofForm">Sacrifice of Form</name><set>Wizards</set></card>
+		<card><name id="TheArkenstone">The Arkenstone</name><set>Wizards</set></card>
+		<card><name id="Wormsbane">Wormsbane</name><set>Dragons</set></card>
+		<card><name id="DurinsAxe">Durin&apos;s Axe</name><set>Wizards</set></card>
+		<card><name id="WizardsLaughter">Wizard&apos;s Laughter</name><set>Wizards</set></card>
+		<card><name id="OldFriendship">Old Friendship</name><set>Wizards</set></card>
+		<card><name id="OldFriendship">Old Friendship</name><set>Wizards</set></card>
+		<card><name id="IronHillDwarves">Iron Hill Dwarves</name><set>Wizards</set></card>
+		<card><name id="Orcrist">Orcrist</name><set>Wizards</set></card>
+		<card><name id="EmeraldoftheMariner">Emerald of the Mariner</name><set>Dragons</set></card>
+		<card><name id="SatedBeast">Sated Beast</name><set>Dragons</set></card>
+		<card><name id="Gloin">Gloin</name><set>Wizards</set></card>
+	</superzone>
+</deck>

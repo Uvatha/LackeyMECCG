@@ -1,0 +1,27 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="IntheHeartofhisRealm">In the Heart of his Realm</name><set>DarkMinions</set></card>
+		<card><name id="WholeVillagesRoused">Whole Villages Roused</name><set>WhiteHand</set></card>
+		<card><name id="NewsofDoom">News of Doom</name><set>LidlessEye</set></card>
+		<card><name id="SoYouveComeBack">So You&apos;ve Come Back</name><set>LidlessEye</set></card>
+		<card><name id="EarcaraxeAhunt">Earcaraxe Ahunt</name><set>Dragons</set></card>
+		<card><name id="SeizedbyTerror">Seized by Terror</name><set>DarkMinions</set></card>
+		<card><name id="BaneoftheIthilstone">Bane of the Ithil-stone</name><set>Wizards</set></card>
+		<card><name id="LureofPower">Lure of Power</name><set>Wizards</set></card>
+		<card><name id="StayHerAppetite">Stay Her Appetite</name><set>LidlessEye</set></card>
+		<card><name id="MordorinArms">Mordor in Arms</name><set>DarkMinions</set></card>
+		<card><name id="LureofNature">Lure of Nature</name><set>Wizards</set></card>
+		<card><name id="UnabatedinMalice">Unabated in Malice</name><set>Balrog</set></card>
+		<card><name id="BeorningSkinchangers">Beorning Skin-changers</name><set>Balrog</set></card>
+		<card><name id="MusterDisperses">Muster Disperses</name><set>Wizards</set></card>
+		<card><name id="RolleddowntotheSea">Rolled down to the Sea</name><set>WhiteHand</set></card>
+		<card><name id="AloneandUnadvised">Alone and Unadvised</name><set>AgainstShadow</set></card>
+		<card><name id="CallofHome">Call of Home</name><set>Wizards</set></card>
+		<card><name id="TheBalanceofThings">The Balance of Things</name><set>Wizards</set></card>
+		<card><name id="LostatSea">Lost at Sea</name><set>Wizards</set></card>
+		<card><name id="LostinFreedomains">Lost in Free-domains</name><set>Wizards</set></card>
+	</superzone>
+</deck>

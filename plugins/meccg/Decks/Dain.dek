@@ -1,0 +1,10 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Starting Company">
+		<card><name id="Nali">Nali</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Gimli, Son of Gloin">Gimli, Son of Gloin</name><set>Durin&apos;s Folk</set></card>
+		<card><name id="Lipor">Lipor</name><set>Durin&apos;s Folk</set></card>
+	</superzone>
+</deck>

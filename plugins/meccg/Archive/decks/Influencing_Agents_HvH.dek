@@ -1,0 +1,40 @@
+<deck version="0.8">
+	<meta>
+		<game>meccg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="GoodSenseRevolts">Good Sense Revolts</name><set>DarkMinions</set></card>
+		<card><name id="GoodSenseRevolts">Good Sense Revolts</name><set>DarkMinions</set></card>
+		<card><name id="NeverSeenHim">Never Seen Him</name><set>DarkMinions</set></card>
+		<card><name id="NeverSeenHim">Never Seen Him</name><set>DarkMinions</set></card>
+		<card><name id="NobodysFriend">Nobody&apos;s Friend</name><set>DarkMinions</set></card>
+		<card><name id="NobodysFriend">Nobody&apos;s Friend</name><set>DarkMinions</set></card>
+		<card><name id="NobodysFriend">Nobody&apos;s Friend</name><set>DarkMinions</set></card>
+		<card><name id="TwistedTales">Twisted Tales</name><set>DarkMinions</set></card>
+		<card><name id="YourWelcomeIsDoubtful">Your Welcome Is Doubtful</name><set>DarkMinions</set></card>
+		<card><name id="YourWelcomeIsDoubtful">Your Welcome Is Doubtful</name><set>DarkMinions</set></card>
+		<card><name id="Twilight">Twilight</name><set>Wizards</set></card>
+		<card><name id="Twilight">Twilight</name><set>Wizards</set></card>
+		<card><name id="Dror">Dror</name><set>DarkMinions</set></card>
+		<card><name id="Elerina">Elerina</name><set>DarkMinions</set></card>
+		<card><name id="Elwen">Elwen</name><set>DarkMinions</set></card>
+		<card><name id="ForitheBeardless">Fori the Beardless</name><set>DarkMinions</set></card>
+		<card><name id="LobeliaSackvilleBaggins">Lobelia Sackville-Baggins</name><set>DarkMinions</set></card>
+		<card><name id="Surion">Surion</name><set>DarkMinions</set></card>
+		<card><name id="Wormtongue">Wormtongue</name><set>DarkMinions</set></card>
+		<card><name id="AnUnexpectedOutpost">An Unexpected Outpost</name><set>DarkMinions</set></card>
+		<card><name id="AnUnexpectedOutpost">An Unexpected Outpost</name><set>DarkMinions</set></card>
+		<card><name id="MouthofSauron">Mouth of Sauron</name><set>Wizards</set></card>
+		<card><name id="DurinsBane">Durin&apos;s Bane</name><set>DarkMinions</set></card>
+		<card><name id="Icedrake">Ice-drake</name><set>Dragons</set></card>
+		<card><name id="Icedrake">Ice-drake</name><set>Dragons</set></card>
+		<card><name id="OlogWarlords">Olog Warlords</name><set>Balrog</set></card>
+		<card><name id="OlogWarlords">Olog Warlords</name><set>Balrog</set></card>
+		<card><name id="Cavedrake">Cave-drake</name><set>Wizards</set></card>
+		<card><name id="Cavedrake">Cave-drake</name><set>Wizards</set></card>
+		<card><name id="CaveWorm2">Cave Worm *</name><set>LidlessEye</set></card>
+	</superzone>
+	<superzone name="Sideboard">
+		<card><name id="ManySorrowsBefall">Many Sorrows Befall</name><set>Dragons</set></card>
+	</superzone>
+</deck>
